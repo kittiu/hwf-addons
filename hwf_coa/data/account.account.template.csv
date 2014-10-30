@@ -1,0 +1,452 @@
+id,name,code,parent_id/id,type,user_type/id,reconcile
+0,Chart of Account – HWF,0,,View,account.data_account_type_root_view,FALSE
+1,Statement of Financial Position,1,0,View,account.data_account_type_root_view,FALSE
+1000-00,Assets - สินทรัพย์,1000-00,1,View,account.data_account_type_asset_view,FALSE
+1100-00,Current Assets - สินทรัพย์หมุนเวียน,1100-00,1000-00,View,account.data_account_type_asset_view,FALSE
+1110-00,Cash and Cash equivalents - เงินสดและรายการเทียบเท่าเงินสด,1110-00,1100-00,View,account.data_account_type_asset_view,FALSE
+1111-00,Petty Cash - เงินสด,1111-00,1110-00,Liquidity,account.data_account_type_cash,FALSE
+1113-00,Bank – Saving Accounts - เงินฝากออมทรัพย์,1113-00,1110-00,View,account.data_account_type_asset_view,FALSE
+1113-01,Bank – Saving Accounts – Kasikorn - เงินฝากออมทรัพย์ธนาคารกสิกรไทย,1113-01,1113-00,Liquidity,account.data_account_type_bank,FALSE
+1120-00,Advance - เงินทดรองจ่าย,1120-00,1100-00,Regular,account.data_account_type_current_assets,FALSE
+1120-01,Short term investment - เงินลงทุนระยะสั้น,1120-01,1100-00,Regular,account.data_account_type_current_assets,FALSE
+1130-00,Trade and Other Receivables - ลูกหนี้การค้าและตั๋วเงินรับ,1130-00,1100-00,View,account.data_account_type_asset_view,FALSE
+1130-01,Trade Accounts Receivable - ลูกหนี้การค้า,1130-01,1130-00,Receivable,account.data_account_type_receivable,TRUE
+1130-02,Advance – BSHOS - เงินทดรองจ่าย-BSHOS,1130-02,1130-00,Regular,account.data_account_type_current_assets,FALSE
+1130-03,Allowance for Doubtful Account - ค่าเผื่อหนี้สงสัยจะสูญ,1130-03,1130-00,Regular,account.data_account_type_current_assets,FALSE
+1150-00,Other Current Assets - สินทรัพย์หมุนเวียนอื่น,1150-00,1100-00,View,account.data_account_type_asset_view,FALSE
+1151-00,Prepaid Expenses - ค่าใช้จ่ายจ่ายล่วงหน้า,1151-00,1100-00,View,account.data_account_type_asset_view,FALSE
+1151-04,Advance to Staff - ค่าใช้จ่ายจ่ายล่วงหน้า-อื่นๆ,1151-04,1151-00,Regular,account.data_account_type_current_assets,FALSE
+1151-05,Advance / Prepaid (other donors) - ค่าใช้จ่ายจ่ายล่วงหน้า-ภาษีหัก,1151-05,1151-00,Regular,account.data_account_type_current_assets,FALSE
+1151-06,Deposit - เงินมัดจำ,1151-06,1151-00,Regular,account.data_account_type_current_assets,FALSE
+2000-00,Liabilities - หนี้สิน,2000-00,1,View,account.data_account_type_liability_view,FALSE
+2100-00,Current Liabilities - หนี้สินหมุนเวียน,2100-00,2000-00,View,account.data_account_type_liability_view,FALSE
+2120-00,Trade and Other Payables - เจ้าหนี้การค้าและตั๋วเงินจ่าย,2120-00,2100-00,View,account.data_account_type_liability_view,FALSE
+2120-01,Accounts Payable Trade - เจ้าหนี้การค้า,2120-01,2120-00,Payable,account.data_account_type_payable,TRUE
+2130-00,Other Current Liabilities - หนี้สินหมุนเวียนอื่น,2130-00,2000-00,View,account.data_account_type_liability_view,FALSE
+2131-00,Accrued Expenses - ค่าใช้จ่ายค้างจ่าย,2131-00,2130-00,View,account.data_account_type_liability_view,FALSE
+2131-05,Accrued Expenses – Telephone/Mobile phone - ค่าโทรศัพท์ค้างจ่าย,2131-05,2130-00,Regular,account.data_account_type_current_liabilities,FALSE
+2131-06,Accrued Expenses (Other donors) – Telephone/Mobile phone - ค่าโทรศัพท์ค้างจ่าย (ผู้บริจาคอื่น),2131-06,2130-00,Regular,account.data_account_type_current_liabilities,FALSE
+2131-01,Accrued Expenses – Withholding Tax - ภาษีหัก ณ ที่จ่ายค้างจ่าย,2131-01,2130-00,Regular,account.data_account_type_current_liabilities,FALSE
+3000-00,Net Assets - สินทรัพย์สุทธิ,3000-00,1,View,account.data_account_type_liability_view,FALSE
+3200-00,Excess Revenue over Expenses - รายได้สูงกว่าค่าใช้จ่าย,3200-00,3000-00,Regular,account.data_account_type_equity,FALSE
+3300-00,Permanently restricted net assets - รายได้สูงกว่าค่าใช้จ่ายสะสม,3300-00,3000-00,Regular,account.data_account_type_equity,FALSE
+2,Statement of Activities,2,0,View,account.data_account_type_root_view,FALSE
+4000-00,Revenues - รายได้,4000-00,2,View,account.data_account_type_income_view,FALSE
+4100-00,Income by Donate - รายได้ เงินบริจาค,4100-00,4000-00,View,account.data_account_type_income_view,FALSE
+4100-01,Income by donate/Funds for project : HoGI - เงินบริจาค จาก HoGI,4100-01,4100-00,Regular,account.data_account_type_income,FALSE
+4100-10,Income by donate/Funds for project : HoGA - เงินบริจาค จาก HoGA,4100-10,4100-00,Regular,account.data_account_type_income,FALSE
+4100-11,Income by donate/Funds for project : HoGCH - เงินบริจาค จาก HoGCH,4100-11,4100-00,Regular,account.data_account_type_income,FALSE
+4100-02,Income by donate/Central kitchen - เงินบริจาค โครงการอาหาร,4100-02,4100-00,Regular,account.data_account_type_income,FALSE
+4100-03,Income by donate/Sewing workshop - เงินบริจาค โครงการตัดเย็บ,4100-03,4100-00,Regular,account.data_account_type_income,FALSE
+4100-04,Income by donate/Donation / contribution to office - เงินบริจาค สมทบสำนักงาน,4100-04,4100-00,Regular,account.data_account_type_income,FALSE
+4100-05,Income by donate/Ray of Youth - เงินบริจาค โครงการเยาวชน ROY,4100-05,4100-00,Regular,account.data_account_type_income,FALSE
+4100-06,Income by donate/Scholarship - เงินบริจาค ทุนการศึกษา,4100-06,4100-00,Regular,account.data_account_type_income,FALSE
+4100-07,Income by donate/Emergency - เงินบริจาค ฉุกเฉิน บรรเทาทุกข์,4100-07,4100-00,Regular,account.data_account_type_income,FALSE
+4100-08,Income by donate/Schools budget - contribution from partner - Income by donate/Schools budget - contribution from partner,4100-08,4100-00,Regular,account.data_account_type_income,FALSE
+4100-09,Income by donate/ Activities - เงินบริจาค กิจกรรมทั่วไป,4100-09,4100-00,Regular,account.data_account_type_income,FALSE
+4100-12,Income by donate/ Sub Grant  - เงินบริจาค โครงการอุดหนุน,4100-12,4100-00,Regular,account.data_account_type_income,FALSE
+4200-00,Income from Sales - รายได้จากการขาย,4200-00,4000-00,View,account.data_account_type_income_view,FALSE
+4200-01,Income from sale/Sale - รายได้จากการขายสินค้า,4200-01,4200-00,Regular,account.data_account_type_income,FALSE
+4300-00,Other income - รายได้อื่นๆ,4300-00,4000-00,View,account.data_account_type_income_view,FALSE
+4300-01,Other income/Bank Interest - รายได้ ดอกเบี้ยธนาคาร,4300-01,4300-00,Regular,account.data_account_type_income,FALSE
+5000-00,Expenses - รายจ่าย,5000-00,2,View,account.data_account_type_expense_view,FALSE
+5100-00,"Schools , Training & Dormitory Project - โครงการการศึกษา",5100-00,5000-00,View,account.data_account_type_expense_view,FALSE
+5110-00,Special Area School - โรงเรียนพื้นที่พิเศษ,5110-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5111-00,Special Area School - โรงเรียนพื้นที่พิเศษ,5111-00,5110-00,View,account.data_account_type_expense_view,FALSE
+5111-01,PBLT Primary - โรงเรียนพื้นที่พิเศษ / PBLT Primary,5111-01,5111-00,Regular,account.data_account_type_expense,FALSE
+5111-02,Kaw Poe Kee Primary - โรงเรียนพื้นที่พิเศษ/ Kaw Poe Kee Primary,5111-02,5111-00,Regular,account.data_account_type_expense,FALSE
+5111-03,Kaw Poe Kee Nursery - โรงเรียนพื้นที่พิเศษ/ Kaw Poe Kee Nursery,5111-03,5111-00,Regular,account.data_account_type_expense,FALSE
+5111-04,Hser Poe Hta - โรงเรียนพื้นที่พิเศษ/ Hser Poe Hta,5111-04,5111-00,Regular,account.data_account_type_expense,FALSE
+5112-00,Burma School - โรงเรียนพม่า,5112-00,5110-00,View,account.data_account_type_expense_view,FALSE
+5112-01,Ku Don village School โรงเรียนคูดอน,5112-01,5112-00,Regular,account.data_account_type_expense,FALSE
+5120-00,Migrant School - ศูนย์การเรียนเด็กข้ามชาติ,5120-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5121-00,Rays of Hope School - ศูนย์การเรียน,5121-00,5120-00,View,account.data_account_type_expense_view,FALSE
+5121-01,Ah Yone Thit - ศูนย์การเรียน AYT,5121-01,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-02,Ah Yone Thit (other donor)- ศูนย์การเรียน AYT (other donor),5121-02,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-03,BHSOH - ศูนย์การเรียน BHSOH,5121-03,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-04,BHSOH (other donors) - ศูนย์การเรียน BHSOH (other donors),5121-04,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-05,KM 42 - ศูนย์การเรียน KM 42,5121-05,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-06,KM 42 (other donors) - ศูนย์การเรียน KM 42 (other donors),5121-06,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-07,New Day - ศูนย์การเรียน ND,5121-07,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-08,New Day (other donor)- ศูนย์การเรียน ND (other donor),5121-08,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-09,Paramii - ศูนย์การเรียน PRM,5121-09,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-10,Paramii (other donor)- ศูนย์การเรียน PRM (other donor),5121-10,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-11,Ah Yon Oo - ศูนย์การเรียน AYO,5121-11,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-12,Ah Yon Oo (other donor)- ศูนย์การเรียน AYO (other donor),5121-12,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-13,Pa Yan Daw - ศูนย์การเรียน PYD,5121-13,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-14,Pa Yan Daw (other donor)- ศูนย์การเรียน PYD (other donor),5121-14,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-15,Naung Boh Deh - ศูนย์การเรียน NBD,5121-15,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-16,Naung Boh Deh (other donor)- ศูนย์การเรียน NBD (other donor),5121-16,5121-00,Regular,account.data_account_type_expense,FALSE
+5122-00,Stationery & Book - อุปกรณ์การเรียน หนังสือ,5122-00,5120-00,View,account.data_account_type_expense_view,FALSE
+5122-01,Buy Centrally - อุปการณ์การเรียน หนังสือ ซื้อส่วนกลาง,5122-01,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-02,Teaching material emergency - อุปกรณ์การเรียน หนังสือ สื่อ อุปกรณ์การสอน,5122-02,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-03,Buy Centrally(other donors) - อุปการณ์การเรียน หนังสือ ซื้อส่วนกลาง (other donor),5122-03,5122-00,Regular,account.data_account_type_expense,FALSE
+5123-00,Scholarship - ทุนการศึกษา,5123-00,5120-00,View,account.data_account_type_expense_view,FALSE
+5123-01,Scholarship for Rays of Hope school student - ทุนการศึกษา Rays of Hope,5123-01,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-02,Transportation - ทุนการศึกษา ค่าเดินทาง,5123-02,5123-00,Regular,account.data_account_type_expense,FALSE
+5124-00,Meetings - ประชุม,5124-00,5120-00,View,account.data_account_type_expense_view,FALSE
+5124-01,Monthly headmaster - ประชุม / ประชุมผู้บริหารศูนย์ประจำเดือน,5124-01,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-02,Teacher seminar - ประชุม / สัมมนาครู,5124-02,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-03,Teacher study tour - ทัศนศึกษา ดูงาน,5124-03,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-04,Posten Orientation - ประชุม / แนะแนวเด็กเรียนจบ,5124-04,5124-00,Regular,account.data_account_type_expense,FALSE
+5125-00,"Training,Workshop,Course - อบรม อบรมเชิงปฏิบัติการ",5125-00,5120-00,View,account.data_account_type_expense_view,FALSE
+5125-01,Circus -  กายกรรม Circus,5125-01,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-02,Summer courses - อบรมภาคฤดูร้อน,5125-02,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-03,Computer courses - อบรม อบรมเชิงปฏิบัติการ / อบรมคอมพิวเตอร์,5125-03,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-04,Student exchange - อบรม อบรมเชิงปฏิบัติ / นักเรียนแลกเปลี่ยน,5125-04,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-05,Language course for teacher & student - อบรมเชิงปฏิบัติการ / อบรมภาษาครู นักเรียน,5125-05,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-06,Caretaker (other donor) - อบรม อบรมเชิงปฏิบัติการ / ผู้ดูแลหอพัก (other donor),5125-06,5125-00,Regular,account.data_account_type_expense,FALSE
+5126-00,Vocational training - อบรม อาชีพ,5126-00,5120-00,View,account.data_account_type_expense_view,FALSE
+5126-01,Cooking - อบรมทำอาหาร,5126-01,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-02,Sewing - อบรมตัดเย็บ,5126-02,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-03,Vocational training/Other interested course - อบรมด้านอาชีพ,5126-03,5126-00,Regular,account.data_account_type_expense,FALSE
+5127-00,Activity - กิจกรรม,5127-00,5120-00,View,account.data_account_type_expense_view,FALSE
+5127-01,Student fellowship day - กีฬา,5127-01,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-02,"Events (Culture, Sports) - งาน",5127-02,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-03,Activities with children (football/Swim)-กิจกรรมกับเด็ก ว่ายน้ำ ฟุตบอล,5127-03,5127-00,Regular,account.data_account_type_expense,FALSE
+5130-00,"Contribution to other project, training - สมทบ โครงการ อบรม",5130-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5131-00,"Contribution to other project, training - สมทบ โครงการ อบรม",5131-00,5130-00,View,account.data_account_type_expense_view,FALSE
+5131-01,English special course ESC (No Pho Camp),5131-01,5131-00,Regular,account.data_account_type_expense,FALSE
+5131-02,Other - สมทบโครงการ อบรม / อื่นๆ,5131-02,5131-00,Regular,account.data_account_type_expense,FALSE
+5132-00,Networking - เครือข่าย,5132-00,5130-00,View,account.data_account_type_expense_view,FALSE
+5132-01,Gifts&small donations - สนับสนุนเครือข่าย บริจาค มอบของ,5132-01,5132-00,Regular,account.data_account_type_expense,FALSE
+5140-00,Migrant Dormitories - หอพัก,5140-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5141-00,Ray of Hope Dormitories - หอพัก,5141-00,5140-00,View,account.data_account_type_expense_view,FALSE
+5141-01,Ah Yone Thit,5141-01,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-02,BHSOH - หอพัก BHSOH,5141-02,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-03,Pa Yan Daw - หอพัก PYD,5141-03,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-04,Naung Boh Deh - หอพัก NBD,5141-04,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-05,Paramii -หอพัก PRM,5141-05,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-06,Children Home - หอพัก ChildrenHome,5141-06,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-07,Naung Boh Deh(other donor) - หอพัก NBD (other donor),5141-07,5141-00,Regular,account.data_account_type_expense,FALSE
+5142-00,Migrant Dormitories - หอพัก,5142-00,5140-00,View,account.data_account_type_expense_view,FALSE
+5142-01,Mae La Dormitory - หอพัก / แม่หละ,5142-01,5142-00,Regular,account.data_account_type_expense,FALSE
+5150-00,Education Project assistant (Salary) - ค่าตอบแทน,5150-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5151-00,Education Project assistant (Salary) - ค่าตอบแทน,5151-00,5150-00,View,account.data_account_type_expense_view,FALSE
+5151-01,Education Manager - ผู้จัดการ,5151-01,5151-00,Regular,account.data_account_type_expense,FALSE
+5151-02,Education manager assistant - ผู้ช่วยผู้จัดการ,5151-02,5151-00,Regular,account.data_account_type_expense,FALSE
+5151-03,Work permit - ใบอนุญาตจ้างงาน,5151-03,5151-00,Regular,account.data_account_type_expense,FALSE
+5151-04,Education staff - เจ้าหน้าที่,5151-04,5151-00,Regular,account.data_account_type_expense,FALSE
+5160-00,Building / Construction - อาคาร ก่อสร้าง ซ่อมแซม,5160-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5161-00,General School Renovation ซ่อมแซม ต่อเติม ศูนย์การเรียน,5161-00,5160-00,View,account.data_account_type_expense_view,FALSE
+5161-01,School Renovation ซ่อมแซม ต่อเติม ศูนย์การเรียน,5161-01,5161-00,Regular,account.data_account_type_expense,FALSE
+5161-02,School Renovation (Regione) ซ่อมแซม ต่อเติม ศูนย์การเรียน,5161-02,5161-00,Regular,account.data_account_type_expense,FALSE
+5170-00,Appropriate Education Development - พัฒนาระบบการศึกษาที่เหมาะสม (กศน.),5170-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5170-01,Study possible linking system - ศึกษาการเชื่อมโยงระบบการศึกษา,5170-01,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-02,Develop Model of Education - พัฒนารูปแบบการศึกษา,5170-02,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-03,Promoting collaborative partnership - สร้างความร่วมมือ,5170-03,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-04,Administrative cost - งบบริหารจัดการ,5170-04,5170-00,Regular,account.data_account_type_expense,FALSE
+5180-00,ACCESS - โครงการ Access,5180-00,5100-00,View,account.data_account_type_expense_view,FALSE
+5181-00,Salaries - ค่าตอบแทน,5181-00,5180-00,View,account.data_account_type_expense_view,FALSE
+5181-01,Education project cordinator,5181-01,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-02,Education project satff,5181-02,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-03,Director,5181-03,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-04,Finance Manager,5181-04,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-05,Logisticianist,5181-05,5181-00,Regular,account.data_account_type_expense,FALSE
+5182-00,Transportation - ค่าเดินทาง,5182-00,5180-00,View,account.data_account_type_expense_view,FALSE
+5182-01,Petrol and car manternanc,5182-01,5182-00,Regular,account.data_account_type_expense,FALSE
+5182-02,Per diems for staff,5182-02,5182-00,Regular,account.data_account_type_expense,FALSE
+5182-03,Accommondation package,5182-03,5182-00,Regular,account.data_account_type_expense,FALSE
+5182-04,Air fares,5182-04,5182-00,Regular,account.data_account_type_expense,FALSE
+5183-00,Office expenses,5183-00,5180-00,View,account.data_account_type_expense_view,FALSE
+5183-01,Office supply ของใช้สำนักงาน,5183-01,5183-00,Regular,account.data_account_type_expense,FALSE
+5183-02,Utilities -สาธารณูปโภค,5183-02,5183-00,Regular,account.data_account_type_expense,FALSE
+5183-03,Telephone - ค่าโทรศัพท์,5183-03,5183-00,Regular,account.data_account_type_expense,FALSE
+5183-04,Internet - ค่าอินเตอร์เน็ต,5183-04,5183-00,Regular,account.data_account_type_expense,FALSE
+5184-00,Equipment - เครื่องมือ,5184-00,5180-00,View,account.data_account_type_expense_view,FALSE
+5184-01,Computer,5184-01,5184-00,Regular,account.data_account_type_expense,FALSE
+5185-00,Direct Costs,5185-00,5180-00,View,account.data_account_type_expense_view,FALSE
+5185-01,Running cost (Migrant school)  - ศูนย์การเรียน,5185-01,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-02,Support (Thai school)  - โรงเรียนรัฐ,5185-02,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-03,Textbooks and material - หนังสือ และ วัสดุ,5185-03,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-04,Teacher capacity building - พัฒนาศักยภาพครู,5185-04,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-05,Migrant School Renovation cost - ซ่อมแซมศูนย์การเรียน,5185-05,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-06,Meeting - ประชุม,5185-06,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-06,Audit - ตรวจสอบบัญชี,5185-06,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-07,M&E - วัดผลประเมินผล,5185-07,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-08,Publication - สื่อสิ่งพิมพ์,5185-08,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-09,Campaign - รณรงค์,5185-09,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-10,Provincial Meeting - ประชุมระดับจังหวัด,5185-10,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-11,Based line survey - ศึกษาข้อมูล,5185-11,5185-00,Regular,account.data_account_type_expense,FALSE
+5200-00,Rays of Youth - โครงการเยาวชน,5200-00,5000-00,View,account.data_account_type_expense_view,FALSE
+5201-00,ROY Community Awareness Training - อบรมสร้างความตระหนักรู้,5201-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5201-01,Human Trafficking and CRC - การค้ามนุษย์ และ สิทธิเด็ก,5201-01,5201-00,Regular,account.data_account_type_expense,FALSE
+5201-02,Traffic Rule Training - อบรมกฏจราจร,5201-02,5201-00,Regular,account.data_account_type_expense,FALSE
+5201-03,Life skill and Adolescence Health - ทักษะชีวิต อนามัยเจริญพันธุ์,5201-03,5201-00,Regular,account.data_account_type_expense,FALSE
+5202-00,ROY Leadership Training 2nd group - สร้างผู้นำรุ่น 2,5202-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5202-01,Materials & Equipment - วัสดุ อุปกรณ์,5202-01,5202-00,Regular,account.data_account_type_expense,FALSE
+5202-02,"Community visit, Study tour - เยี่ยมชุมชน และ ทัศนศึกษา",5202-02,5202-00,Regular,account.data_account_type_expense,FALSE
+5202-03,Regular training (Sat) - อบรมประจำ (วันเสาร์),5202-03,5202-00,Regular,account.data_account_type_expense,FALSE
+5203-00,ROY Leadership Training 1st group - สร้างผู้นำรุ่น 1,5203-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5203-01,Materials & Equipment - วัสดุ อุปกรณ์,5203-01,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-02,"Community visit, Study Tour - เยี่ยมชุมชน ทัศศึกษาดูงาน",5203-02,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-03,Fellow up - ติดตาม,5203-03,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-04,Capacity building - เสริมสร้างศักยภาพ,5203-04,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-05,Mini Project - โครงการขนาดเล็ก,5203-05,5203-00,Regular,account.data_account_type_expense,FALSE
+5204-00,ROY Media Production - ผลิตสื่อ,5204-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5204-01,Materials & Equipment - วัสดุ อุปกรณ์,5204-01,5204-00,Regular,account.data_account_type_expense,FALSE
+5204-02,Creative Media workshop - อบรมการผลิตสื่อสร้างสรรค์,5204-02,5204-00,Regular,account.data_account_type_expense,FALSE
+5204-03,ROY Media campaign - สื่อเพื่อการรณรงค์,5204-03,5204-00,Regular,account.data_account_type_expense,FALSE
+5205-00,ROY Environment - สิ่งแวดล้อม,5205-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5205-01,Materials & Ingredients - วัสดุ และ ส่วนประกอบ,5205-01,5205-00,Regular,account.data_account_type_expense,FALSE
+5205-02,Natural Detergent Workshop - อบรมการผลิต,5205-02,5205-00,Regular,account.data_account_type_expense,FALSE
+5206-00,ROY Campaign - รณรงค์,5206-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5206-01,Community Road Show - รณรงค์ชุมชน,5206-01,5206-00,Regular,account.data_account_type_expense,FALSE
+5207-00,ROY Meeting - ประชุม,5207-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5207-01,Project monthly meeting - ประชุมประจำเดือน,5207-01,5207-00,Regular,account.data_account_type_expense,FALSE
+5207-02,Network meeting - ประชุมเครือข่าย,5207-02,5207-00,Regular,account.data_account_type_expense,FALSE
+5208-00,ROY Project Management - บริหารจัดการโครงการ,5208-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5208-01,Office Equipment - อุปกรณ์สำนักงาน,5208-01,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-02,Telephone Internet - โทรศัพท์ อินเตอร์เน็ต,5208-02,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-03,Stationery & Materials - อุปกรณ์การเรียน วัสดุสิ้นเปลือง,5208-03,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-04,Transportation - ค่าเดินทาง,5208-04,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-05,Maintenance and Repair equipment - ซ่อมบำรุง,5208-05,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-06,Staff capacity building - พัฒนาศักยภาพเจ้าหน้าที่,5208-06,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-07,Electricity & Used water - ไฟฟ้า น้ำใช้,5208-07,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-08,Cleaning supplies - วัสดุเพื่อทำความสะอาด,5208-08,5208-00,Regular,account.data_account_type_expense,FALSE
+5209-00,ROY Music Project - โครงการดนตรี,5209-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5209-01,Music training - อบรมดนตรี,5209-01,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-02,Maintenance Improvement - ซ่อมบำรุง,5209-02,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-03,Professional Skill Course - หลักสูตรทักษะมืออาชีพ,5209-03,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-04,Music VDO production - วีดีโอเพลง,5209-04,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-05,Music Equipment - วัสดุทางดนตรี,5209-05,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-06,Outstanding Student Present - รางวัลเด็กเรียนเก่ง,5209-06,5209-00,Regular,account.data_account_type_expense,FALSE
+5210-00,Burma Project - โครงการพม่า,5210-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5210-01,Activity for School student,5210-01,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-02,Activity for At-Risk children and youth-กิจกรรม เด็ก เยาวชนกลุ่มเสี่ยง,5210-02,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-03,Training for parent and teacher - อบรม ครู ผู้ปกครอง,5210-03,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-04,Media activity - กิจกรรมสื่อ,5210-04,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-05,Based line study - ศึกษาชุมชน,5210-05,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-06,Seminar Meeting Home Visit- สัมนา ประชุม เยี่ยม,5210-06,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-07,Office in Hpa An - สำนักงาน Hpa An,5210-07,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-08,Transportation - เดินทาง,5210-08,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-09,Project Management - จัดการโครงการ,5210-09,5210-00,Regular,account.data_account_type_expense,FALSE
+5211-00,Staff - เจ้าหน้าที่,5211-00,5200-00,View,account.data_account_type_expense_view,FALSE
+5211-01,Coordinator - ผู้ประสานงาน,5211-01,5211-00,Regular,account.data_account_type_expense,FALSE
+5211-02,Staff - เจ้าหน้าที่,5211-02,5211-00,Regular,account.data_account_type_expense,FALSE
+5211-03,Volunteer- อาสาสมัคร,5211-03,5211-00,Regular,account.data_account_type_expense,FALSE
+5300-00,Health & Medical Project -โครงการสุขภาพ,5300-00,5000-00,View,account.data_account_type_expense_view,FALSE
+5301-00,Mae Tao Clinic - แม่ตาวคลินิค,5301-00,5300-00,View,account.data_account_type_expense_view,FALSE
+5301-01,Surgical supplies & Equipment - แผนกศัลยกรรม,5301-01,5301-00,Regular,account.data_account_type_expense,FALSE
+5301-02,Prosthetic supplies  - แผนกขาเทียม,5301-02,5301-00,Regular,account.data_account_type_expense,FALSE
+5301-03,Acupuncture department supplies & equipment - แผนกฝังเข็ม,5301-03,5301-00,Regular,account.data_account_type_expense,FALSE
+5302-00,Kathi Zeschg Clinic (PBLT),5302-00,5300-00,View,account.data_account_type_expense_view,FALSE
+5302-01,Runing cost,5302-01,5302-00,Regular,account.data_account_type_expense,FALSE
+5302-02,Extra need,5302-02,5302-00,Regular,account.data_account_type_expense,FALSE
+5320-00,ANCP - โครงการสุขภาพแม่และเด็ก,5320-00,5300-00,View,account.data_account_type_expense_view,FALSE
+5320-01,Personnel- ค่าตอบแทนเจ้าหน้าที่โครงการ,5320-01,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-02,Support 4 Learning Center - สนับสนุน 4 ศูนย์การเรียน,5320-02,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-03,Implementing one daycare center - สนับสนุนศูนย์อนุบาล,5320-03,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-04,Conduct mobile health care- หน่วยบริการสุขภาพเคลื่อนที่,5320-04,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-05,Strengthening the health referral system- พัฒนาระบบส่งต่อ,5320-05,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-06,Accountant/Finance (10%)- การเงินบัญชี สมทบ 10 %,5320-06,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-07,Telephone - ค่าโทรศัพท์,5320-07,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-08,M&E / Siraporn - M&E ค่าตอบแทน ศิราพร,5320-08,5320-00,Regular,account.data_account_type_expense,FALSE
+5320-09,M&E / Transportation - M&E ค่าเดินทาง เครื่องมือ,5320-09,5320-00,Regular,account.data_account_type_expense,FALSE
+5330-00,Eldery - โครงการผู้สูงอายุ,5330-00,5300-00,View,account.data_account_type_expense_view,FALSE
+5330-01,Activity - กิจกรรม,5330-01,5330-00,Regular,account.data_account_type_expense,FALSE
+5330-02,Admin Cost - ค่าจัดการ,5330-02,5330-00,Regular,account.data_account_type_expense,FALSE
+5400-00,Community & Income Generation Project - งานชุมชนและสร้างรายได้,5400-00,5000-00,View,account.data_account_type_expense_view,FALSE
+5401-00,Sewing workshop,5401-00,5400-00,View,account.data_account_type_expense_view,FALSE
+5401-01,Machine,5401-01,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-02,Furniture & Improvement,5401-02,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-03,Supply - Student uniform,5401-03,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-04,Supply - Student uniform (other donor),5401-04,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-05,Supply - Teacher uniform,5401-05,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-06,Supply - Teacher uniform (other donor),5401-06,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-07,Supply - Other,5401-07,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-08,Supply - Other (other donor),5401-08,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-09,Running costs: Rent & operation costs,5401-09,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-10,Running costs: Rent & operation costs (other donor),5401-10,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-11,Running costs: Staff Salary,5401-11,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-12,Running costs: Staff Salary (other donor),5401-12,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-13,Staff capacity Building,5401-13,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-14,Staff capacity Building (other donor),5401-14,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-15,Developing Social Marketing Commercial,5401-15,5401-00,Regular,account.data_account_type_expense,FALSE
+5402-00,Sanitation assistant,5402-00,5400-00,View,account.data_account_type_expense_view,FALSE
+5402-01,Sanitation assistant/Toilet,5402-01,5402-00,Regular,account.data_account_type_expense,FALSE
+5402-02,Sanitation assistant/Drinking water,5402-02,5402-00,Regular,account.data_account_type_expense,FALSE
+5403-00,Emergency,5403-00,5400-00,View,account.data_account_type_expense_view,FALSE
+5403-01,General,5403-01,5403-00,Regular,account.data_account_type_expense,FALSE
+5403-02,General (other),5403-02,5403-00,Regular,account.data_account_type_expense,FALSE
+5500-00,Food and Agriculture - อาหาร เกษตร,5500-00,5000-00,View,account.data_account_type_expense_view,FALSE
+5510-00,Central Kitchen,5510-00,5500-00,View,account.data_account_type_expense_view,FALSE
+5511-00,Improvement and building Maintenance,5511-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5511-01,Improvement and building Maintenance,5511-01,5511-00,Regular,account.data_account_type_expense,FALSE
+5512-00,Equipment kitchen,5512-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5512-01,Gas stove,5512-01,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-02,Big pot,5512-02,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-03,Big pan,5512-03,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-04,Cooking utensils,5512-04,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-05,Food container,5512-05,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-06,Rice container,5512-06,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-07,Drinking water tank,5512-07,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-08,Other,5512-08,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-09,Other (other donor),5512-09,5512-00,Regular,account.data_account_type_expense,FALSE
+5513-00,Furniture,5513-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5513-01,Office furniture,5513-01,5513-00,Regular,account.data_account_type_expense,FALSE
+5513-02,Operation furniture,5513-02,5513-00,Regular,account.data_account_type_expense,FALSE
+5513-03,Other,5513-03,5513-00,Regular,account.data_account_type_expense,FALSE
+5514-00,Transportation,5514-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5514-01,Insurance and tax,5514-01,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-02,Insurance and tax (other donor),5514-02,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-03,Petrol,5514-03,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-04,Petrol (other donor),5514-04,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-05,Car maintenance,5514-05,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-06,Car maintenance  (other donor),5514-06,5514-00,Regular,account.data_account_type_expense,FALSE
+5515-00,Rent and Utilities,5515-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5515-01,Rent and tax,5515-01,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-02,Rent and tax (other donor),5515-02,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-03,Electricity,5515-03,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-04,Electricity (other donor),5515-04,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-05,Water/ used and waste,5515-05,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-06,Water/ used and waste (other donor),5515-06,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-07,Telephone,5515-07,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-08,Garvage collection,5515-08,5515-00,Regular,account.data_account_type_expense,FALSE
+5516-00,Salaries,5516-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5516-01,Manager,5516-01,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-02,Nutritionist,5516-02,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-03,Cook,5516-03,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-04,Driver,5516-04,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-05,Senior Assistant,5516-05,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-06,Junior Assistant,5516-06,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-07,Logistician (share cost 70 %),5516-07,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-08,Work permit,5516-08,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-09,Over time work,5516-09,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-10,Health Check up,5516-10,5516-00,Regular,account.data_account_type_expense,FALSE
+5517-00,Staff Capacity building,5517-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5517-01,Fire Safety& First Aid training,5517-01,5517-00,Regular,account.data_account_type_expense,FALSE
+5517-02,Safety food and Nutrition training,5517-02,5517-00,Regular,account.data_account_type_expense,FALSE
+5517-03,Production place visit  Vegetable,5517-03,5517-00,Regular,account.data_account_type_expense,FALSE
+5518-00,Cooking Gas and Sanitation,5518-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5518-01,Cooking gas,5518-01,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-02,Plastic bag,5518-02,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-03,Cleaning detergent,5518-03,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-04,Cleaning and change water filter,5518-04,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-05,Other,5518-05,5518-00,Regular,account.data_account_type_expense,FALSE
+5519-00,Food supplies,5519-00,5510-00,View,account.data_account_type_expense_view,FALSE
+5519-01,Meat / Egg,5519-01,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-02,Meat / Egg (other donor),5519-02,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-03,Vegetable,5519-03,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-04,Vegetable (other donor),5519-04,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-05,Ingredient,5519-05,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-06,Ingredient (other donor),5519-06,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-07,Rice,5519-07,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-08,Rice (other donor),5519-08,5519-00,Regular,account.data_account_type_expense,FALSE
+5520-00,Nutrition,5520-00,5500-00,View,account.data_account_type_expense_view,FALSE
+5520-01,Nutrition/Milk & Fruit,5520-01,5520-00,Regular,account.data_account_type_expense,FALSE
+5520-02,Nutrition/Nutrition education outreach,5520-02,5520-00,Regular,account.data_account_type_expense,FALSE
+5520-03,Nutrition/Milk & Fruit(other donor),5520-03,5520-00,Regular,account.data_account_type_expense,FALSE
+5530-00,Food supplies for school & Dormitory (not central kitchen),5530-00,5500-00,View,account.data_account_type_expense_view,FALSE
+5530-01,KM 42 : Rice,5530-01,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-02,KM 42 : vegetable & meat,5530-02,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-03,KKB : Rice,5530-03,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-04,KKB : vegetable & meat,5530-04,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-05,KM 42 : Rice(other donor),5530-05,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-06,KM 42 : vegetable & meat(other donor),5530-06,5530-00,Regular,account.data_account_type_expense,FALSE
+5540-00,Agriculture - เกษตร,5540-00,5500-00,View,account.data_account_type_expense_view,FALSE
+5540-01,Organic Agriculture - เกษตรอินทรีย์,5540-01,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-02,"Animal raising (Fish, Pig, Chicken)",5540-02,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-03,Mushroom culture,5540-03,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-04,Bio fertilizer,5540-04,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-05,Rent & Operation,5540-05,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-06,Salary - ค่าตอบแทน,5540-06,5540-00,Regular,account.data_account_type_expense,FALSE
+5550-00,Food-Emergency - อาหาร ฉุกเฉิน,5550-00,5500-00,View,account.data_account_type_expense_view,FALSE
+5550-01,Food Emergency - อาหาร ฉุกเฉิน,5550-01,5550-00,Regular,account.data_account_type_expense,FALSE
+5600-00,Child Protection - โครงการปกป้องคุ้มครองเด็ก,5600-00,5000-00,View,account.data_account_type_expense_view,FALSE
+5601-00,Partners Responsible on Child protection - พันธมิตรตอบรับระบบปกป้องคุ้มครองเด็ก,5601-00,5600-00,View,account.data_account_type_expense_view,FALSE
+5601-01,Consultation workshops  with partner organisations-ประชุม,5601-01,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-02,Training on use of child protection assessment tools- อบรม,5601-02,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-03,National training on intensive individual data collection - อบรมระดับชาติ,5601-03,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-04,Conduct of child protection assessments - ประเมิน,5601-04,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-05,Verification of serious  child protection cases - พิสูจน์ case,5601-05,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-06,Managing the data collected - จัดการข้อมูล,5601-06,5601-00,Regular,account.data_account_type_expense,FALSE
+5602-00,"Partners Responsible identify, reach, and respond  - ค้นหาและตอบรับ",5602-00,5600-00,View,account.data_account_type_expense_view,FALSE
+5602-01,Capacity building with local government-อบรมเจ้าหน้าที่รัฐ,5602-01,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-02,Follow-up training-อบรมเรื่องการติดตาม,5602-02,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-03,Support case conference - สนับสนุน Case conference,5602-03,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-04,Facilitate direct services - อำนวยการช่วยเหลือตรง,5602-04,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-05,Support youth led initiatives - สนับสนุนกิจกรรมเยาวชน,5602-05,5602-00,Regular,account.data_account_type_expense,FALSE
+5603-00,Consultation workshops  - ประชุม หารือ,5603-00,5600-00,View,account.data_account_type_expense_view,FALSE
+5603-01,Meetings with CPC at district-ประชุมคณะกรรมการคุ้มครองเด็กระดับอำเภอ,5603-01,5603-00,Regular,account.data_account_type_expense,FALSE
+5603-02,Facilitation of consultations and dialogues - ดำเนินการหารือ,5603-02,5603-00,Regular,account.data_account_type_expense,FALSE
+5603-03,"Participate and contribute to the on-going discussions - 
+ร่วมและส่งเสริมการพูดคุยอย่างต่อเนืื่อง",5603-03,5603-00,Regular,account.data_account_type_expense,FALSE
+5603-04,Lobby with government - ระดับนโยบาย,5603-04,5603-00,Regular,account.data_account_type_expense,FALSE
+5604-00,"Planning, evaluation, and partnerships - จัดการ",5604-00,5600-00,View,account.data_account_type_expense_view,FALSE
+5604-01,Administrative Costs - ค่าจัดการ,5604-01,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-02,Electricity - ค่าไฟฟ้า,5604-02,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-03,Used water - ค่าน้ำใช้,5604-03,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-04,Transportation - ค่าเดินทาง,5604-04,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-05,Office supplies - ค่าอุปกรณ์สำนักงาน,5604-05,5604-00,Regular,account.data_account_type_expense,FALSE
+5700-00,Project Management - จัดการโครงการ,5700-00,5000-00,View,account.data_account_type_expense_view,FALSE
+5701-00,Utilities&Facilities,5701-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5701-01,Electricity,5701-01,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-02,Television,5701-02,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-03,"Drinking Water, Coffee",5701-03,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-04,"Drinking Water, Coffee (other donor)",5701-04,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-05,Used Water,5701-05,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-06,Products for cleaning&sanitation,5701-06,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-07,Material for fixing or improvements,5701-07,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-08,Labor cost for fixing or improvements,5701-08,5701-00,Regular,account.data_account_type_expense,FALSE
+5702-00,Project assistant,5702-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5702-01,Director,5702-01,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-02,Office Manager,5702-02,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-03,Finance Manager,5702-03,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-04,Accountant,5702-04,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-05,Driver,5702-05,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-06,Office Maid,5702-06,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-07,IT,5702-07,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-08,Fund Raiser,5702-08,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-09,Work permit,5702-09,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-10,Visa,5702-10,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-11,Insurance / Health / Medicine / Social insurance,5702-11,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-12,Additional expenses salary Staff,5702-12,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-13,Food/Drinks  voluntary helpers,5702-13,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-14,Thai Foundation Auditing/ Accounting,5702-14,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-15,"Contribution to staff saving schem (3,200 Bht X 12 months)",5702-15,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-16,Staff of the year,5702-16,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-17,Monthly allowance for Benno,5702-17,5702-00,Regular,account.data_account_type_expense,FALSE
+5703-00,"Travels,Car,Flights&Lodging",5703-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5703-01,Insurance Car,5703-01,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-02,Tax-Car,5703-02,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-03,Tax-Motorbike,5703-03,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-04,Maintenance-Car,5703-04,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-05,Maintenance-Motorbike,5703-05,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-06,Accessories car,5703-06,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-07,Gasoline,5703-07,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-08,"Bus, Train, Taxi",5703-08,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-09,Car rent,5703-09,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-10,Expressway toll,5703-10,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-11,Hotel&lodging Thailand,5703-11,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-12,"Bus, Train, Taxi(other donor)",5703-12,5703-00,Regular,account.data_account_type_expense,FALSE
+5704-00,Office supplies,5704-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5704-01,Office supplies,5704-01,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-02,Flowers,5704-02,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-03,Picture prints,5704-03,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-04,Ink for printer/ Toner,5704-04,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-05,CD/ DVD,5704-05,5704-00,Regular,account.data_account_type_expense,FALSE
+5705-00,Equipment furniture&machines (Office&House),5705-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5705-01,Accessories for all,5705-01,5705-00,Regular,account.data_account_type_expense,FALSE
+5705-02,Equipment for gardening,5705-02,5705-00,Regular,account.data_account_type_expense,FALSE
+5706-00,Communication&shipping,5706-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5706-01,"Telephone,Communications,Post",5706-01,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-02,"Telephone,Communications,Post / office BKK",5706-02,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-03,Internet,5706-03,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-04,Internet / office BKK,5706-04,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-05,Digital Camera,5706-05,5706-00,Regular,account.data_account_type_expense,FALSE
+5707-00,Public relations&information,5707-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5707-01,Brochures&leaflets,5707-01,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-02,Business Cards,5707-02,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-03,"Signs, boards&stickers",5707-03,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-04,Gifts for guests&partners,5707-04,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-05,News releases&fundraising,5707-05,5707-00,Regular,account.data_account_type_expense,FALSE
+5708-00,Food&related costs,5708-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5708-01,Restaurants&food for guests,5708-01,5708-00,Regular,account.data_account_type_expense,FALSE
+5708-02,All expenses not listed above,5708-02,5708-00,Regular,account.data_account_type_expense,FALSE
+5708-03,All expenses not listed above(other donor),5708-03,5708-00,Regular,account.data_account_type_expense,FALSE
+5709-00,Events&conferences,5709-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5709-01,All expenses related to specific events,5709-01,5709-00,Regular,account.data_account_type_expense,FALSE
+5709-02,All expenses related to specific events(other donor),5709-02,5709-00,Regular,account.data_account_type_expense,FALSE
+5710-00,Other,5710-00,5700-00,View,account.data_account_type_expense_view,FALSE
+5710-01,Other/Exploring Burma,5710-01,5710-00,Regular,account.data_account_type_expense,FALSE

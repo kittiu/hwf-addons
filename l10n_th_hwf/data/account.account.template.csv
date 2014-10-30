@@ -1,0 +1,246 @@
+id,name,code,parent_id/id,type,user_type/id,reconcile
+hwf_account_0,Chart of Account – HWF,0,,View,account.data_account_type_root_view,FALSE
+hwf_account_1,Statement of Financial Position,1,hwf_account_0,View,account.data_account_type_view,FALSE
+hwf_account_1000-00,Assets,1000-00,hwf_account_1,View,account.data_account_type_view,FALSE
+hwf_account_1100-00,Current Assets,1100-00,hwf_account_1000-00,View,account.data_account_type_view,FALSE
+hwf_account_1110-00,Cash and Cash equivalents,1110-00,hwf_account_1100-00,View,account.data_account_type_view,FALSE
+hwf_account_1111-00,Petty Cash,1111-00,hwf_account_1110-00,Liquidity,account.data_account_type_cash,FALSE
+hwf_account_1113-00,Bank – Saving Accounts,1113-00,hwf_account_1110-00,View,account.data_account_type_view,FALSE
+hwf_account_1113-01,Bank – Saving Accounts – Kasikorn,1113-01,hwf_account_1113-00,Liquidity,account.data_account_type_bank,FALSE
+hwf_account_1120-00,Advance,1120-00,hwf_account_1100-00,Regular,account.data_account_type_current_assets,FALSE
+hwf_account_1120-01,Short term investment,1120-01,hwf_account_1100-00,Regular,account.data_account_type_current_assets,FALSE
+hwf_account_1130-00,Trade and Other Receivables,1130-00,hwf_account_1100-00,View,account.data_account_type_view,FALSE
+hwf_account_1130-01,Trade Accounts Receivable,1130-01,hwf_account_1130-00,Receivable,account.data_account_type_receivable,TRUE
+hwf_account_1130-02,Advance – BSHOS,1130-02,hwf_account_1130-00,Regular,account.data_account_type_current_assets,FALSE
+hwf_account_1130-03,Allowance for Doubtful Account,1130-03,hwf_account_1130-00,Regular,account.data_account_type_receivable,FALSE
+hwf_account_1150-00,Other Current Assets,1150-00,hwf_account_1100-00,View,account.data_account_type_view,FALSE
+hwf_account_1151-00,Prepaid Expenses,1151-00,hwf_account_1150-00,View,account.data_account_type_view,FALSE
+hwf_account_1151-04,Advance to Staff,1151-04,hwf_account_1151-00,Regular,account.data_account_type_current_assets,FALSE
+hwf_account_1151-06,Deposit,1151-06,hwf_account_1151-00,Regular,account.data_account_type_current_assets,FALSE
+hwf_account_2003-00,Liabilities,2003-00,hwf_account_1,View,account.data_account_type_view,FALSE
+hwf_account_2100-00,Current Liabilities,2100-00,hwf_account_2003-00,View,account.data_account_type_view,FALSE
+hwf_account_2120-00,Trade and Other Payables,2120-00,hwf_account_2100-00,View,account.data_account_type_view,FALSE
+hwf_account_2120-01,Accounts Payable Trade,2120-01,hwf_account_2120-00,Payable,account.data_account_type_payable,TRUE
+hwf_account_2130-00,Other Current Liabilities,2130-00,hwf_account_2100-00,View,account.data_account_type_view,FALSE
+hwf_account_2131-00,Accrued Expenses,2131-00,hwf_account_2130-00,View,account.data_account_type_view,FALSE
+hwf_account_2131-05,Accrued Expenses – Telephone/Mobile phone,2131-05,hwf_account_2131-00,Regular,account.data_account_type_current_liabilities,FALSE
+hwf_account_3000-00,Net Assets,3000-00,hwf_account_1,View,account.data_account_type_view,FALSE
+hwf_account_3200-00,Excess Revenue over Expenses,3200-00,hwf_account_3000-00,Regular,account.data_account_type_equity,FALSE
+hwf_account_3300-00,Permanently restricted net assets,3300-00,hwf_account_3000-00,Regular,account.data_account_type_equity,FALSE
+hwf_account_2,Statement of Activities,2,hwf_account_0,View,account.data_account_type_view,FALSE
+hwf_account_4000-00,Revenues,4000-00,hwf_account_2,View,account.data_account_type_view,FALSE
+hwf_account_4100-00,Income by Donate,4100-00,hwf_account_4000-00,View,account.data_account_type_view,FALSE
+hwf_account_4100-01,Income by donate/Funds for project : HoG,4100-01,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-02,Income by donate/Central kitchen,4100-02,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-03,Income by donate/Sewing workshop,4100-03,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-04,Income by donate/Donation / contribution to office,4100-04,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-05,Income by donate/Ray of Youth,4100-05,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-06,Income by donate/Scholarship,4100-06,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-07,Income by donate/Emergency ,4100-07,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-08,Income by donate/Schools budget - contribution from partner,4100-08,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4100-09,Income by donate/Sub grant project/activities,4100-09,hwf_account_4100-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4200-00,Income from Sales,4200-00,hwf_account_4000-00,View,account.data_account_type_view,FALSE
+hwf_account_4200-01,Income from sale/Sale,4200-01,hwf_account_4200-00,Regular,account.data_account_type_income,FALSE
+hwf_account_4300-00,Other income,4300-00,hwf_account_4000-00,View,account.data_account_type_view,FALSE
+hwf_account_4300-01,Other income/Bank Interest,4300-01,hwf_account_4300-00,Regular,account.data_account_type_income,FALSE
+hwf_account_5000-00,Expenses,5000-00,hwf_account_2,View,account.data_account_type_view,FALSE
+hwf_account_5001-00,Special Area School,5001-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5001-01,Special Area School/PBLT Primary,5001-01,hwf_account_5001-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5001-02,Special Area School/Kaw Poe Kee Primary,5001-02,hwf_account_5001-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5001-03,Special Area School/Kaw Poe Kee Nursery,5001-03,hwf_account_5001-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5001-04,Special Area School/Hser Poe Hta,5001-04,hwf_account_5001-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5002-00,"Contribution to other project, training",5002-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5002-01,"Contribution to other project, training/English special course ESC (No Pho Camp)",5002-01,hwf_account_5002-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5002-02,"Contribution to other project, training/Other",5002-02,hwf_account_5002-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5003-00,Migrant Dormitories,5003-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5003-01,Migrant Dormitories/Mae La Dormitory,5003-01,hwf_account_5003-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-00,Ray of Hope School,5101-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5101-01,Ray of Hope School/LDF Literacy Development Foundation,5101-01,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-02,Ray of Hope School/BHSOH,5101-02,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-03,Ray of Hope School/KM 42,5101-03,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-04,Ray of Hope School/New Day ,5101-04,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-05,Ray of Hope School/Paramii,5101-05,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-06,Ray of Hope School/Ah Yon Oo,5101-06,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-07,Ray of Hope School/Pa Yan Daw,5101-07,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-08,Ray of Hope School/Naung Boh Deh,5101-08,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-09,Ray of Hope School/BHSOH (other donors),5101-09,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-10,Ray of Hope School/KM 42(other donors),5101-10,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-11,Ray of Hope School/New Day (other donors),5101-11,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5101-12,Ray of Hope School/Naung Boh Deh(other donors),5101-12,hwf_account_5101-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5102-00,Stationery & Book,5102-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5102-01,Stationery & Book/Buy Centrally ,5102-01,hwf_account_5102-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5102-02,"Stationery & Book/Stationery, teaching material emergency",5102-02,hwf_account_5102-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5102-03,Stationery & Book/Buy Centrally(other donors),5102-03,hwf_account_5102-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5103-00,Scholarship,5103-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5103-01,"Scholarship/Scholarship for Ray of Hope school student, transfer to higher education",5103-01,hwf_account_5103-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5104-00,Meetings,5104-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5104-01,Meetings/Monthly headmaster,5104-01,hwf_account_5104-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5104-02,Meetings/Teacher seminar,5104-02,hwf_account_5104-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5104-03,Meetings/Posten Orientation,5104-03,hwf_account_5104-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5105-00,"Training,Workshop,Course",5105-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5105-01,"Training,Workshop,Course/Circus",5105-01,hwf_account_5105-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5105-02,"Training,Workshop,Course/Summer courses",5105-02,hwf_account_5105-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5105-03,"Training,Workshop,Course/Computer courses",5105-03,hwf_account_5105-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5105-04,"Training,Workshop,Course/Student exchange",5105-04,hwf_account_5105-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5105-05,"Training,Workshop,Course/Language course for teacher & student",5105-05,hwf_account_5105-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5105-06,"Training,Workshop,Course/Caretaker (other donor)",5105-06,hwf_account_5105-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5106-00,Vocational training,5106-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5106-01,Vocational training/Other interested course ,5106-01,hwf_account_5106-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-00,Rays of Youth,5107-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5107-01,Rays of Youth/Community Awareness Raising Training,5107-01,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-02,Rays of Youth/ROY Peer Youth Leadership Training,5107-02,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-03,Rays of Youth/ROY Media Production,5107-03,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-04,Rays of Youth/Saving Environmental Activities,5107-04,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-05,"Rays of Youth/Campaign ""Community Road Show""",5107-05,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-06,Rays of Youth/Network meeting,5107-06,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-07,Rays of Youth/ROY Office Equipment,5107-07,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-08,Rays of Youth/Management,5107-08,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-09,Rays of Youth/Staffs salary,5107-09,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-10,Rays of Youth/Music,5107-10,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-11,Rays of Youth/Community Awareness Raising Training(other donor),5107-11,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-12,Rays of Youth/ROY Peer Youth Leadership Training(other donor),5107-12,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-13,Rays of Youth/ROY Media Production(other donor),5107-13,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-14,Rays of Youth/Saving Environmental Activities(other donor),5107-14,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-15,"Rays of Youth/Campaign ""Community Road Show""(other donor)",5107-15,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-16,Rays of Youth/Network meeting(other donor),5107-16,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-17,Rays of Youth/ROY Office Equipment(other donor),5107-17,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-18,Rays of Youth/Management(other donor),5107-18,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5107-19,Rays of Youth/Staffs salary(other donor),5107-19,hwf_account_5107-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5108-00,Activity,5108-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5108-01,Activity/Student fellowship day,5108-01,hwf_account_5108-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5108-02,"Activity/Events (Culture, Sports, etc.)",5108-02,hwf_account_5108-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5108-03,Activity/Activities with children (football/Swim),5108-03,hwf_account_5108-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5109-00,Networking,5109-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5109-01,Networking/Gifts&small donations,5109-01,hwf_account_5109-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5110-00,Ray of Hope Dormitories,5110-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5110-01,Ray of Hope Dormitories/LDF Literacy Development Foundation,5110-01,hwf_account_5110-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5110-02,Ray of Hope Dormitories/BHSOH,5110-02,hwf_account_5110-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5110-03,Ray of Hope Dormitories/Pa Yan Daw,5110-03,hwf_account_5110-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5110-04,Ray of Hope Dormitories/Naung Boh Deh,5110-04,hwf_account_5110-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5110-05,Ray of Hope Dormitories/Children Home,5110-05,hwf_account_5110-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5110-06,Ray of Hope Dormitories/Naung Boh Deh(other donor),5110-06,hwf_account_5110-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5111-00,Education Project assistant (Salary),5111-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5111-01,Education Project assistant/Education Manager,5111-01,hwf_account_5111-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5111-02,Education Project assistant/Education manager assistant ,5111-02,hwf_account_5111-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5111-03,Education Project assistant/Work permit,5111-03,hwf_account_5111-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5111-04,Education Project assistant/Education staff,5111-04,hwf_account_5111-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5112-00,Building / Construction,5112-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5112-01,Building / Construction/LDF school building (renovation),5112-01,hwf_account_5112-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5112-02,Building / Construction/Naug Boh Deh,5112-02,hwf_account_5112-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5112-03,Building / Construction/New Day,5112-03,hwf_account_5112-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5113-00,Sub grant project,5113-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5113-01,Sub grant project/Rose plantation(other-SC.),5113-01,hwf_account_5113-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5201-00,Mae Tao Clinic,5201-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5201-01,Mae Tao Clinic/Surgical supplies & Equipments,5201-01,hwf_account_5201-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5201-02,Mae Tao Clinic/Prosthetics supplies ,5201-02,hwf_account_5201-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5201-03,Mae Tao Clinic/Acupuncture department supplies & equipments,5201-03,hwf_account_5201-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-00,Sewing workshop,5301-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5301-01,Sewing workshop/Machine,5301-01,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-02,Sewing workshop/Furniture & Improvement,5301-02,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-03,Sewing workshop/Supply,5301-03,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-04,Sewing workshop/Running costs: rent&operation costs,5301-04,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-05,Sewing workshop/Running costs: Staff Salary,5301-05,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-06,Sewing workshop/Staff capacity building,5301-06,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-07,Sewing workshop/Running costs: rent&operation costs(other donor),5301-07,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-08,Sewing workshop/Running costs: Staff Salary(other donor),5301-08,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5301-09,Sewing workshop/Staff capacity building(other donor),5301-09,hwf_account_5301-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5302-00,Sanitation assistant,5302-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5302-01,Sanitation assistant/Toilet,5302-01,hwf_account_5302-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5302-02,Sanitation assistant/Drinking water,5302-02,hwf_account_5302-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5303-00,Emergency,5303-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5303-01,Emergency/Emergency (General),5303-01,hwf_account_5303-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5303-02,Emergency/Emergency (others),5303-02,hwf_account_5303-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-00,Central Kitchen,5401-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5401-01,Central Kitchen/Equipment & Improvement,5401-01,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-02,Central Kitchen/Transportation,5401-02,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-03,Central Kitchen/Rent & Utilities,5401-03,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-04,Central Kitchen/Staff Salary & Staff capacity building,5401-04,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-05,"Central Kitchen/Cooking gas,Sanitation,Water filter",5401-05,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-06,Central Kitchen/Food,5401-06,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-07,Central Kitchen/Rice,5401-07,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-08,Central Kitchen/Equipment & Improvement(other donor),5401-08,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-09,Central Kitchen/Transportation(other donor),5401-09,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-10,Central Kitchen/Rent & Utilities(other donor),5401-10,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-11,Central Kitchen/Staff Salary&Staff capacity building(other donor),5401-11,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-12,"Central Kitchen/Cooking gas,Sanitation,Water filter(other donor)",5401-12,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-13,Central Kitchen/Food(other donor),5401-13,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5401-14,Central Kitchen/Rice(other donor),5401-14,hwf_account_5401-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5402-00,Nutrition,5402-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5402-01,Nutrition/Milk & Fruit,5402-01,hwf_account_5402-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5402-02,Nutrition/Nutrition education outreach,5402-02,hwf_account_5402-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5402-03,Nutrition/Milk & Fruit(other donor),5402-03,hwf_account_5402-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5403-00,Food supplies for school & Dormitory (not central kitchen),5403-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5403-01,Food supplies for school & Dormitory/KM 42 : Rice,5403-01,hwf_account_5403-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5403-02,Food supplies for school & Dormitory/KM 42 : vegetable & meat,5403-02,hwf_account_5403-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5403-03,Food supplies for school & Dormitory/KKB : Rice ,5403-03,hwf_account_5403-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5403-04,Food supplies for school & Dormitory/KKB : vegetable & meat ,5403-04,hwf_account_5403-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5403-05,Food supplies for school & Dormitory/KM 42 : Rice(other donor),5403-05,hwf_account_5403-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5403-06,Food supplies for school & Dormitory/KM 42 : vegetable & meat(other donor),5403-06,hwf_account_5403-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5501-00,Utilities&Facilities,5501-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5501-01,Utilities&Facilities/Electricity,5501-01,hwf_account_5501-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5501-02,Utilities&Facilities/Television,5501-02,hwf_account_5501-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5501-03,"Utilities&Facilities/Drinking Water, Coffee",5501-03,hwf_account_5501-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5501-04,Utilities&Facilities/Used Water,5501-04,hwf_account_5501-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5501-05,Utilities&Facilities/Products for cleaning&sanitation,5501-05,hwf_account_5501-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5501-06,Utilities&Facilities/Material for fixing or improvements,5501-06,hwf_account_5501-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5501-07,Utilities&Facilities/Labor cost for fixing or improvements,5501-07,hwf_account_5501-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-00,Project assistant,5502-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5502-01,Project assistant/Thailand operation coordinator,5502-01,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-02,Project assistant/PR-Manager,5502-02,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-03,Project assistant/Office manager,5502-03,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-04,Project assistant/Office Driver,5502-04,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-05,Project assistant/IT volunteer,5502-05,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-06,Project assistant/Office support staff,5502-06,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-07,Project assistant/Work permit,5502-07,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-08,"Project assistant/Insurance,Health,Medicine,Social insurance",5502-08,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-09,Project assistant/Additional expenses salary Staff,5502-09,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-10,"Project assistant/Food, Drinks voluntary helpers",5502-10,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-11,"Project assistant/Thai Foundation Auditing, Accounting ",5502-11,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-12,Project assistant/Contribution to staff saving scheme,5502-12,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-13,Project assistant/Staff of the year ,5502-13,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-14,Project assistant/Bonus,5502-14,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-15,Project assistant/Office Maid,5502-15,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5502-16,Project assistant/Gardener,5502-16,hwf_account_5502-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-00,"Travels,Car,Flights&Lodging",5503-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5503-01,"Travels,Car,Flights&Lodging/Insurance Car",5503-01,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-02,"Travels,Car,Flights&Lodging/Tax-Car",5503-02,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-03,"Travels,Car,Flights&Lodging/Tax-Motorbike",5503-03,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-04,"Travels,Car,Flights&Lodging/Maintenance-Car",5503-04,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-05,"Travels,Car,Flights&Lodging/Maintenance-Motorbike",5503-05,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-06,"Travels,Car,Flights&Lodging/Accessories car",5503-06,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-07,"Travels,Car,Flights&Lodging/Gasoline",5503-07,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-08,"Travels,Car,Flights&Lodging/Bus, Train, Taxi",5503-08,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-09,"Travels,Car,Flights&Lodging/Car rent",5503-09,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-10,"Travels,Car,Flights&Lodging/Expressway toll",5503-10,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-11,"Travels,Car,Flights&Lodging/Hotel&lodging Thailand",5503-11,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5503-12,"Travels,Car,Flights&Lodging/Bus, Train, Taxi(other donor)",5503-12,hwf_account_5503-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5504-00,Office supplies,5504-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5504-01,Office supplies/Office supplies,5504-01,hwf_account_5504-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5504-02,Office supplies/Flowers,5504-02,hwf_account_5504-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5504-03,Office supplies/Picture prints,5504-03,hwf_account_5504-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5504-04,Office supplies/Ink for printer/ Toner,5504-04,hwf_account_5504-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5504-05,Office supplies/CD/ DVD,5504-05,hwf_account_5504-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5505-00,Equipment furniture&machines (Office&House),5505-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5505-01,Equipment furniture&machines/Accessories for all,5505-01,hwf_account_5505-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5505-02,Equipment furniture&machines/Equipment for gardening,5505-02,hwf_account_5505-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5506-00,Communication&shipping ,5506-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5506-01,"Communication&shipping/Telephone,Communications,Post",5506-01,hwf_account_5506-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5506-02,Communication&shipping/Internet,5506-02,hwf_account_5506-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5506-03,Communication&shipping/Digital Camera,5506-03,hwf_account_5506-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5507-00,Public relations&information,5507-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5507-01,Public relations&information/Brochures&leaflets,5507-01,hwf_account_5507-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5507-02,Public relations&information/Business Cards,5507-02,hwf_account_5507-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5507-03,"Public relations&information/Signs, boards&stickers",5507-03,hwf_account_5507-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5507-04,Public relations&information/Gifts for guests&partners,5507-04,hwf_account_5507-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5507-05,Public relations&information/News releases&fundraising,5507-05,hwf_account_5507-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5508-00,Food&related costs,5508-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5508-01,Food&related costs/Restaurants&food for guests,5508-01,hwf_account_5508-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5508-02,Food&related costs/All expenses not listed above,5508-02,hwf_account_5508-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5508-03,Food&related costs/All expenses not listed above(other donor),5508-03,hwf_account_5508-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5509-00,Events&conferences,5509-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5509-01,Events&conferences/All expenses related to specific events,5509-01,hwf_account_5509-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5509-02,Events&conferences/All expenses related to specific events(other donor),5509-02,hwf_account_5509-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5510-00,New Kitchen&Sewing Workshop,5510-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5510-01,New Kitchen&Sewing Workshop/Building&equipment,5510-01,hwf_account_5510-00,Regular,account.data_account_type_expense,FALSE
+hwf_account_5511-00,Other,5511-00,hwf_account_5000-00,View,account.data_account_type_view,FALSE
+hwf_account_5511-01,Other/Exploring Burma,5511-01,hwf_account_5511-00,Regular,account.data_account_type_expense,FALSE

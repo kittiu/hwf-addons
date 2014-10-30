@@ -1,0 +1,59 @@
+id,name,street,phone,customer,supplier
+res_partner_001,AHMED,"3-5 Suksrirad-utid rd.,Mae Sot, Tak 63110",055-544932,FALSE,TRUE
+res_partner_002,AIS,"414 Phaholyotin Rd.,Phayathai Bkk 10400",02-2719000,FALSE,TRUE
+res_partner_003,A ming,"121/8 Sawanvitee rd.,Mae Sot ,Tak 63110",055-547168,FALSE,TRUE
+res_partner_004,Banchar,"Phacharen market, Maesot, Tak",084-4902480,FALSE,TRUE
+res_partner_005,Chokbunmar,"20/5 Buakoon rd.,Mae Sot,Tak 63110",,FALSE,TRUE
+res_partner_006,Chontichar Kamaneewong,"44/4 Srivieng,Prasadvitee rd.,Mae Sot,Tak",055-532717,FALSE,TRUE
+res_partner_007,Charenphan Sueksa,"32/1 Sawanvitee rd.,Mae Sot ,Tak 63110",055-534339,FALSE,TRUE
+res_partner_008,Charenphan panit,"114/17 Cheedvana Rd.,Mae Sot Tak 63110",055-532195,FALSE,TRUE
+res_partner_009,DD Subtawee,"23/4 Sripanit,Mae Sot,Tak 63110",055-536028,FALSE,TRUE
+res_partner_010,Doungjai,"16/5 S.Chumponkiri,Pasadviti rd,Mae Sot Tak",055-532821,FALSE,TRUE
+res_partner_011,Fasino Mae Sot,"100/17 Prasadvitee rd.,Mae Sot,Tak 63110",055-544392,FALSE,TRUE
+res_partner_012,Gigahertz Comsquare,"31/18 Intarakiree rd.,Mae Sot ,Tak 63110",055-536678-9,FALSE,TRUE
+res_partner_013,Hwangdee,"36/3 Sriveing,Intarakiree rd.,Mae Sot,Tak ",,FALSE,TRUE
+res_partner_014,Jongjaren 1999,"105/40 Sawanvitee rd.,Mae Sot,Tak 63110",055-531243,FALSE,TRUE
+res_partner_015,Kung Houd,"208/12 Intarakiree Rd.,Mae Sot ,Tak ",080-5045142,FALSE,TRUE
+res_partner_016,Kaungkhwan,"470 Intarakiree Rd.,Mae Sot Tak 63110",055-532299,FALSE,TRUE
+res_partner_017,"K.S.Business services co.,Ltd.","316 Arun-amarin 30,Bangyikun,Bangplud,Bkk",02-8833946,FALSE,TRUE
+res_partner_018,Kai Sot Areewan,"1/13 Rachakanraddamri Rd.,Mae Sot Tak ",083-4119555,FALSE,TRUE
+res_partner_019,Lumpruan copy & service,"297/3 Intarakiree rd.,Mae Sot,Tak 63110",055-535530,FALSE,TRUE
+res_partner_020,Louis Chemical,"226/2 M.12 Houror,Pisanulok city,Pisanulok",081-4753848,FALSE,TRUE
+res_partner_021,M S Tire,"6/3 Asia rd.,Mae Sot,Tak 63110",055-546759,FALSE,TRUE
+res_partner_022,Mae Sot Municipality,Mae Sot Tak 63110,,FALSE,TRUE
+res_partner_023,Muangchod Asia Service,"725 M.9 Mae pa,Mae Sot,Tak 63110",055-546727,FALSE,TRUE
+res_partner_024,Mae Sot Sawadkarnka,"89 Sripanit rd.,Mae Sot,Tak 63110",055-531587,FALSE,TRUE
+res_partner_025,Mae Sot Klung gas,"194/2 Sripanit rd.,Mae Sot,Tak 63110",055-531928,FALSE,TRUE
+res_partner_026,Mae Sot Wattana Service,"86 Asia rd.,Mae Sot, Tak 63110",055-531971,FALSE,TRUE
+res_partner_027,Mae Sot wittayakom,"100/3-7 Prasadvitee Rd.,Mae Sot Tak 63110",055-532369,FALSE,TRUE
+res_partner_028,Maesot Kamol Karnka,"489/2-3 Intarakiri rd., Maesot, Tak 63110",055-536711,FALSE,TRUE
+res_partner_029,Namchai,"1118 Sriphanit, Maesot, Tak 63110",,FALSE,TRUE
+res_partner_030,Nuch Fruit ,"Phacharen market, Maesot, Tak",081-7854397,FALSE,TRUE
+res_partner_031,New Charen Store,"376 Pahurat rd,Wangburapa,Pranakorn,Bkk",,FALSE,TRUE
+res_partner_032,Oun Karnyang,"9/11 Chidlom rd.,Mae Sot,Tak 63110",055-531894,FALSE,TRUE
+res_partner_033,Pornthavee Agricultural Machinery Mae Sot,"8/3 Chidlom rd.,Mae Sot ,Tak 63110",055-531143,FALSE,TRUE
+res_partner_034,Provincial Electricity Authority,"63/6 Chidwana Rd.,Mae Sot Tak 63110",,FALSE,TRUE
+res_partner_035,Provincial Waterworks Authority,322 M.1 Thasailuad Mae Sot Tak 63110,,FALSE,TRUE
+res_partner_036,Pinya Fruit,"35 Intarakiree rd.,Mae Sot,Tak 63110",083-6237166,FALSE,TRUE
+res_partner_037,Poo Moo Sod,"7/4 Radburana Rd.,Mae Sot Tak 63110",081-0369169,FALSE,TRUE
+res_partner_038,Puk king,"3/6-7 Rad-utid rd.,Mae Sot,Tak 63110",055-532072,FALSE,TRUE
+res_partner_039,Racha curtain,"5/4 Chumponkiri,Mae Sot,Tak 63110",055-532457,FALSE,TRUE
+res_partner_040,Rachenjaidee,"2/2-3 Intarakiree rd.,Mae Sot ,Tak 63110",055-542607,FALSE,TRUE
+res_partner_041,Sei Heangchai km.48,"493/1 Soi 2,M.5 Kireerad,Pobpa,Tak 63110",089-9586775,FALSE,TRUE
+res_partner_042,Sakon Tak Transportation,"461/7 Soi Tak Sin 3,Tak ",055-511656,FALSE,TRUE
+res_partner_043,Suree Shop,"387/391 Intarakiree rd.,Mae Sot,Tak 63110",055-532348,FALSE,TRUE
+res_partner_044,SKT Embroidery,"123 Intarapituk rd,Bangyirou,Tonburi,Bkk",02-8901213,FALSE,TRUE
+res_partner_045,Somsri,"3/17 Prasadvitee Rd.,Mae Sot ,Tak 63110",055-545031,FALSE,TRUE
+res_partner_046,SP furnitures,"112/7 Chidwana rd, Maesot, Tak 63110",055-532976,FALSE,TRUE
+res_partner_047,Sinsuwan supplies,"81 Moo 1, Maepa, Maesot, Tak",055-546207,FALSE,TRUE
+res_partner_048,Seangchockchai,"42/12-13 Sriveing,Prasadvitee Rd.,Mae Sot",055-532586,FALSE,TRUE
+res_partner_049,Tie Audom Panich,"39 Suksriradautid rd.,Mae Sot,Tak 63110",055-535604,FALSE,TRUE
+res_partner_050,Tassapon karnka,"49/51 Chidlom rd.,Mae Sot,Tak 63110",055-535951,FALSE,TRUE
+res_partner_051,T.M.S Industry,"265,267 Soi Charoennakorn 14,Klongtonsai,Bkk",02-8620299,FALSE,TRUE
+res_partner_052,TMC durable Articles,"53/1 Prasadvitee Rd.,Mae Sot Tak 63110",055-531978,FALSE,TRUE
+res_partner_053,Tak book Center,"633/2 Intarakiree Rd.,Mae Sot Tak 63110",,FALSE,TRUE
+res_partner_054,Thailand Post,Mae Sot 63110,055-531277,FALSE,TRUE
+res_partner_055,The System N.J.,"143/6 Intarakiree Rd.,Mae Sot,Tak 63110",,FALSE,TRUE
+res_partner_056,Tung Kieng Seang,"274 Mahajuk Rd.,Sampunwong,Bkk 10100",02-2210339,FALSE,TRUE
+res_partner_057,V.Shop,"1 M.8 Mae pa,Mae Sot ,Tak 63110",,FALSE,TRUE
+res_partner_058,Yui Puk Sod,"Phacharen market, Maesot, Tak",089-2717862,FALSE,TRUE

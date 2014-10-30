@@ -1,0 +1,1473 @@
+id,name,code,parent_id/id,type,user_type/id,reconcile
+5000-00,Expenses - รายจ่าย,5000-00,,View,account.data_account_type_view,FALSE
+5100-00,"Schools , Training & Dormitory Project",5100-00,5000-00,View,account.data_account_type_view,FALSE
+5110-00,Special Area School,5110-00,5100-00,View,account.data_account_type_view,FALSE
+5111-00,Special Area School,5111-00,5110-00,View,account.data_account_type_view,FALSE
+5111-01,PBLT Primary,5111-01,5111-00,Regular,account.data_account_type_expense,FALSE
+5111-02,Kaw Poe Kee Primary,5111-02,5111-00,Regular,account.data_account_type_expense,FALSE
+5111-03,Kaw Poe Kee Nursery,5111-03,5111-00,Regular,account.data_account_type_expense,FALSE
+5111-04,Hser Poe Hta,5111-04,5111-00,Regular,account.data_account_type_expense,FALSE
+5112-00,Burma School - Ku Don village School,5112-00,5110-00,View,account.data_account_type_view,FALSE
+5112-01,Salary: Director,5112-01,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-02,Salary: Head master,5112-02,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-03,Salary: Senior Teacher,5112-03,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-04,Salary: Junior Teacher,5112-04,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-05,Salary: Specific teacher,5112-05,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-06,Salary: Cook,5112-06,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-07,Salary: Guard / Dormitory,5112-07,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-08,Salary: Driver,5112-08,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-09,Salary: Other Staff,5112-09,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-10,Supplies & teaching resource: Stationery,5112-10,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-11,Supplies & teaching resource: Textbook / Exercise book,5112-11,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5112-12,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-13,Supplies & teaching resource: Sport supplies,5112-13,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-14,Supplies & teaching resource: Books for library,5112-14,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-15,Supplies & teaching resource: Student uniform,5112-15,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-16,Supplies & teaching resource: Teacher uniform,5112-16,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-17,Supplies & teaching resource: Teacher supplies,5112-17,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-18,Supplies & teaching resource: Prize for outstanding student,5112-18,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-19,Supplies & teaching resource: Others,5112-19,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-20,Utilities: Sanitation,5112-20,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-21,Utilities: Electricity,5112-21,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-22,Utilities: Drinking water,5112-22,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-23,Utilities: Used water,5112-23,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-24,Utilities: Telephone fee,5112-24,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-25,Utilities: Internet fee,5112-25,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-26,Utilities: Others,5112-26,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-27,Facilities: House/ building / land Rent,5112-27,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-28,Facilities: Maintenance and school improvement,5112-28,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-29,Facilities: Construction,5112-29,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-30,Facilities: Security & Emergency,5112-30,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-31,Facilities: Others,5112-31,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-32,Equipment & Furniture: School / Class room/ library equipment,5112-32,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-33,Equipment & Furniture: School / Class room/ library furniture,5112-33,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-34,"Equipment & Furniture: Computer, Comunication & accessories",5112-34,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-35,Equipment & Furniture: Equipment for vocational training,5112-35,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-36,Equipment & Furniture: Sport equipment,5112-36,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-37,Equipment & Furniture: Musical instrument & Technical devices,5112-37,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-38,Equipment & Furniture: Kitchen & Eating equipment,5112-38,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-39,Equipment & Furniture: Others,5112-39,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-40,Transportation: Car / Bus / Truck rent,5112-40,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-41,Transportation: Maintenance / repair,5112-41,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-42,Transportation: Gasoline / Petrol,5112-42,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-43,Transportation: Insurance / Tax,5112-43,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-44,Transportation: Others,5112-44,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-45,Social activity: Cultural event,5112-45,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-46,Social activity: Special day /event,5112-46,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-47,Social activity: Sport event,5112-47,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-48,Social activity: Field Trip,5112-48,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-49,Social activity: Prize for sport & culture event,5112-49,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-50,Social activity: Others,5112-50,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-51,Food: Rice,5112-51,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5112-52,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-53,Food: Ingredients,5112-53,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-54,Food: Snack,5112-54,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-55,Food: Charcoal,5112-55,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-56,Food: Others,5112-56,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-57,Medical & Health care: First Aid Kit provided by HwF,5112-57,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-58,Medical & Health care: Medical supply,5112-58,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-59,Medical & Health care: Vitamin,5112-59,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-60,Medical & Health care: Milk,5112-60,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-61,Medical & Health care: Personal hygiene & Toiletries,5112-61,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-62,Medical & Health care: Health education / Training,5112-62,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-63,Medical & Health care: Others,5112-63,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-64,Capacity building: Teacher training/ workshop,5112-64,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-65,Capacity building: Teacher Meeting,5112-65,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-66,Capacity building: Parent visiting/ meeting,5112-66,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-67,Capacity building: Others,5112-67,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-68,Miscellaneous : Miscellaneous,5112-68,5112-00,Regular,account.data_account_type_expense,FALSE
+5112-69,Ah Yone Thit (other donor),5112-69,5112-00,Regular,account.data_account_type_expense,FALSE
+5120-00,Rays of Hope School,5120-00,5100-00,View,account.data_account_type_view,FALSE
+5121-00,Ah Yone Thit,5121-00,5120-00,View,account.data_account_type_view,FALSE
+5121-01,Salary: Director,5121-01,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-02,Salary: Head master,5121-02,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-03,Salary: Senior Teacher,5121-03,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-04,Salary: Junior Teacher,5121-04,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-05,Salary: Specific teacher,5121-05,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-06,Salary: Cook,5121-06,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-07,Salary: Guard / Dormitory,5121-07,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-08,Salary: Driver,5121-08,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-09,Salary: Other Staff,5121-09,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-10,Supplies & teaching resource: Stationery,5121-10,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-11,Supplies & teaching resource: Textbook / Exercise book,5121-11,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5121-12,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-13,Supplies & teaching resource: Sport supplies,5121-13,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-14,Supplies & teaching resource: Books for library,5121-14,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-15,Supplies & teaching resource: Student uniform,5121-15,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-16,Supplies & teaching resource: Teacher uniform,5121-16,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-17,Supplies & teaching resource: Teacher supplies,5121-17,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-18,Supplies & teaching resource: Prize for outstanding student,5121-18,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-19,Supplies & teaching resource: Others,5121-19,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-20,Utilities: Sanitation,5121-20,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-21,Utilities: Electricity,5121-21,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-22,Utilities: Drinking water,5121-22,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-23,Utilities: Used water,5121-23,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-24,Utilities: Telephone fee,5121-24,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-25,Utilities: Internet fee,5121-25,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-26,Utilities: Others,5121-26,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-27,Facilities: House/ building / land Rent,5121-27,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-28,Facilities: Maintenance and school improvement,5121-28,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-29,Facilities: Construction,5121-29,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-30,Facilities: Security & Emergency,5121-30,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-31,Facilities: Others,5121-31,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-32,Equipment & Furniture: School / Class room/ library equipment,5121-32,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-33,Equipment & Furniture: School / Class room/ library furniture,5121-33,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-34,"Equipment & Furniture: Computer, Comunication & accessories",5121-34,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-35,Equipment & Furniture: Equipment for vocational training,5121-35,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-36,Equipment & Furniture: Sport equipment,5121-36,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-37,Equipment & Furniture: Musical instrument & Technical devices,5121-37,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-38,Equipment & Furniture: Kitchen & Eating equipment,5121-38,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-39,Equipment & Furniture: Others,5121-39,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-40,Transportation: Car / Bus / Truck rent,5121-40,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-41,Transportation: Maintenance / repair,5121-41,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-42,Transportation: Gasoline / Petrol,5121-42,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-43,Transportation: Insurance / Tax,5121-43,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-44,Transportation: Others,5121-44,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-45,Social activity: Cultural event,5121-45,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-46,Social activity: Special day /event,5121-46,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-47,Social activity: Sport event,5121-47,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-48,Social activity: Field Trip,5121-48,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-49,Social activity: Prize for sport & culture event,5121-49,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-50,Social activity: Others,5121-50,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-51,Food: Rice,5121-51,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5121-52,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-53,Food: Ingredients,5121-53,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-54,Food: Snack,5121-54,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-55,Food: Charcoal,5121-55,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-56,Food: Others,5121-56,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-57,Medical & Health care: First Aid Kit provided by HwF,5121-57,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-58,Medical & Health care: Medical supply,5121-58,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-59,Medical & Health care: Vitamin,5121-59,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-60,Medical & Health care: Milk,5121-60,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-61,Medical & Health care: Personal hygiene & Toiletries,5121-61,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-62,Medical & Health care: Health education / Training,5121-62,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-63,Medical & Health care: Others,5121-63,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-64,Capacity building: Teacher training/ workshop,5121-64,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-65,Capacity building: Teacher Meeting,5121-65,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-66,Capacity building: Parent visiting/ meeting,5121-66,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-67,Capacity building: Others,5121-67,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-68,Miscellaneous : Miscellaneous,5121-68,5121-00,Regular,account.data_account_type_expense,FALSE
+5121-69,Ah Yone Thit (other donor),5121-69,5121-00,Regular,account.data_account_type_expense,FALSE
+5122-00,BHSOH Leaning Center,5122-00,5120-00,View,account.data_account_type_view,FALSE
+5122-01,Salary: Director,5122-01,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-02,Salary: Head master,5122-02,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-03,Salary: Senior Teacher,5122-03,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-04,Salary: Junior Teacher,5122-04,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-05,Salary: Specific teacher,5122-05,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-06,Salary: Cook,5122-06,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-07,Salary: Guard / Dormitory,5122-07,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-08,Salary: Driver,5122-08,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-09,Salary: Other Staff,5122-09,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-10,Supplies & teaching resource: Stationery,5122-10,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-11,Supplies & teaching resource: Textbook / Exercise book,5122-11,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5122-12,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-13,Supplies & teaching resource: Sport supplies,5122-13,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-14,Supplies & teaching resource: Books for library,5122-14,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-15,Supplies & teaching resource: Student uniform,5122-15,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-16,Supplies & teaching resource: Teacher uniform,5122-16,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-17,Supplies & teaching resource: Teacher supplies,5122-17,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-18,Supplies & teaching resource: Prize for outstanding student,5122-18,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-19,Supplies & teaching resource: Others,5122-19,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-20,Utilities: Sanitation,5122-20,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-21,Utilities: Electricity,5122-21,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-22,Utilities: Drinking water,5122-22,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-23,Utilities: Used water,5122-23,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-24,Utilities: Telephone fee,5122-24,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-25,Utilities: Internet fee,5122-25,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-26,Utilities: Others,5122-26,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-27,Facilities: House/ building / land Rent,5122-27,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-28,Facilities: Maintenance and school improvement,5122-28,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-29,Facilities: Construction,5122-29,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-30,Facilities: Security & Emergency,5122-30,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-31,Facilities: Others,5122-31,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-32,Equipment & Furniture: School / Class room/ library equipment,5122-32,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-33,Equipment & Furniture: School / Class room/ library furniture,5122-33,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-34,"Equipment & Furniture: Computer, Comunication & accessories",5122-34,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-35,Equipment & Furniture: Equipment for vocational training,5122-35,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-36,Equipment & Furniture: Sport equipment,5122-36,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-37,Equipment & Furniture: Musical instrument & Technical devices,5122-37,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-38,Equipment & Furniture: Kitchen & Eating equipment,5122-38,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-39,Equipment & Furniture: Others,5122-39,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-40,Transportation: Car / Bus / Truck rent,5122-40,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-41,Transportation: Maintenance / repair,5122-41,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-42,Transportation: Gasoline / Petrol,5122-42,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-43,Transportation: Insurance / Tax,5122-43,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-44,Transportation: Others,5122-44,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-45,Social activity: Cultural event,5122-45,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-46,Social activity: Special day /event,5122-46,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-47,Social activity: Sport event,5122-47,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-48,Social activity: Field Trip,5122-48,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-49,Social activity: Prize for sport & culture event,5122-49,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-50,Social activity: Others,5122-50,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-51,Food: Rice,5122-51,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5122-52,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-53,Food: Ingredients,5122-53,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-54,Food: Snack,5122-54,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-55,Food: Charcoal,5122-55,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-56,Food: Others,5122-56,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-57,Medical & Health care: First Aid Kit provided by HwF,5122-57,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-58,Medical & Health care: Medical supply,5122-58,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-59,Medical & Health care: Vitamin,5122-59,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-60,Medical & Health care: Milk,5122-60,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-61,Medical & Health care: Personal hygiene & Toiletries,5122-61,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-62,Medical & Health care: Health education / Training,5122-62,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-63,Medical & Health care: Others,5122-63,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-64,Capacity building: Teacher training/ workshop,5122-64,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-65,Capacity building: Teacher Meeting,5122-65,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-66,Capacity building: Parent visiting/ meeting,5122-66,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-67,Capacity building: Others,5122-67,5122-00,Regular,account.data_account_type_expense,FALSE
+5122-68,Miscellaneous : Miscellaneous,5122-68,5122-00,Regular,account.data_account_type_expense,FALSE
+5121-04,BHSOH (other donors),5121-04,5122-00,Regular,account.data_account_type_expense,FALSE
+5123-00,KM 42 Leaning Center,5123-00,5120-00,View,account.data_account_type_view,FALSE
+5123-01,Salary: Director,5123-01,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-02,Salary: Head master,5123-02,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-03,Salary: Senior Teacher,5123-03,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-04,Salary: Junior Teacher,5123-04,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-05,Salary: Specific teacher,5123-05,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-06,Salary: Cook,5123-06,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-07,Salary: Guard / Dormitory,5123-07,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-08,Salary: Driver,5123-08,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-09,Salary: Other Staff,5123-09,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-10,Supplies & teaching resource: Stationery,5123-10,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-11,Supplies & teaching resource: Textbook / Exercise book,5123-11,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5123-12,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-13,Supplies & teaching resource: Sport supplies,5123-13,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-14,Supplies & teaching resource: Books for library,5123-14,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-15,Supplies & teaching resource: Student uniform,5123-15,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-16,Supplies & teaching resource: Teacher uniform,5123-16,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-17,Supplies & teaching resource: Teacher supplies,5123-17,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-18,Supplies & teaching resource: Prize for outstanding student,5123-18,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-19,Supplies & teaching resource: Others,5123-19,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-20,Utilities: Sanitation,5123-20,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-21,Utilities: Electricity,5123-21,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-22,Utilities: Drinking water,5123-22,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-23,Utilities: Used water,5123-23,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-24,Utilities: Telephone fee,5123-24,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-25,Utilities: Internet fee,5123-25,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-26,Utilities: Others,5123-26,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-27,Facilities: House/ building / land Rent,5123-27,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-28,Facilities: Maintenance and school improvement,5123-28,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-29,Facilities: Construction,5123-29,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-30,Facilities: Security & Emergency,5123-30,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-31,Facilities: Others,5123-31,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-32,Equipment & Furniture: School / Class room/ library equipment,5123-32,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-33,Equipment & Furniture: School / Class room/ library furniture,5123-33,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-34,"Equipment & Furniture: Computer, Comunication & accessories",5123-34,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-35,Equipment & Furniture: Equipment for vocational training,5123-35,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-36,Equipment & Furniture: Sport equipment,5123-36,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-37,Equipment & Furniture: Musical instrument & Technical devices,5123-37,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-38,Equipment & Furniture: Kitchen & Eating equipment,5123-38,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-39,Equipment & Furniture: Others,5123-39,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-40,Transportation: Car / Bus / Truck rent,5123-40,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-41,Transportation: Maintenance / repair,5123-41,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-42,Transportation: Gasoline / Petrol,5123-42,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-43,Transportation: Insurance / Tax,5123-43,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-44,Transportation: Others,5123-44,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-45,Social activity: Cultural event,5123-45,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-46,Social activity: Special day /event,5123-46,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-47,Social activity: Sport event,5123-47,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-48,Social activity: Field Trip,5123-48,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-49,Social activity: Prize for sport & culture event,5123-49,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-50,Social activity: Others,5123-50,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-51,Food: Rice,5123-51,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5123-52,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-53,Food: Ingredients,5123-53,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-54,Food: Snack,5123-54,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-55,Food: Charcoal,5123-55,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-56,Food: Others,5123-56,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-57,Medical & Health care: First Aid Kit provided by HwF,5123-57,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-58,Medical & Health care: Medical supply,5123-58,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-59,Medical & Health care: Vitamin,5123-59,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-60,Medical & Health care: Milk,5123-60,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-61,Medical & Health care: Personal hygiene & Toiletries,5123-61,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-62,Medical & Health care: Health education / Training,5123-62,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-63,Medical & Health care: Others,5123-63,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-64,Capacity building: Teacher training/ workshop,5123-64,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-65,Capacity building: Teacher Meeting,5123-65,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-66,Capacity building: Parent visiting/ meeting,5123-66,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-67,Capacity building: Others,5123-67,5123-00,Regular,account.data_account_type_expense,FALSE
+5123-68,Miscellaneous : Miscellaneous,5123-68,5123-00,Regular,account.data_account_type_expense,FALSE
+5124-00,KM 42 Leaning Center (other donors 25 %),5124-00,5120-00,View,account.data_account_type_view,FALSE
+5124-01,Salary: Director,5124-01,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-02,Salary: Head master,5124-02,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-03,Salary: Senior Teacher,5124-03,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-04,Salary: Junior Teacher,5124-04,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-05,Salary: Specific teacher,5124-05,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-06,Salary: Cook,5124-06,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-07,Salary: Guard / Dormitory,5124-07,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-08,Salary: Driver,5124-08,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-09,Salary: Other Staff,5124-09,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-10,Supplies & teaching resource: Stationery,5124-10,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-11,Supplies & teaching resource: Textbook / Exercise book,5124-11,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5124-12,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-13,Supplies & teaching resource: Sport supplies,5124-13,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-14,Supplies & teaching resource: Books for library,5124-14,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-15,Supplies & teaching resource: Student uniform,5124-15,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-16,Supplies & teaching resource: Teacher uniform,5124-16,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-17,Supplies & teaching resource: Teacher supplies,5124-17,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-18,Supplies & teaching resource: Prize for outstanding student,5124-18,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-19,Supplies & teaching resource: Others,5124-19,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-20,Utilities: Sanitation,5124-20,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-21,Utilities: Electricity,5124-21,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-22,Utilities: Drinking water,5124-22,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-23,Utilities: Used water,5124-23,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-24,Utilities: Telephone fee,5124-24,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-25,Utilities: Internet fee,5124-25,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-26,Utilities: Others,5124-26,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-27,Facilities: House/ building / land Rent,5124-27,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-28,Facilities: Maintenance and school improvement,5124-28,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-29,Facilities: Construction,5124-29,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-30,Facilities: Security & Emergency,5124-30,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-31,Facilities: Others,5124-31,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-32,Equipment & Furniture: School / Class room/ library equipment,5124-32,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-33,Equipment & Furniture: School / Class room/ library furniture,5124-33,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-34,"Equipment & Furniture: Computer, Comunication & accessories",5124-34,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-35,Equipment & Furniture: Equipment for vocational training,5124-35,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-36,Equipment & Furniture: Sport equipment,5124-36,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-37,Equipment & Furniture: Musical instrument & Technical devices,5124-37,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-38,Equipment & Furniture: Kitchen & Eating equipment,5124-38,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-39,Equipment & Furniture: Others,5124-39,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-40,Transportation: Car / Bus / Truck rent,5124-40,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-41,Transportation: Maintenance / repair,5124-41,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-42,Transportation: Gasoline / Petrol,5124-42,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-43,Transportation: Insurance / Tax,5124-43,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-44,Transportation: Others,5124-44,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-45,Social activity: Cultural event,5124-45,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-46,Social activity: Special day /event,5124-46,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-47,Social activity: Sport event,5124-47,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-48,Social activity: Field Trip,5124-48,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-49,Social activity: Prize for sport & culture event,5124-49,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-50,Social activity: Others,5124-50,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-51,Food: Rice,5124-51,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5124-52,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-53,Food: Ingredients,5124-53,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-54,Food: Snack,5124-54,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-55,Food: Charcoal,5124-55,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-56,Food: Others,5124-56,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-57,Medical & Health care: First Aid Kit provided by HwF,5124-57,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-58,Medical & Health care: Medical supply,5124-58,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-59,Medical & Health care: Vitamin,5124-59,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-60,Medical & Health care: Milk,5124-60,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-61,Medical & Health care: Personal hygiene & Toiletries,5124-61,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-62,Medical & Health care: Health education / Training,5124-62,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-63,Medical & Health care: Others,5124-63,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-64,Capacity building: Teacher training/ workshop,5124-64,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-65,Capacity building: Teacher Meeting,5124-65,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-66,Capacity building: Parent visiting/ meeting,5124-66,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-67,Capacity building: Others,5124-67,5124-00,Regular,account.data_account_type_expense,FALSE
+5124-68,Miscellaneous : Miscellaneous,5124-68,5124-00,Regular,account.data_account_type_expense,FALSE
+5125-00,New Day Leaning Center,5125-00,5120-00,View,account.data_account_type_view,FALSE
+5125-01,Salary: Director,5125-01,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-02,Salary: Head master,5125-02,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-03,Salary: Senior Teacher,5125-03,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-04,Salary: Junior Teacher,5125-04,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-05,Salary: Specific teacher,5125-05,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-06,Salary: Cook,5125-06,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-07,Salary: Guard / Dormitory,5125-07,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-08,Salary: Driver,5125-08,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-09,Salary: Other Staff,5125-09,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-10,Supplies & teaching resource: Stationery,5125-10,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-11,Supplies & teaching resource: Textbook / Exercise book,5125-11,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5125-12,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-13,Supplies & teaching resource: Sport supplies,5125-13,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-14,Supplies & teaching resource: Books for library,5125-14,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-15,Supplies & teaching resource: Student uniform,5125-15,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-16,Supplies & teaching resource: Teacher uniform,5125-16,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-17,Supplies & teaching resource: Teacher supplies,5125-17,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-18,Supplies & teaching resource: Prize for outstanding student,5125-18,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-19,Supplies & teaching resource: Others,5125-19,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-20,Utilities: Sanitation,5125-20,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-21,Utilities: Electricity,5125-21,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-22,Utilities: Drinking water,5125-22,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-23,Utilities: Used water,5125-23,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-24,Utilities: Telephone fee,5125-24,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-25,Utilities: Internet fee,5125-25,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-26,Utilities: Others,5125-26,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-27,Facilities: House/ building / land Rent,5125-27,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-28,Facilities: Maintenance and school improvement,5125-28,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-29,Facilities: Construction,5125-29,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-30,Facilities: Security & Emergency,5125-30,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-31,Facilities: Others,5125-31,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-32,Equipment & Furniture: School / Class room/ library equipment,5125-32,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-33,Equipment & Furniture: School / Class room/ library furniture,5125-33,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-34,"Equipment & Furniture: Computer, Comunication & accessories",5125-34,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-35,Equipment & Furniture: Equipment for vocational training,5125-35,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-36,Equipment & Furniture: Sport equipment,5125-36,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-37,Equipment & Furniture: Musical instrument & Technical devices,5125-37,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-38,Equipment & Furniture: Kitchen & Eating equipment,5125-38,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-39,Equipment & Furniture: Others,5125-39,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-40,Transportation: Car / Bus / Truck rent,5125-40,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-41,Transportation: Maintenance / repair,5125-41,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-42,Transportation: Gasoline / Petrol,5125-42,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-43,Transportation: Insurance / Tax,5125-43,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-44,Transportation: Others,5125-44,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-45,Social activity: Cultural event,5125-45,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-46,Social activity: Special day /event,5125-46,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-47,Social activity: Sport event,5125-47,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-48,Social activity: Field Trip,5125-48,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-49,Social activity: Prize for sport & culture event,5125-49,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-50,Social activity: Others,5125-50,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-51,Food: Rice,5125-51,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5125-52,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-53,Food: Ingredients,5125-53,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-54,Food: Snack,5125-54,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-55,Food: Charcoal,5125-55,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-56,Food: Others,5125-56,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-57,Medical & Health care: First Aid Kit provided by HwF,5125-57,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-58,Medical & Health care: Medical supply,5125-58,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-59,Medical & Health care: Vitamin,5125-59,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-60,Medical & Health care: Milk,5125-60,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-61,Medical & Health care: Personal hygiene & Toiletries,5125-61,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-62,Medical & Health care: Health education / Training,5125-62,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-63,Medical & Health care: Others,5125-63,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-64,Capacity building: Teacher training/ workshop,5125-64,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-65,Capacity building: Teacher Meeting,5125-65,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-66,Capacity building: Parent visiting/ meeting,5125-66,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-67,Capacity building: Others,5125-67,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-68,Miscellaneous : Miscellaneous,5125-68,5125-00,Regular,account.data_account_type_expense,FALSE
+5125-69,New Day (other donor),5125-69,5125-00,Regular,account.data_account_type_expense,FALSE
+5126-00,Paramii Leaning Center,5126-00,5120-00,View,account.data_account_type_view,FALSE
+5126-01,Salary: Director,5126-01,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-02,Salary: Head master,5126-02,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-03,Salary: Senior Teacher,5126-03,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-04,Salary: Junior Teacher,5126-04,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-05,Salary: Specific teacher,5126-05,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-06,Salary: Cook,5126-06,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-07,Salary: Guard / Dormitory,5126-07,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-08,Salary: Driver,5126-08,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-09,Salary: Other Staff,5126-09,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-10,Supplies & teaching resource: Stationery,5126-10,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-11,Supplies & teaching resource: Textbook / Exercise book,5126-11,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5126-12,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-13,Supplies & teaching resource: Sport supplies,5126-13,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-14,Supplies & teaching resource: Books for library,5126-14,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-15,Supplies & teaching resource: Student uniform,5126-15,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-16,Supplies & teaching resource: Teacher uniform,5126-16,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-17,Supplies & teaching resource: Teacher supplies,5126-17,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-18,Supplies & teaching resource: Prize for outstanding student,5126-18,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-19,Supplies & teaching resource: Others,5126-19,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-20,Utilities: Sanitation,5126-20,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-21,Utilities: Electricity,5126-21,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-22,Utilities: Drinking water,5126-22,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-23,Utilities: Used water,5126-23,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-24,Utilities: Telephone fee,5126-24,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-25,Utilities: Internet fee,5126-25,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-26,Utilities: Others,5126-26,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-27,Facilities: House/ building / land Rent,5126-27,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-28,Facilities: Maintenance and school improvement,5126-28,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-29,Facilities: Construction,5126-29,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-30,Facilities: Security & Emergency,5126-30,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-31,Facilities: Others,5126-31,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-32,Equipment & Furniture: School / Class room/ library equipment,5126-32,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-33,Equipment & Furniture: School / Class room/ library furniture,5126-33,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-34,"Equipment & Furniture: Computer, Comunication & accessories",5126-34,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-35,Equipment & Furniture: Equipment for vocational training,5126-35,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-36,Equipment & Furniture: Sport equipment,5126-36,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-37,Equipment & Furniture: Musical instrument & Technical devices,5126-37,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-38,Equipment & Furniture: Kitchen & Eating equipment,5126-38,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-39,Equipment & Furniture: Others,5126-39,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-40,Transportation: Car / Bus / Truck rent,5126-40,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-41,Transportation: Maintenance / repair,5126-41,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-42,Transportation: Gasoline / Petrol,5126-42,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-43,Transportation: Insurance / Tax,5126-43,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-44,Transportation: Others,5126-44,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-45,Social activity: Cultural event,5126-45,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-46,Social activity: Special day /event,5126-46,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-47,Social activity: Sport event,5126-47,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-48,Social activity: Field Trip,5126-48,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-49,Social activity: Prize for sport & culture event,5126-49,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-50,Social activity: Others,5126-50,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-51,Food: Rice,5126-51,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5126-52,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-53,Food: Ingredients,5126-53,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-54,Food: Snack,5126-54,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-55,Food: Charcoal,5126-55,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-56,Food: Others,5126-56,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-57,Medical & Health care: First Aid Kit provided by HwF,5126-57,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-58,Medical & Health care: Medical supply,5126-58,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-59,Medical & Health care: Vitamin,5126-59,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-60,Medical & Health care: Milk,5126-60,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-61,Medical & Health care: Personal hygiene & Toiletries,5126-61,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-62,Medical & Health care: Health education / Training,5126-62,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-63,Medical & Health care: Others,5126-63,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-64,Capacity building: Teacher training/ workshop,5126-64,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-65,Capacity building: Teacher Meeting,5126-65,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-66,Capacity building: Parent visiting/ meeting,5126-66,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-67,Capacity building: Others,5126-67,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-68,Miscellaneous : Miscellaneous,5126-68,5126-00,Regular,account.data_account_type_expense,FALSE
+5126-69,Paramii (other donor)- ศูนย์การเรียน PRM (other donor),5126-69,5126-00,Regular,account.data_account_type_expense,FALSE
+5127-00,Ah Yon Oo Leaning Center,5127-00,5120-00,View,account.data_account_type_view,FALSE
+5127-01,Salary: Director,5127-01,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-02,Salary: Head master,5127-02,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-03,Salary: Senior Teacher,5127-03,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-04,Salary: Junior Teacher,5127-04,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-05,Salary: Specific teacher,5127-05,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-06,Salary: Cook,5127-06,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-07,Salary: Guard / Dormitory,5127-07,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-08,Salary: Driver,5127-08,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-09,Salary: Other Staff,5127-09,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-10,Supplies & teaching resource: Stationery,5127-10,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-11,Supplies & teaching resource: Textbook / Exercise book,5127-11,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5127-12,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-13,Supplies & teaching resource: Sport supplies,5127-13,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-14,Supplies & teaching resource: Books for library,5127-14,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-15,Supplies & teaching resource: Student uniform,5127-15,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-16,Supplies & teaching resource: Teacher uniform,5127-16,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-17,Supplies & teaching resource: Teacher supplies,5127-17,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-18,Supplies & teaching resource: Prize for outstanding student,5127-18,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-19,Supplies & teaching resource: Others,5127-19,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-20,Utilities: Sanitation,5127-20,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-21,Utilities: Electricity,5127-21,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-22,Utilities: Drinking water,5127-22,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-23,Utilities: Used water,5127-23,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-24,Utilities: Telephone fee,5127-24,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-25,Utilities: Internet fee,5127-25,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-26,Utilities: Others,5127-26,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-27,Facilities: House/ building / land Rent,5127-27,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-28,Facilities: Maintenance and school improvement,5127-28,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-29,Facilities: Construction,5127-29,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-30,Facilities: Security & Emergency,5127-30,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-31,Facilities: Others,5127-31,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-32,Equipment & Furniture: School / Class room/ library equipment,5127-32,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-33,Equipment & Furniture: School / Class room/ library furniture,5127-33,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-34,"Equipment & Furniture: Computer, Comunication & accessories",5127-34,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-35,Equipment & Furniture: Equipment for vocational training,5127-35,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-36,Equipment & Furniture: Sport equipment,5127-36,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-37,Equipment & Furniture: Musical instrument & Technical devices,5127-37,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-38,Equipment & Furniture: Kitchen & Eating equipment,5127-38,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-39,Equipment & Furniture: Others,5127-39,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-40,Transportation: Car / Bus / Truck rent,5127-40,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-41,Transportation: Maintenance / repair,5127-41,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-42,Transportation: Gasoline / Petrol,5127-42,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-43,Transportation: Insurance / Tax,5127-43,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-44,Transportation: Others,5127-44,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-45,Social activity: Cultural event,5127-45,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-46,Social activity: Special day /event,5127-46,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-47,Social activity: Sport event,5127-47,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-48,Social activity: Field Trip,5127-48,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-49,Social activity: Prize for sport & culture event,5127-49,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-50,Social activity: Others,5127-50,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-51,Food: Rice,5127-51,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5127-52,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-53,Food: Ingredients,5127-53,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-54,Food: Snack,5127-54,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-55,Food: Charcoal,5127-55,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-56,Food: Others,5127-56,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-57,Medical & Health care: First Aid Kit provided by HwF,5127-57,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-58,Medical & Health care: Medical supply,5127-58,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-59,Medical & Health care: Vitamin,5127-59,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-60,Medical & Health care: Milk,5127-60,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-61,Medical & Health care: Personal hygiene & Toiletries,5127-61,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-62,Medical & Health care: Health education / Training,5127-62,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-63,Medical & Health care: Others,5127-63,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-64,Capacity building: Teacher training/ workshop,5127-64,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-65,Capacity building: Teacher Meeting,5127-65,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-66,Capacity building: Parent visiting/ meeting,5127-66,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-67,Capacity building: Others,5127-67,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-68,Miscellaneous : Miscellaneous,5127-68,5127-00,Regular,account.data_account_type_expense,FALSE
+5127-69,Ah Yon Oo (other donor),5127-69,5127-00,Regular,account.data_account_type_expense,FALSE
+5128-00,Pa Yan Daw Leaning Center,5128-00,5120-00,View,account.data_account_type_view,FALSE
+5128-01,Salary: Director,5128-01,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-02,Salary: Head master,5128-02,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-03,Salary: Senior Teacher,5128-03,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-04,Salary: Junior Teacher,5128-04,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-05,Salary: Specific teacher,5128-05,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-06,Salary: Cook,5128-06,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-07,Salary: Guard / Dormitory,5128-07,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-08,Salary: Driver,5128-08,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-09,Salary: Other Staff,5128-09,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-10,Supplies & teaching resource: Stationery,5128-10,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-11,Supplies & teaching resource: Textbook / Exercise book,5128-11,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5128-12,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-13,Supplies & teaching resource: Sport supplies,5128-13,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-14,Supplies & teaching resource: Books for library,5128-14,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-15,Supplies & teaching resource: Student uniform,5128-15,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-16,Supplies & teaching resource: Teacher uniform,5128-16,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-17,Supplies & teaching resource: Teacher supplies,5128-17,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-18,Supplies & teaching resource: Prize for outstanding student,5128-18,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-19,Supplies & teaching resource: Others,5128-19,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-20,Utilities: Sanitation,5128-20,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-21,Utilities: Electricity,5128-21,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-22,Utilities: Drinking water,5128-22,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-23,Utilities: Used water,5128-23,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-24,Utilities: Telephone fee,5128-24,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-25,Utilities: Internet fee,5128-25,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-26,Utilities: Others,5128-26,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-27,Facilities: House/ building / land Rent,5128-27,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-28,Facilities: Maintenance and school improvement,5128-28,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-29,Facilities: Construction,5128-29,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-30,Facilities: Security & Emergency,5128-30,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-31,Facilities: Others,5128-31,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-32,Equipment & Furniture: School / Class room/ library equipment,5128-32,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-33,Equipment & Furniture: School / Class room/ library furniture,5128-33,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-34,"Equipment & Furniture: Computer, Comunication & accessories",5128-34,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-35,Equipment & Furniture: Equipment for vocational training,5128-35,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-36,Equipment & Furniture: Sport equipment,5128-36,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-37,Equipment & Furniture: Musical instrument & Technical devices,5128-37,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-38,Equipment & Furniture: Kitchen & Eating equipment,5128-38,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-39,Equipment & Furniture: Others,5128-39,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-40,Transportation: Car / Bus / Truck rent,5128-40,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-41,Transportation: Maintenance / repair,5128-41,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-42,Transportation: Gasoline / Petrol,5128-42,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-43,Transportation: Insurance / Tax,5128-43,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-44,Transportation: Others,5128-44,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-45,Social activity: Cultural event,5128-45,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-46,Social activity: Special day /event,5128-46,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-47,Social activity: Sport event,5128-47,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-48,Social activity: Field Trip,5128-48,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-49,Social activity: Prize for sport & culture event,5128-49,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-50,Social activity: Others,5128-50,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-51,Food: Rice,5128-51,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5128-52,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-53,Food: Ingredients,5128-53,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-54,Food: Snack,5128-54,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-55,Food: Charcoal,5128-55,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-56,Food: Others,5128-56,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-57,Medical & Health care: First Aid Kit provided by HwF,5128-57,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-58,Medical & Health care: Medical supply,5128-58,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-59,Medical & Health care: Vitamin,5128-59,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-60,Medical & Health care: Milk,5128-60,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-61,Medical & Health care: Personal hygiene & Toiletries,5128-61,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-62,Medical & Health care: Health education / Training,5128-62,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-63,Medical & Health care: Others,5128-63,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-64,Capacity building: Teacher training/ workshop,5128-64,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-65,Capacity building: Teacher Meeting,5128-65,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-66,Capacity building: Parent visiting/ meeting,5128-66,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-67,Capacity building: Others,5128-67,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-68,Miscellaneous : Miscellaneous,5128-68,5128-00,Regular,account.data_account_type_expense,FALSE
+5128-69,Pa Yan Daw (other donor)- ศูนย์การเรียน PYD (other donor),5128-69,5128-00,Regular,account.data_account_type_expense,FALSE
+5129-00,Naung Boh Deh Leaning Center,5129-00,5120-00,View,account.data_account_type_view,FALSE
+5129-01,Salary: Director,5129-01,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-02,Salary: Head master,5129-02,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-03,Salary: Senior Teacher,5129-03,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-04,Salary: Junior Teacher,5129-04,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-05,Salary: Specific teacher,5129-05,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-06,Salary: Cook,5129-06,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-07,Salary: Guard / Dormitory,5129-07,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-08,Salary: Driver,5129-08,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-09,Salary: Other Staff,5129-09,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-10,Supplies & teaching resource: Stationery,5129-10,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-11,Supplies & teaching resource: Textbook / Exercise book,5129-11,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-12,Supplies & teaching resource: Craft / Art / Vocational training materials,5129-12,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-13,Supplies & teaching resource: Sport supplies,5129-13,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-14,Supplies & teaching resource: Books for library,5129-14,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-15,Supplies & teaching resource: Student uniform,5129-15,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-16,Supplies & teaching resource: Teacher uniform,5129-16,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-17,Supplies & teaching resource: Teacher supplies,5129-17,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-18,Supplies & teaching resource: Prize for outstanding student,5129-18,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-19,Supplies & teaching resource: Others,5129-19,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-20,Utilities: Sanitation,5129-20,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-21,Utilities: Electricity,5129-21,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-22,Utilities: Drinking water,5129-22,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-23,Utilities: Used water,5129-23,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-24,Utilities: Telephone fee,5129-24,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-25,Utilities: Internet fee,5129-25,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-26,Utilities: Others,5129-26,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-27,Facilities: House/ building / land Rent,5129-27,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-28,Facilities: Maintenance and school improvement,5129-28,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-29,Facilities: Construction,5129-29,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-30,Facilities: Security & Emergency,5129-30,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-31,Facilities: Others,5129-31,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-32,Equipment & Furniture: School / Class room/ library equipment,5129-32,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-33,Equipment & Furniture: School / Class room/ library furniture,5129-33,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-34,"Equipment & Furniture: Computer, Comunication & accessories",5129-34,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-35,Equipment & Furniture: Equipment for vocational training,5129-35,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-36,Equipment & Furniture: Sport equipment,5129-36,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-37,Equipment & Furniture: Musical instrument & Technical devices,5129-37,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-38,Equipment & Furniture: Kitchen & Eating equipment,5129-38,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-39,Equipment & Furniture: Others,5129-39,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-40,Transportation: Car / Bus / Truck rent,5129-40,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-41,Transportation: Maintenance / repair,5129-41,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-42,Transportation: Gasoline / Petrol,5129-42,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-43,Transportation: Insurance / Tax,5129-43,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-44,Transportation: Others,5129-44,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-45,Social activity: Cultural event,5129-45,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-46,Social activity: Special day /event,5129-46,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-47,Social activity: Sport event,5129-47,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-48,Social activity: Field Trip,5129-48,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-49,Social activity: Prize for sport & culture event,5129-49,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-50,Social activity: Others,5129-50,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-51,Food: Rice,5129-51,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-52,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5129-52,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-53,Food: Ingredients,5129-53,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-54,Food: Snack,5129-54,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-55,Food: Charcoal,5129-55,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-56,Food: Others,5129-56,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-57,Medical & Health care: First Aid Kit provided by HwF,5129-57,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-58,Medical & Health care: Medical supply,5129-58,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-59,Medical & Health care: Vitamin,5129-59,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-60,Medical & Health care: Milk,5129-60,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-61,Medical & Health care: Personal hygiene & Toiletries,5129-61,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-62,Medical & Health care: Health education / Training,5129-62,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-63,Medical & Health care: Others,5129-63,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-64,Capacity building: Teacher training/ workshop,5129-64,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-65,Capacity building: Teacher Meeting,5129-65,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-66,Capacity building: Parent visiting/ meeting,5129-66,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-67,Capacity building: Others,5129-67,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-68,Miscellaneous : Miscellaneous,5129-68,5129-00,Regular,account.data_account_type_expense,FALSE
+5129-69,Naung Boh Deh (other donor),5129-69,5129-00,Regular,account.data_account_type_expense,FALSE
+5130-00,Activity,5130-00,5100-00,View,account.data_account_type_view,FALSE
+5131-00,Stationery,5131-00,5130-00,View,account.data_account_type_view,FALSE
+5131-01,Stationery - Buy Centrally,5131-01,5131-00,Regular,account.data_account_type_expense,FALSE
+5131-02,Teaching material emergency,5131-02,5131-00,Regular,account.data_account_type_expense,FALSE
+5131-03,Buy Centrally(other donors),5131-03,5131-00,Regular,account.data_account_type_expense,FALSE
+5132-00,Scholarship,5132-00,5130-00,View,account.data_account_type_view,FALSE
+5132-01,Scholarship for Rays of Hope school student,5132-01,5132-00,Regular,account.data_account_type_expense,FALSE
+5132-02,Transportation,5132-02,5132-00,Regular,account.data_account_type_expense,FALSE
+5133-00,Meetings,5133-00,5130-00,View,account.data_account_type_view,FALSE
+5133-01,Monthly headmaster,5133-01,5133-00,Regular,account.data_account_type_expense,FALSE
+5133-02,Teacher seminar,5133-02,5133-00,Regular,account.data_account_type_expense,FALSE
+5133-03,Teacher study tour,5133-03,5133-00,Regular,account.data_account_type_expense,FALSE
+5133-04,Posten Orientation,5133-04,5133-00,Regular,account.data_account_type_expense,FALSE
+5134-00,"Training,Workshop,Course",5134-00,5130-00,View,account.data_account_type_view,FALSE
+5134-01,Circus,5134-01,5134-00,Regular,account.data_account_type_expense,FALSE
+5134-02,Summer courses,5134-02,5134-00,Regular,account.data_account_type_expense,FALSE
+5134-03,Computer courses,5134-03,5134-00,Regular,account.data_account_type_expense,FALSE
+5134-04,Student exchange,5134-04,5134-00,Regular,account.data_account_type_expense,FALSE
+5134-05,Language course for teacher & student,5134-05,5134-00,Regular,account.data_account_type_expense,FALSE
+5134-06,Caretaker (other donor),5134-06,5134-00,Regular,account.data_account_type_expense,FALSE
+5135-00,Vocational training,5135-00,5130-00,View,account.data_account_type_view,FALSE
+5135-01,Cooking,5135-01,5135-00,Regular,account.data_account_type_expense,FALSE
+5135-02,Sewing,5135-02,5135-00,Regular,account.data_account_type_expense,FALSE
+5135-03,Vocational training/Other interested course,5135-03,5135-00,Regular,account.data_account_type_expense,FALSE
+5136-00,Activity,5136-00,5130-00,View,account.data_account_type_view,FALSE
+5136-01,Student fellowship day,5136-01,5136-00,Regular,account.data_account_type_expense,FALSE
+5136-02,"Events (Culture, Sports)",5136-02,5136-00,Regular,account.data_account_type_expense,FALSE
+5136-03,Activities with children (football/Swim),5136-03,5136-00,Regular,account.data_account_type_expense,FALSE
+5137-00,"Contribution to other project, training",5137-00,5130-00,View,account.data_account_type_view,FALSE
+5137-01,English special course ESC (No Pho Camp),5137-01,5137-00,Regular,account.data_account_type_expense,FALSE
+5137-02,Other,5137-02,5137-00,Regular,account.data_account_type_expense,FALSE
+5138-00,Networking,5138-00,5130-00,View,account.data_account_type_view,FALSE
+5138-01,Gifts&small donations,5138-01,5138-00,Regular,account.data_account_type_expense,FALSE
+5140-00,Ray of Hope Dormitories,5140-00,5100-00,View,account.data_account_type_view,FALSE
+5141-00,Ah Yone Thit Dormitory,5141-00,5140-00,View,account.data_account_type_view,FALSE
+5141-01,Salary Director,5141-01,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-02,Salary Head master,5141-02,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-03,Salary Cook,5141-03,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-04,Salary Guard / Domitory,5141-04,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-05,Salary Driver,5141-05,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-06,Salary Other Staff,5141-06,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-07,Supplies & teaching resource Domitory supplies,5141-07,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-08,Supplies & teaching resource Others,5141-08,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-09,Utilities Sanitation,5141-09,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-10,Utilities Electricity,5141-10,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-11,Utilities Drinking water,5141-11,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-12,Utilities Used water,5141-12,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-13,Utilities Others,5141-13,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-14,Facilities House/ building / land Rent,5141-14,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-15,Facilities Maintenance and dormitory improvement,5141-15,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-16,Facilities Construction,5141-16,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-17,Facilities Security & Emergency,5141-17,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-18,Facilities Others,5141-18,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-19,Equipment & Furniture Dormitory equipment,5141-19,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-20,Equipment & Furniture Dormitory furniture,5141-20,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-21,Equipment & Furniture Sport equipment,5141-21,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-22,Equipment & Furniture Kitchen & Eating equipment,5141-22,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-23,Equipment & Furniture Others,5141-23,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-24,Transportation Car / Bus / Truck rent,5141-24,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-25,Transportation Maintenance / repair,5141-25,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-26,Transportation Gasoline / Petrol,5141-26,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-27,Transportation Insurance / Tax,5141-27,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-28,Transportation Others,5141-28,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-29,Food Rice,5141-29,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5141-30,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-31,Food Ingredients,5141-31,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-32,Food Snack,5141-32,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-33,Food Charcoal,5141-33,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-34,Food Others,5141-34,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-35,Medical & Health care First Aid Kit provided by HwF,5141-35,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-36,Medical & Health care Medical supply,5141-36,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-37,Medical & Health care Vitamine,5141-37,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-38,Medical & Health care Milk,5141-38,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-39,Medical & Health care Personal hygiene & Toiletries,5141-39,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-40,Medical & Health care Health education / Training,5141-40,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-41,Medical & Health care Others,5141-41,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-42,Miscellanous Miscellanous,5141-42,5141-00,Regular,account.data_account_type_expense,FALSE
+5141-43,Ah Yone Thit Dormitory (other donor),5141-43,5141-00,Regular,account.data_account_type_expense,FALSE
+5142-00,BHSOH Dormitory,5142-00,5140-00,View,account.data_account_type_view,FALSE
+5142-01,Salary Director,5142-01,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-02,Salary Head master,5142-02,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-03,Salary Cook,5142-03,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-04,Salary Guard / Domitory,5142-04,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-05,Salary Driver,5142-05,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-06,Salary Other Staff,5142-06,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-07,Supplies & teaching resource Domitory supplies,5142-07,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-08,Supplies & teaching resource Others,5142-08,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-09,Utilities Sanitation,5142-09,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-10,Utilities Electricity,5142-10,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-11,Utilities Drinking water,5142-11,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-12,Utilities Used water,5142-12,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-13,Utilities Others,5142-13,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-14,Facilities House/ building / land Rent,5142-14,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-15,Facilities Maintenance and dormitory improvement,5142-15,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-16,Facilities Construction,5142-16,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-17,Facilities Security & Emergency,5142-17,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-18,Facilities Others,5142-18,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-19,Equipment & Furniture Dormitory equipment,5142-19,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-20,Equipment & Furniture Dormitory furniture,5142-20,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-21,Equipment & Furniture Sport equipment,5142-21,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-22,Equipment & Furniture Kitchen & Eating equipment,5142-22,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-23,Equipment & Furniture Others,5142-23,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-24,Transportation Car / Bus / Truck rent,5142-24,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-25,Transportation Maintenance / repair,5142-25,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-26,Transportation Gasoline / Petrol,5142-26,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-27,Transportation Insurance / Tax,5142-27,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-28,Transportation Others,5142-28,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-29,Food Rice,5142-29,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5142-30,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-31,Food Ingredients,5142-31,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-32,Food Snack,5142-32,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-33,Food Charcoal,5142-33,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-34,Food Others,5142-34,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-35,Medical & Health care First Aid Kit provided by HwF,5142-35,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-36,Medical & Health care Medical supply,5142-36,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-37,Medical & Health care Vitamine,5142-37,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-38,Medical & Health care Milk,5142-38,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-39,Medical & Health care Personal hygiene & Toiletries,5142-39,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-40,Medical & Health care Health education / Training,5142-40,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-41,Medical & Health care Others,5142-41,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-42,Miscellanous Miscellanous,5142-42,5142-00,Regular,account.data_account_type_expense,FALSE
+5142-43,BHSOH Dormitory (other donor),5142-43,5142-00,Regular,account.data_account_type_expense,FALSE
+5143-00,Pa Yan Daw Dormitory,5143-00,5140-00,View,account.data_account_type_view,FALSE
+5143-01,Salary Director,5143-01,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-02,Salary Head master,5143-02,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-03,Salary Cook,5143-03,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-04,Salary Guard / Domitory,5143-04,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-05,Salary Driver,5143-05,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-06,Salary Other Staff,5143-06,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-07,Supplies & teaching resource Domitory supplies,5143-07,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-08,Supplies & teaching resource Others,5143-08,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-09,Utilities Sanitation,5143-09,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-10,Utilities Electricity,5143-10,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-11,Utilities Drinking water,5143-11,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-12,Utilities Used water,5143-12,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-13,Utilities Others,5143-13,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-14,Facilities House/ building / land Rent,5143-14,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-15,Facilities Maintenance and dormitory improvement,5143-15,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-16,Facilities Construction,5143-16,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-17,Facilities Security & Emergency,5143-17,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-18,Facilities Others,5143-18,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-19,Equipment & Furniture Dormitory equipment,5143-19,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-20,Equipment & Furniture Dormitory furniture,5143-20,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-21,Equipment & Furniture Sport equipment,5143-21,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-22,Equipment & Furniture Kitchen & Eating equipment,5143-22,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-23,Equipment & Furniture Others,5143-23,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-24,Transportation Car / Bus / Truck rent,5143-24,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-25,Transportation Maintenance / repair,5143-25,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-26,Transportation Gasoline / Petrol,5143-26,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-27,Transportation Insurance / Tax,5143-27,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-28,Transportation Others,5143-28,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-29,Food Rice,5143-29,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5143-30,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-31,Food Ingredients,5143-31,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-32,Food Snack,5143-32,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-33,Food Charcoal,5143-33,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-34,Food Others,5143-34,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-35,Medical & Health care First Aid Kit provided by HwF,5143-35,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-36,Medical & Health care Medical supply,5143-36,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-37,Medical & Health care Vitamine,5143-37,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-38,Medical & Health care Milk,5143-38,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-39,Medical & Health care Personal hygiene & Toiletries,5143-39,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-40,Medical & Health care Health education / Training,5143-40,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-41,Medical & Health care Others,5143-41,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-42,Miscellanous Miscellanous,5143-42,5143-00,Regular,account.data_account_type_expense,FALSE
+5143-43,PYD Dormitory (other donor),5143-43,5143-00,Regular,account.data_account_type_expense,FALSE
+5144-00,Naung Boh Deh Dormitory,5144-00,5140-00,View,account.data_account_type_view,FALSE
+5144-01,Salary Director,5144-01,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-02,Salary Head master,5144-02,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-03,Salary Cook,5144-03,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-04,Salary Guard / Domitory,5144-04,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-05,Salary Driver,5144-05,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-06,Salary Other Staff,5144-06,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-07,Supplies & teaching resource Domitory supplies,5144-07,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-08,Supplies & teaching resource Others,5144-08,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-09,Utilities Sanitation,5144-09,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-10,Utilities Electricity,5144-10,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-11,Utilities Drinking water,5144-11,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-12,Utilities Used water,5144-12,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-13,Utilities Others,5144-13,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-14,Facilities House/ building / land Rent,5144-14,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-15,Facilities Maintenance and dormitory improvement,5144-15,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-16,Facilities Construction,5144-16,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-17,Facilities Security & Emergency,5144-17,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-18,Facilities Others,5144-18,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-19,Equipment & Furniture Dormitory equipment,5144-19,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-20,Equipment & Furniture Dormitory furniture,5144-20,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-21,Equipment & Furniture Sport equipment,5144-21,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-22,Equipment & Furniture Kitchen & Eating equipment,5144-22,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-23,Equipment & Furniture Others,5144-23,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-24,Transportation Car / Bus / Truck rent,5144-24,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-25,Transportation Maintenance / repair,5144-25,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-26,Transportation Gasoline / Petrol,5144-26,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-27,Transportation Insurance / Tax,5144-27,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-28,Transportation Others,5144-28,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-29,Food Rice,5144-29,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5144-30,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-31,Food Ingredients,5144-31,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-32,Food Snack,5144-32,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-33,Food Charcoal,5144-33,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-34,Food Others,5144-34,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-35,Medical & Health care First Aid Kit provided by HwF,5144-35,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-36,Medical & Health care Medical supply,5144-36,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-37,Medical & Health care Vitamine,5144-37,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-38,Medical & Health care Milk,5144-38,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-39,Medical & Health care Personal hygiene & Toiletries,5144-39,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-40,Medical & Health care Health education / Training,5144-40,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-41,Medical & Health care Others,5144-41,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-42,Miscellanous Miscellanous,5144-42,5144-00,Regular,account.data_account_type_expense,FALSE
+5144-43,PYD Dormitory (other donor),5144-43,5144-00,Regular,account.data_account_type_expense,FALSE
+5145-00,Naung Boh Deh(other donor),5145-00,5140-00,View,account.data_account_type_view,FALSE
+5145-01,Salary Director,5145-01,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-02,Salary Head master,5145-02,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-03,Salary Cook,5145-03,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-04,Salary Guard / Domitory,5145-04,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-05,Salary Driver,5145-05,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-06,Salary Other Staff,5145-06,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-07,Supplies & teaching resource Domitory supplies,5145-07,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-08,Supplies & teaching resource Others,5145-08,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-09,Utilities Sanitation,5145-09,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-10,Utilities Electricity,5145-10,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-11,Utilities Drinking water,5145-11,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-12,Utilities Used water,5145-12,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-13,Utilities Others,5145-13,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-14,Facilities House/ building / land Rent,5145-14,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-15,Facilities Maintenance and dormitory improvement,5145-15,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-16,Facilities Construction,5145-16,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-17,Facilities Security & Emergency,5145-17,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-18,Facilities Others,5145-18,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-19,Equipment & Furniture Dormitory equipment,5145-19,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-20,Equipment & Furniture Dormitory furniture,5145-20,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-21,Equipment & Furniture Sport equipment,5145-21,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-22,Equipment & Furniture Kitchen & Eating equipment,5145-22,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-23,Equipment & Furniture Others,5145-23,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-24,Transportation Car / Bus / Truck rent,5145-24,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-25,Transportation Maintenance / repair,5145-25,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-26,Transportation Gasoline / Petrol,5145-26,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-27,Transportation Insurance / Tax,5145-27,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-28,Transportation Others,5145-28,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-29,Food Rice,5145-29,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5145-30,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-31,Food Ingredients,5145-31,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-32,Food Snack,5145-32,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-33,Food Charcoal,5145-33,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-34,Food Others,5145-34,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-35,Medical & Health care First Aid Kit provided by HwF,5145-35,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-36,Medical & Health care Medical supply,5145-36,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-37,Medical & Health care Vitamine,5145-37,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-38,Medical & Health care Milk,5145-38,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-39,Medical & Health care Personal hygiene & Toiletries,5145-39,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-40,Medical & Health care Health education / Training,5145-40,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-41,Medical & Health care Others,5145-41,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-42,Miscellanous Miscellanous,5145-42,5145-00,Regular,account.data_account_type_expense,FALSE
+5145-43,NBD Dormitory (other donor),5145-43,5145-00,Regular,account.data_account_type_expense,FALSE
+5146-00,Paramii,5146-00,5140-00,View,account.data_account_type_view,FALSE
+5146-01,Salary Director,5146-01,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-02,Salary Head master,5146-02,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-03,Salary Cook,5146-03,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-04,Salary Guard / Domitory,5146-04,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-05,Salary Driver,5146-05,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-06,Salary Other Staff,5146-06,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-07,Supplies & teaching resource Domitory supplies,5146-07,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-08,Supplies & teaching resource Others,5146-08,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-09,Utilities Sanitation,5146-09,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-10,Utilities Electricity,5146-10,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-11,Utilities Drinking water,5146-11,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-12,Utilities Used water,5146-12,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-13,Utilities Others,5146-13,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-14,Facilities House/ building / land Rent,5146-14,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-15,Facilities Maintenance and dormitory improvement,5146-15,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-16,Facilities Construction,5146-16,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-17,Facilities Security & Emergency,5146-17,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-18,Facilities Others,5146-18,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-19,Equipment & Furniture Dormitory equipment,5146-19,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-20,Equipment & Furniture Dormitory furniture,5146-20,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-21,Equipment & Furniture Sport equipment,5146-21,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-22,Equipment & Furniture Kitchen & Eating equipment,5146-22,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-23,Equipment & Furniture Others,5146-23,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-24,Transportation Car / Bus / Truck rent,5146-24,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-25,Transportation Maintenance / repair,5146-25,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-26,Transportation Gasoline / Petrol,5146-26,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-27,Transportation Insurance / Tax,5146-27,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-28,Transportation Others,5146-28,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-29,Food Rice,5146-29,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5146-30,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-31,Food Ingredients,5146-31,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-32,Food Snack,5146-32,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-33,Food Charcoal,5146-33,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-34,Food Others,5146-34,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-35,Medical & Health care First Aid Kit provided by HwF,5146-35,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-36,Medical & Health care Medical supply,5146-36,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-37,Medical & Health care Vitamine,5146-37,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-38,Medical & Health care Milk,5146-38,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-39,Medical & Health care Personal hygiene & Toiletries,5146-39,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-40,Medical & Health care Health education / Training,5146-40,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-41,Medical & Health care Others,5146-41,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-42,Miscellanous Miscellanous,5146-42,5146-00,Regular,account.data_account_type_expense,FALSE
+5146-43,PRM Dormitory (other donor),5146-43,5146-00,Regular,account.data_account_type_expense,FALSE
+5147-00,Children Home,5147-00,5140-00,View,account.data_account_type_view,FALSE
+5147-01,Salary Director,5147-01,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-02,Salary Head master,5147-02,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-03,Salary Cook,5147-03,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-04,Salary Guard / Domitory,5147-04,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-05,Salary Driver,5147-05,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-06,Salary Other Staff,5147-06,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-07,Supplies & teaching resource Domitory supplies,5147-07,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-08,Supplies & teaching resource Others,5147-08,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-09,Utilities Sanitation,5147-09,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-10,Utilities Electricity,5147-10,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-11,Utilities Drinking water,5147-11,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-12,Utilities Used water,5147-12,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-13,Utilities Others,5147-13,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-14,Facilities House/ building / land Rent,5147-14,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-15,Facilities Maintenance and dormitory improvement,5147-15,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-16,Facilities Construction,5147-16,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-17,Facilities Security & Emergency,5147-17,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-18,Facilities Others,5147-18,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-19,Equipment & Furniture Dormitory equipment,5147-19,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-20,Equipment & Furniture Dormitory furniture,5147-20,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-21,Equipment & Furniture Sport equipment,5147-21,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-22,Equipment & Furniture Kitchen & Eating equipment,5147-22,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-23,Equipment & Furniture Others,5147-23,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-24,Transportation Car / Bus / Truck rent,5147-24,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-25,Transportation Maintenance / repair,5147-25,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-26,Transportation Gasoline / Petrol,5147-26,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-27,Transportation Insurance / Tax,5147-27,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-28,Transportation Others,5147-28,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-29,Food Rice,5147-29,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5147-30,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-31,Food Ingredients,5147-31,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-32,Food Snack,5147-32,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-33,Food Charcoal,5147-33,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-34,Food Others,5147-34,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-35,Medical & Health care First Aid Kit provided by HwF,5147-35,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-36,Medical & Health care Medical supply,5147-36,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-37,Medical & Health care Vitamine,5147-37,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-38,Medical & Health care Milk,5147-38,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-39,Medical & Health care Personal hygiene & Toiletries,5147-39,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-40,Medical & Health care Health education / Training,5147-40,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-41,Medical & Health care Others,5147-41,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-42,Miscellanous Miscellanous,5147-42,5147-00,Regular,account.data_account_type_expense,FALSE
+5147-43,Children Home Dormitory (other donor),5147-43,5147-00,Regular,account.data_account_type_expense,FALSE
+5148-00,Mae La Dormitory,5148-00,5140-00,View,account.data_account_type_view,FALSE
+5148-01,Salary Director,5148-01,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-02,Salary Head master,5148-02,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-03,Salary Cook,5148-03,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-04,Salary Guard / Domitory,5148-04,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-05,Salary Driver,5148-05,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-06,Salary Other Staff,5148-06,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-07,Supplies & teaching resource Domitory supplies,5148-07,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-08,Supplies & teaching resource Others,5148-08,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-09,Utilities Sanitation,5148-09,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-10,Utilities Electricity,5148-10,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-11,Utilities Drinking water,5148-11,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-12,Utilities Used water,5148-12,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-13,Utilities Others,5148-13,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-14,Facilities House/ building / land Rent,5148-14,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-15,Facilities Maintenance and dormitory improvement,5148-15,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-16,Facilities Construction,5148-16,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-17,Facilities Security & Emergency,5148-17,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-18,Facilities Others,5148-18,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-19,Equipment & Furniture Dormitory equipment,5148-19,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-20,Equipment & Furniture Dormitory furniture,5148-20,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-21,Equipment & Furniture Sport equipment,5148-21,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-22,Equipment & Furniture Kitchen & Eating equipment,5148-22,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-23,Equipment & Furniture Others,5148-23,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-24,Transportation Car / Bus / Truck rent,5148-24,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-25,Transportation Maintenance / repair,5148-25,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-26,Transportation Gasoline / Petrol,5148-26,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-27,Transportation Insurance / Tax,5148-27,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-28,Transportation Others,5148-28,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-29,Food Rice,5148-29,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-30,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5148-30,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-31,Food Ingredients,5148-31,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-32,Food Snack,5148-32,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-33,Food Charcoal,5148-33,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-34,Food Others,5148-34,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-35,Medical & Health care First Aid Kit provided by HwF,5148-35,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-36,Medical & Health care Medical supply,5148-36,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-37,Medical & Health care Vitamine,5148-37,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-38,Medical & Health care Milk,5148-38,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-39,Medical & Health care Personal hygiene & Toiletries,5148-39,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-40,Medical & Health care Health education / Training,5148-40,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-41,Medical & Health care Others,5148-41,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-42,Miscellanous Miscellanous,5148-42,5148-00,Regular,account.data_account_type_expense,FALSE
+5148-43,Children Home Dormitory (other donor),5148-43,5148-00,Regular,account.data_account_type_expense,FALSE
+5150-00,Education Project assistant,5150-00,5100-00,View,account.data_account_type_view,FALSE
+5151-00,Education Project assistant,5151-00,5150-00,View,account.data_account_type_view,FALSE
+5151-01,Education Manager,5151-01,5151-00,Regular,account.data_account_type_expense,FALSE
+5151-02,Education manager assistant,5151-02,5151-00,Regular,account.data_account_type_expense,FALSE
+5151-03,Work permit,5151-03,5151-00,Regular,account.data_account_type_expense,FALSE
+5151-04,Education staff,5151-04,5151-00,Regular,account.data_account_type_expense,FALSE
+5160-00,Building / Construction,5160-00,5100-00,View,account.data_account_type_view,FALSE
+5161-00,General School Renovation,5161-00,5160-00,View,account.data_account_type_view,FALSE
+5161-01,School Renovation,5161-01,5161-00,Regular,account.data_account_type_expense,FALSE
+5161-02,School Renovation (Regione),5161-02,5161-00,Regular,account.data_account_type_expense,FALSE
+5170-00,Appropriate Education Development,5170-00,5100-00,View,account.data_account_type_view,FALSE
+5170-01,1.1 ออกแบบระเบียบวิธีวิจัย,5170-01,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-02,1.2 ประสานงานแหล่งข้อมูลทั้งฝั่งไทยและพม่า,5170-02,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-03,1.3 ดำเนินการเก็บข้อมูลการวิจัยทั้ง 2 พื้นที่,5170-03,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-04,1.4 สังเคราะห์ผลการวิจัย เพื่อนำมาพัฒนาแนวทางเชื่อมโยงการศึกษา,5170-04,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-05,1.5 จัดทำรายงานผลการวิจัย,5170-05,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-06,2.1 พัฒนาความร่วมมือและจัดตั้งคณะทำงานประกอบด้าย สพป.,5170-06,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-07,2.2 การทดลองให้เกิดกรณีตัวอย่างการเชื่อมโยงการศึกษาในวิธีการต่างๆ,5170-07,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-08,2.3 ประสานการทำงานร่วมกับองค์กรเครือข่ายที่ทำงานในประเด็นเดียวกัน,5170-08,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-09,2.4 สรุปบทเรียนผลการทดลองในศูนย์การเรียน,5170-09,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-10,3.สนับสนุนให้ศูนย์การเรียน และโรงเรียนไทยจัดทำข้อเสนอแนวทางการเชื่อมโยงการศึกษา,5170-10,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-11,4.สนับสนุนให้ กศน.กลุ่มเป้าหมายพิเศษลงพื้นที่แม่สอด,5170-11,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-12,5.ประสานการทำงานและสนับสนุนให้ กศน.แม่สอดจัดตั้งคณะทำงาน,5170-12,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-13,6.สนับสนุนและผลักดันให้ศูนย์การเรียนนำร่องร่วมกับ กศน.ทดลองใช้หลักสูตรฯ,5170-13,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-14,7.สนับสนุนให้คณะทำงานพัฒนาเนื้อหารายวิชา,5170-14,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-15,8.ร่วมกับ กศน.อำเภอแม่สอด และสพป.ตากเขต 2 พัฒนาครูผู้สอน / วิทยากร,5170-15,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-16,9.สนับสนุนให้ กศน. และศูนย์การเรียน รวบรวมข้อมูลจากการทดลองใช้หลักสูตรเป็นระยะ,5170-16,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-17,10.สนับสนุนให้คณะทำงาน ปรับปรุงหลักสูตร(เนื้อหา รูปแบบ,5170-17,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-18,11.สนับสนุนและผลักดันให้ กศน.แม่สอดและสพป.ตากเขต 2 ขยายผลการจัดการศึกษา,5170-18,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-19,12.พัฒนาศักยภาพ และสื่อสารสร้างการเรียนรู้กับผู้ปฏิบัติงาน (กศน./สพป.),5170-19,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-20,13.สื่อสารสร้างการเรียนรู้ในกลุ่มเป้าหมาย เรื่องสิทธิและความสำคัญของการศึกษา,5170-20,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-21,14.สนับสนุนให้คณะทำงานร่วมกันสรุปบทเรียนการจัดการศึกษาตามหลักสูตร,5170-21,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-22,15.ร่วมกับ สพป.แสวงหาศูนย์การเรียนที่มีความสนใจจัดการศึกษาร่วมกับ กศน.,5170-22,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-23,16.ร่วมกับ กศน.เพื่อทำความเข้าใจกับศูนย์การเรียนที่สนใจเกี่ยวกับประโยชน์ที่ศูนย์การเรียนและผู้เรียนจะได้รับ,5170-23,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-24,17.ติดตามและสนับสนุนศูนย์การเรียนที่สมัครใจทำงานร่วมกับ กศน,5170-24,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-25,18.สนับสนุนให้ศูนย์การเรียนอย่างน้อย 1 แห่งเข้าร่วมเป็นภาคีเครือข่าย กศน.แม่สอด,5170-25,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-26,19.ร่วมกับ กศน.แม่สอดและศูนย์การเรียนสรุปบทเรียนแนวทาง ขั้นตอน,5170-26,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-27,20.จัดทำคู่มือแนวทางการจัดการศึกษาของศูนย์การเรียนเด็กต่างชาติ,5170-27,5170-00,Regular,account.data_account_type_expense,FALSE
+5170-28,ค่า บริหารจัดการแม่สอด,5170-28,5170-00,Regular,account.data_account_type_expense,FALSE
+5180-00,ACCESS,5180-00,5100-00,View,account.data_account_type_view,FALSE
+5181-00,Salaries,5181-00,5180-00,View,account.data_account_type_view,FALSE
+5181-01,Education project cordinator,5181-01,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-02,Education project satff,5181-02,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-03,Director,5181-03,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-04,Finance Manager,5181-04,5181-00,Regular,account.data_account_type_expense,FALSE
+5181-05,Logisticianist,5181-05,5181-00,Regular,account.data_account_type_expense,FALSE
+5182-00,Transportation,5182-00,5180-00,View,account.data_account_type_view,FALSE
+5182-01,Petrol and car manternanc,5182-01,5182-00,Regular,account.data_account_type_expense,FALSE
+5182-02,Per diems for staff,5182-02,5182-00,Regular,account.data_account_type_expense,FALSE
+5182-03,Accommondation package,5182-03,5182-00,Regular,account.data_account_type_expense,FALSE
+5182-04,Air fares,5182-04,5182-00,Regular,account.data_account_type_expense,FALSE
+5183-00,Office expenses,5183-00,5180-00,View,account.data_account_type_view,FALSE
+5183-01,Office supply,5183-01,5183-00,Regular,account.data_account_type_expense,FALSE
+5183-02,Utilities,5183-02,5183-00,Regular,account.data_account_type_expense,FALSE
+5183-03,Telephone,5183-03,5183-00,Regular,account.data_account_type_expense,FALSE
+5183-04,Internet,5183-04,5183-00,Regular,account.data_account_type_expense,FALSE
+5184-00,Equipment,5184-00,5180-00,View,account.data_account_type_view,FALSE
+5184-01,Computer,5184-01,5184-00,Regular,account.data_account_type_expense,FALSE
+5185-00,Direct Costs,5185-00,5180-00,View,account.data_account_type_view,FALSE
+5185-01,Running cost (Migrant school),5185-01,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-02,Support (Thai school),5185-02,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-03,Textbooks and material,5185-03,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-04,Teacher capacity building,5185-04,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-05,Migrant School Renovation cost,5185-05,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-06,Meeting,5185-06,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-06,Audit,5185-06,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-07,M&E,5185-07,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-08,Publication,5185-08,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-09,Campaign,5185-09,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-10,Provincial Meeting,5185-10,5185-00,Regular,account.data_account_type_expense,FALSE
+5185-11,Based line survey,5185-11,5185-00,Regular,account.data_account_type_expense,FALSE
+5200-00,Rays of Youth,5200-00,5000-00,View,account.data_account_type_view,FALSE
+5201-00,ROY Community Awareness Training,5201-00,5200-00,View,account.data_account_type_view,FALSE
+5201-01,Human Trafficking and CRC,5201-01,5201-00,Regular,account.data_account_type_expense,FALSE
+5201-02,Traffic Rule Training,5201-02,5201-00,Regular,account.data_account_type_expense,FALSE
+5201-03,Life skill and Adolescence Health,5201-03,5201-00,Regular,account.data_account_type_expense,FALSE
+5202-00,ROY Leadership Training 2nd group,5202-00,5200-00,View,account.data_account_type_view,FALSE
+5202-01,Materials & Equipment,5202-01,5202-00,Regular,account.data_account_type_expense,FALSE
+5202-02,"Community visit, Study tour",5202-02,5202-00,Regular,account.data_account_type_expense,FALSE
+5202-03,Regular training (Sat),5202-03,5202-00,Regular,account.data_account_type_expense,FALSE
+5203-00,ROY Leadership Training 1st group,5203-00,5200-00,View,account.data_account_type_view,FALSE
+5203-01,Materials & Equipment,5203-01,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-02,"Community visit, Study Tour",5203-02,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-03,Fellow up,5203-03,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-04,Capacity building,5203-04,5203-00,Regular,account.data_account_type_expense,FALSE
+5203-05,Mini Project,5203-05,5203-00,Regular,account.data_account_type_expense,FALSE
+5204-00,ROY Media Production,5204-00,5200-00,View,account.data_account_type_view,FALSE
+5204-01,Materials & Equipment,5204-01,5204-00,Regular,account.data_account_type_expense,FALSE
+5204-02,Creative Media workshop,5204-02,5204-00,Regular,account.data_account_type_expense,FALSE
+5204-03,ROY Media campaign,5204-03,5204-00,Regular,account.data_account_type_expense,FALSE
+5205-00,ROY Environment,5205-00,5200-00,View,account.data_account_type_view,FALSE
+5205-01,Materials & Ingredients,5205-01,5205-00,Regular,account.data_account_type_expense,FALSE
+5205-02,Natural Detergent Workshop,5205-02,5205-00,Regular,account.data_account_type_expense,FALSE
+5206-00,ROY Campaign,5206-00,5200-00,View,account.data_account_type_view,FALSE
+5206-01,Community Road Show,5206-01,5206-00,Regular,account.data_account_type_expense,FALSE
+5207-00,ROY Meeting,5207-00,5200-00,View,account.data_account_type_view,FALSE
+5207-01,Project monthly meeting,5207-01,5207-00,Regular,account.data_account_type_expense,FALSE
+5207-02,Network meeting,5207-02,5207-00,Regular,account.data_account_type_expense,FALSE
+5208-00,ROY Project Management,5208-00,5200-00,View,account.data_account_type_view,FALSE
+5208-01,Office Equipment,5208-01,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-02,Telephone Internet,5208-02,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-03,Stationery & Materials,5208-03,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-04,Transportation,5208-04,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-05,Maintenance and Repair equipment,5208-05,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-06,Staff capacity building,5208-06,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-07,Electricity & Used water,5208-07,5208-00,Regular,account.data_account_type_expense,FALSE
+5208-08,Cleaning supplies,5208-08,5208-00,Regular,account.data_account_type_expense,FALSE
+5209-00,ROY Music Project,5209-00,5200-00,View,account.data_account_type_view,FALSE
+5209-01,Music training,5209-01,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-02,Maintenance Improvement,5209-02,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-03,Professional Skill Course,5209-03,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-04,Music VDO production,5209-04,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-05,Music Equipment,5209-05,5209-00,Regular,account.data_account_type_expense,FALSE
+5209-06,Outstanding Student Present,5209-06,5209-00,Regular,account.data_account_type_expense,FALSE
+5210-00,Burma Project,5210-00,5200-00,View,account.data_account_type_view,FALSE
+5210-01,Activity for School student,5210-01,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-02,Activity for At-Risk children and youth,5210-02,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-03,Training for parent and teacher,5210-03,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-04,Media activity,5210-04,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-05,Based line study,5210-05,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-06,Seminar Meeting Home Visit,5210-06,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-07,Office in Hpa An,5210-07,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-08,Transportation,5210-08,5210-00,Regular,account.data_account_type_expense,FALSE
+5210-09,Project Management,5210-09,5210-00,Regular,account.data_account_type_expense,FALSE
+5211-00,Staff,5211-00,5200-00,View,account.data_account_type_view,FALSE
+5211-01,Coordinator,5211-01,5211-00,Regular,account.data_account_type_expense,FALSE
+5211-02,Staff,5211-02,5211-00,Regular,account.data_account_type_expense,FALSE
+5211-03,Volunteer,5211-03,5211-00,Regular,account.data_account_type_expense,FALSE
+5300-00,Health & Medical Project,5300-00,5000-00,View,account.data_account_type_view,FALSE
+5301-00,Mae Tao Clinic,5301-00,5300-00,View,account.data_account_type_view,FALSE
+5301-01,Surgical supplies & Equipment,5301-01,5301-00,Regular,account.data_account_type_expense,FALSE
+5301-02,Prosthetic supplies,5301-02,5301-00,Regular,account.data_account_type_expense,FALSE
+5301-03,Acupuncture department supplies & equipment,5301-03,5301-00,Regular,account.data_account_type_expense,FALSE
+5302-00,Kathi Zeschg Clinic (PBLT),5302-00,5300-00,View,account.data_account_type_view,FALSE
+5302-01,Runing cost,5302-01,5302-00,Regular,account.data_account_type_expense,FALSE
+5302-02,Extra need,5302-02,5302-00,Regular,account.data_account_type_expense,FALSE
+5320-00,ANCP,5320-00,5300-00,View,account.data_account_type_view,FALSE
+5321-00,Personnel,5321-00,5320-00,View,account.data_account_type_view,FALSE
+5321-01,Daungthida Phiwong (100%),5321-01,5321-00,Regular,account.data_account_type_expense,FALSE
+5321-02,Victoria T-Suchart (100%),5321-02,5321-00,Regular,account.data_account_type_expense,FALSE
+5321-03,Filed volunteer (70%),5321-03,5321-00,Regular,account.data_account_type_expense,FALSE
+5322-00,Support 4 Learning Center,5322-00,5320-00,View,account.data_account_type_view,FALSE
+5322-01,Teacher coordinator,5322-01,5322-00,Regular,account.data_account_type_expense,FALSE
+5322-02,Thai teachers,5322-02,5322-00,Regular,account.data_account_type_expense,FALSE
+5322-03,Burmese teachers,5322-03,5322-00,Regular,account.data_account_type_expense,FALSE
+5322-04,School materials/student kits,5322-04,5322-00,Regular,account.data_account_type_expense,FALSE
+5322-05,School equiment and supplies,5322-05,5322-00,Regular,account.data_account_type_expense,FALSE
+5322-06,Nutritions,5322-06,5322-00,Regular,account.data_account_type_expense,FALSE
+5322-07,Snacks,5322-07,5322-00,Regular,account.data_account_type_expense,FALSE
+5322-08,Transportation,5322-08,5322-00,Regular,account.data_account_type_expense,FALSE
+5323-00,Implementing one daycare center,5323-00,5320-00,View,account.data_account_type_view,FALSE
+5323-01,Care-takers,5323-01,5323-00,Regular,account.data_account_type_expense,FALSE
+5323-02,Transportations,5323-02,5323-00,Regular,account.data_account_type_expense,FALSE
+5323-03,Materials for children and mothers,5323-03,5323-00,Regular,account.data_account_type_expense,FALSE
+5323-04,Nutrition foods,5323-04,5323-00,Regular,account.data_account_type_expense,FALSE
+5324-00,Conduct mobile health care,5324-00,5320-00,View,account.data_account_type_view,FALSE
+5324-01,Drug and first aid kits,5324-01,5324-00,Regular,account.data_account_type_expense,FALSE
+5324-02,Allowance for migrant volunteers,5324-02,5324-00,Regular,account.data_account_type_expense,FALSE
+5324-03,Transportation for community outreach workers,5324-03,5324-00,Regular,account.data_account_type_expense,FALSE
+5324-04,Materials for training,5324-04,5324-00,Regular,account.data_account_type_expense,FALSE
+5325-00,Strengthening the health referral system,5325-00,5320-00,View,account.data_account_type_view,FALSE
+5325-01,Community Health Committee Meeting in 2 project areas,5325-01,5325-00,Regular,account.data_account_type_expense,FALSE
+5325-02,Transportation,5325-02,5325-00,Regular,account.data_account_type_expense,FALSE
+5325-03,Break and Lunch,5325-03,5325-00,Regular,account.data_account_type_expense,FALSE
+5325-04,Transportation for referral of patients in serious cases,5325-04,5325-00,Regular,account.data_account_type_expense,FALSE
+5326-00,in-country support,5326-00,5320-00,View,account.data_account_type_view,FALSE
+5326-01,Accountant/Finance (10%),5326-01,5326-00,Regular,account.data_account_type_expense,FALSE
+5326-02,Telephone,5326-02,5326-00,Regular,account.data_account_type_expense,FALSE
+5327-00,Monitoring &evaluation,5327-00,5320-00,View,account.data_account_type_view,FALSE
+5327-01,Siraporn Kaewsombat (25%),5327-01,5327-00,Regular,account.data_account_type_expense,FALSE
+5327-02,Transportation and M&E tools,5327-02,5327-00,Regular,account.data_account_type_expense,FALSE
+5330-00,Eldery - โครงการผู้สูงอายุ,5330-00,5300-00,View,account.data_account_type_view,FALSE
+5330-01,Activity - กิจกรรม,5330-01,5330-00,Regular,account.data_account_type_expense,FALSE
+5330-02,Admin Cost - ค่าจัดการ,5330-02,5330-00,Regular,account.data_account_type_expense,FALSE
+5400-00,Community & Income Generation Project,5400-00,5000-00,View,account.data_account_type_view,FALSE
+5401-00,Sewing workshop,5401-00,5400-00,View,account.data_account_type_view,FALSE
+5401-01,Machine,5401-01,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-02,Furniture & Improvement,5401-02,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-03,Supply - Student uniform,5401-03,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-04,Supply - Student uniform (other donor),5401-04,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-05,Supply - Teacher uniform,5401-05,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-06,Supply - Teacher uniform (other donor),5401-06,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-07,Supply - Other,5401-07,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-08,Supply - Other (other donor),5401-08,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-09,Running costs: Rent & operation costs,5401-09,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-10,Running costs: Rent & operation costs (other donor),5401-10,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-11,Running costs: Staff Salary,5401-11,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-12,Running costs: Staff Salary (other donor),5401-12,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-13,Staff capacity Building,5401-13,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-14,Staff capacity Building (other donor),5401-14,5401-00,Regular,account.data_account_type_expense,FALSE
+5401-15,Developing Social Marketing Commercial,5401-15,5401-00,Regular,account.data_account_type_expense,FALSE
+5402-00,Sanitation assistant,5402-00,5400-00,View,account.data_account_type_view,FALSE
+5402-01,Sanitation assistant/Toilet,5402-01,5402-00,Regular,account.data_account_type_expense,FALSE
+5402-02,Sanitation assistant/Drinking water,5402-02,5402-00,Regular,account.data_account_type_expense,FALSE
+5403-00,Emergency,5403-00,5400-00,View,account.data_account_type_view,FALSE
+5403-01,General,5403-01,5403-00,Regular,account.data_account_type_expense,FALSE
+5403-02,General (other),5403-02,5403-00,Regular,account.data_account_type_expense,FALSE
+5403-03,KKB Emergency,5403-03,5403-00,Regular,account.data_account_type_expense,FALSE
+5500-00,Food and Agriculture,5500-00,5000-00,View,account.data_account_type_view,FALSE
+5510-00,Central Kitchen,5510-00,5500-00,View,account.data_account_type_view,FALSE
+5511-00,Improvement and building Maintenance,5511-00,5510-00,View,account.data_account_type_view,FALSE
+5511-01,Improvement and building Maintenance,5511-01,5511-00,Regular,account.data_account_type_expense,FALSE
+5512-00,Equipment kitchen,5512-00,5510-00,View,account.data_account_type_view,FALSE
+5512-01,Gas stove,5512-01,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-02,Big pot,5512-02,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-03,Big pan,5512-03,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-04,Cooking utensils,5512-04,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-05,Food container,5512-05,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-06,Rice container,5512-06,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-07,Drinking water tank,5512-07,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-08,Other,5512-08,5512-00,Regular,account.data_account_type_expense,FALSE
+5512-09,Other (other donor),5512-09,5512-00,Regular,account.data_account_type_expense,FALSE
+5513-00,Furniture,5513-00,5510-00,View,account.data_account_type_view,FALSE
+5513-01,Office furniture,5513-01,5513-00,Regular,account.data_account_type_expense,FALSE
+5513-02,Operation furniture,5513-02,5513-00,Regular,account.data_account_type_expense,FALSE
+5513-03,Other,5513-03,5513-00,Regular,account.data_account_type_expense,FALSE
+5514-00,Transportation,5514-00,5510-00,View,account.data_account_type_view,FALSE
+5514-01,Insurance and tax,5514-01,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-02,Insurance and tax (other donor),5514-02,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-03,Petrol,5514-03,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-04,Petrol (other donor),5514-04,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-05,Car maintenance,5514-05,5514-00,Regular,account.data_account_type_expense,FALSE
+5514-06,Car maintenance (other donor),5514-06,5514-00,Regular,account.data_account_type_expense,FALSE
+5515-00,Rent and Utilities,5515-00,5510-00,View,account.data_account_type_view,FALSE
+5515-01,Rent and tax,5515-01,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-02,Rent and tax (other donor),5515-02,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-03,Electricity,5515-03,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-04,Electricity (other donor),5515-04,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-05,Water/ used and waste,5515-05,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-06,Water/ used and waste (other donor),5515-06,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-07,Telephone,5515-07,5515-00,Regular,account.data_account_type_expense,FALSE
+5515-08,Garvage collection,5515-08,5515-00,Regular,account.data_account_type_expense,FALSE
+5516-00,Salaries,5516-00,5510-00,View,account.data_account_type_view,FALSE
+5516-01,Manager,5516-01,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-02,Nutritionist,5516-02,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-03,Cook,5516-03,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-04,Driver,5516-04,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-05,Senior Assistant,5516-05,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-06,Junior Assistant,5516-06,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-07,Logistician (share cost 70 %),5516-07,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-08,Work permit,5516-08,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-09,Over time work,5516-09,5516-00,Regular,account.data_account_type_expense,FALSE
+5516-10,Health Check up,5516-10,5516-00,Regular,account.data_account_type_expense,FALSE
+5517-00,Staff Capacity building,5517-00,5510-00,View,account.data_account_type_view,FALSE
+5517-01,Fire Safety& First Aid training,5517-01,5517-00,Regular,account.data_account_type_expense,FALSE
+5517-02,Safety food and Nutrition training,5517-02,5517-00,Regular,account.data_account_type_expense,FALSE
+5517-03,Production place visit Vegetable,5517-03,5517-00,Regular,account.data_account_type_expense,FALSE
+5518-00,Cooking Gas and Sanitation,5518-00,5510-00,View,account.data_account_type_view,FALSE
+5518-01,Cooking gas,5518-01,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-02,Plastic bag,5518-02,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-03,Cleaning detergent,5518-03,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-04,Cleaning and change water filter,5518-04,5518-00,Regular,account.data_account_type_expense,FALSE
+5518-05,Other,5518-05,5518-00,Regular,account.data_account_type_expense,FALSE
+5519-00,Food supplies,5519-00,5510-00,View,account.data_account_type_view,FALSE
+5519-01,Meat / Egg,5519-01,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-02,Meat / Egg (other donor),5519-02,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-03,Vegetable,5519-03,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-04,Vegetable (other donor),5519-04,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-05,Ingredient,5519-05,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-06,Ingredient (other donor),5519-06,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-07,Rice,5519-07,5519-00,Regular,account.data_account_type_expense,FALSE
+5519-08,Rice (other donor),5519-08,5519-00,Regular,account.data_account_type_expense,FALSE
+5520-00,Nutrition,5520-00,5400-00,View,account.data_account_type_view,FALSE
+5520-01,Nutrition/Milk & Fruit,5520-01,5520-00,Regular,account.data_account_type_expense,FALSE
+5520-02,Nutrition/Nutrition education outreach,5520-02,5520-00,Regular,account.data_account_type_expense,FALSE
+5520-03,Nutrition/Milk & Fruit(other donor),5520-03,5520-00,Regular,account.data_account_type_expense,FALSE
+5530-00,Food supplies for school & Dormitory (not central kitchen),5530-00,5400-00,View,account.data_account_type_view,FALSE
+5530-01,KM 42 : Rice,5530-01,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-02,KM 42 : vegetable & meat,5530-02,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-03,KKB : Rice,5530-03,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-04,KKB : vegetable & meat,5530-04,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-05,KM 42 : Rice(other donor),5530-05,5530-00,Regular,account.data_account_type_expense,FALSE
+5530-06,KM 42 : vegetable & meat(other donor),5530-06,5530-00,Regular,account.data_account_type_expense,FALSE
+5540-00,Agriculture,5540-00,5400-00,View,account.data_account_type_view,FALSE
+5540-01,Organic Agriculture,5540-01,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-02,"Animal raising (Fish, Pig, Chicken)",5540-02,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-03,Mushroom culture,5540-03,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-04,Bio fertilizer,5540-04,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-05,Rent & Operation,5540-05,5540-00,Regular,account.data_account_type_expense,FALSE
+5540-06,Salary,5540-06,5540-00,Regular,account.data_account_type_expense,FALSE
+5550-00,Food-Emergency,5550-00,5400-00,View,account.data_account_type_view,FALSE
+5550-01,Food Emergency,5550-01,5550-00,Regular,account.data_account_type_expense,FALSE
+5600-00,Child Protection,5600-00,5000-00,View,account.data_account_type_view,FALSE
+5601-00,Partners Responsible on Child protection,5601-00,5400-00,View,account.data_account_type_view,FALSE
+5601-01,Consultation workshops with partner organisations,5601-01,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-02,Training on use of child protection assessment tools,5601-02,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-03,National training on intensive individual data collection,5601-03,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-04,Conduct of child protection assessments,5601-04,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-05,Verification of serious child protection cases,5601-05,5601-00,Regular,account.data_account_type_expense,FALSE
+5601-06,Managing the data collected,5601-06,5601-00,Regular,account.data_account_type_expense,FALSE
+5602-00,"Partners Responsible identify, reach, and respond",5602-00,5400-00,View,account.data_account_type_view,FALSE
+5602-01,Capacity building with local government,5602-01,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-02,Follow-up training,5602-02,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-03,Support case conference,5602-03,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-04,Facilitate direct services,5602-04,5602-00,Regular,account.data_account_type_expense,FALSE
+5602-05,Support youth led initiatives,5602-05,5602-00,Regular,account.data_account_type_expense,FALSE
+5603-00,Consultation workshops,5603-00,5400-00,View,account.data_account_type_view,FALSE
+5603-01,Meetings with CPC at district,5603-01,5603-00,Regular,account.data_account_type_expense,FALSE
+5603-02,Facilitation of consultations and dialogues,5603-02,5603-00,Regular,account.data_account_type_expense,FALSE
+5603-03,"Participate and contribute to the on-going discussions - 
+",5603-03,5603-00,Regular,account.data_account_type_expense,FALSE
+5603-04,Lobby with government,5603-04,5603-00,Regular,account.data_account_type_expense,FALSE
+5604-00,"Planning, evaluation, and partnerships",5604-00,5400-00,View,account.data_account_type_view,FALSE
+5604-01,Administrative Costs,5604-01,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-02,Electricity,5604-02,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-03,Used water,5604-03,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-04,Transportation,5604-04,5604-00,Regular,account.data_account_type_expense,FALSE
+5604-05,Office supplies,5604-05,5604-00,Regular,account.data_account_type_expense,FALSE
+5700-00,Project Management,5700-00,5000-00,View,account.data_account_type_view,FALSE
+5701-00,Utilities&Facilities,5701-00,5400-00,View,account.data_account_type_view,FALSE
+5701-01,Electricity,5701-01,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-02,Television,5701-02,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-03,"Drinking Water, Coffee",5701-03,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-04,"Drinking Water, Coffee (other donor)",5701-04,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-05,Used Water,5701-05,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-06,Products for cleaning&sanitation,5701-06,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-07,Material for fixing or improvements,5701-07,5701-00,Regular,account.data_account_type_expense,FALSE
+5701-08,Labor cost for fixing or improvements,5701-08,5701-00,Regular,account.data_account_type_expense,FALSE
+5702-00,Project assistant,5702-00,5400-00,View,account.data_account_type_view,FALSE
+5702-01,Director,5702-01,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-02,Office Manager,5702-02,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-03,Finance Manager,5702-03,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-04,Accountant,5702-04,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-05,Driver,5702-05,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-06,Office Maid,5702-06,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-07,IT,5702-07,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-08,Fund Raiser,5702-08,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-09,Work permit,5702-09,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-10,Visa,5702-10,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-11,Insurance / Health / Medicine / Social insurance,5702-11,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-12,Additional expenses salary Staff,5702-12,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-13,Food/Drinks voluntary helpers,5702-13,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-14,Thai Foundation Auditing/ Accounting,5702-14,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-15,"Contribution to staff saving schem (3,200 Bht X 12 months)",5702-15,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-16,Staff of the year,5702-16,5702-00,Regular,account.data_account_type_expense,FALSE
+5702-17,Monthly allowance for Benno,5702-17,5702-00,Regular,account.data_account_type_expense,FALSE
+5703-00,"Travels,Car,Flights&Lodging",5703-00,5400-00,View,account.data_account_type_view,FALSE
+5703-01,Insurance Car,5703-01,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-02,Tax-Car,5703-02,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-03,Tax-Motorbike,5703-03,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-04,Maintenance-Car,5703-04,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-05,Maintenance-Motorbike,5703-05,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-06,Accessories car,5703-06,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-07,Gasoline,5703-07,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-08,"Bus, Train, Taxi",5703-08,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-09,Car rent,5703-09,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-10,Expressway toll,5703-10,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-11,Hotel&lodging Thailand,5703-11,5703-00,Regular,account.data_account_type_expense,FALSE
+5703-12,"Bus, Train, Taxi(other donor)",5703-12,5703-00,Regular,account.data_account_type_expense,FALSE
+5704-00,Office supplies,5704-00,5400-00,View,account.data_account_type_view,FALSE
+5704-01,Office supplies,5704-01,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-02,Flowers,5704-02,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-03,Picture prints,5704-03,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-04,Ink for printer/ Toner,5704-04,5704-00,Regular,account.data_account_type_expense,FALSE
+5704-05,CD/ DVD,5704-05,5704-00,Regular,account.data_account_type_expense,FALSE
+5705-00,Equipment furniture&machines (Office&House),5705-00,5400-00,View,account.data_account_type_view,FALSE
+5705-01,Accessories for all,5705-01,5705-00,Regular,account.data_account_type_expense,FALSE
+5705-02,Equipment for gardening,5705-02,5705-00,Regular,account.data_account_type_expense,FALSE
+5706-00,Communication&shipping,5706-00,5400-00,View,account.data_account_type_view,FALSE
+5706-01,"Telephone,Communications,Post",5706-01,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-02,"Telephone,Communications,Post / office BKK",5706-02,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-03,Internet,5706-03,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-04,Internet / office BKK,5706-04,5706-00,Regular,account.data_account_type_expense,FALSE
+5706-05,Digital Camera,5706-05,5706-00,Regular,account.data_account_type_expense,FALSE
+5707-00,Public relations&information,5707-00,5400-00,View,account.data_account_type_view,FALSE
+5707-01,Brochures&leaflets,5707-01,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-02,Business Cards,5707-02,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-03,"Signs, boards&stickers",5707-03,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-04,Gifts for guests&partners,5707-04,5707-00,Regular,account.data_account_type_expense,FALSE
+5707-05,News releases&fundraising,5707-05,5707-00,Regular,account.data_account_type_expense,FALSE
+5708-00,Food&related costs,5708-00,5400-00,View,account.data_account_type_view,FALSE
+5708-01,Restaurants&food for guests,5708-01,5708-00,Regular,account.data_account_type_expense,FALSE
+5708-02,All expenses not listed above,5708-02,5708-00,Regular,account.data_account_type_expense,FALSE
+5708-03,All expenses not listed above(other donor),5708-03,5708-00,Regular,account.data_account_type_expense,FALSE
+5709-00,Events&conferences,5709-00,5400-00,View,account.data_account_type_view,FALSE
+5709-01,All expenses related to specific events,5709-01,5709-00,Regular,account.data_account_type_expense,FALSE
+5709-02,All expenses related to specific events(other donor),5709-02,5709-00,Regular,account.data_account_type_expense,FALSE
+5710-00,Other,5710-00,5400-00,View,account.data_account_type_view,FALSE
+5710-01,Other/Exploring Burma,5710-01,5710-00,Regular,account.data_account_type_expense,FALSE

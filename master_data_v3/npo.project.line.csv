@@ -1,0 +1,1370 @@
+id,project_id,name,account_id,budget_line/obi_id,budget_line/budget_alloc
+hwf_project_line_1,[Special Area School] Special Area School,PBLT Primary,5111-01,HoG I,
+hwf_project_line_2,[Special Area School] Special Area School,Kaw Poe Kee Primary,5111-02,HoG I,
+hwf_project_line_3,[Special Area School] Special Area School,Kaw Poe Kee Nursery,5111-03,HoG I,
+hwf_project_line_4,[Special Area School] Special Area School,Hser Poe Hta,5111-04,HoG I,
+hwf_project_line_5,[Special Area School] Burma School - Ku Don village School,Salary: Director,5112-01,,
+hwf_project_line_6,[Special Area School] Burma School - Ku Don village School,Salary: Head master,5112-02,,
+hwf_project_line_7,[Special Area School] Burma School - Ku Don village School,Salary: Senior Teacher,5112-03,,
+hwf_project_line_8,[Special Area School] Burma School - Ku Don village School,Salary: Junior Teacher,5112-04,,
+hwf_project_line_9,[Special Area School] Burma School - Ku Don village School,Salary: Specific teacher,5112-05,,
+hwf_project_line_10,[Special Area School] Burma School - Ku Don village School,Salary: Cook,5112-06,,
+hwf_project_line_11,[Special Area School] Burma School - Ku Don village School,Salary: Guard / Dormitory,5112-07,,
+hwf_project_line_12,[Special Area School] Burma School - Ku Don village School,Salary: Driver,5112-08,,
+hwf_project_line_13,[Special Area School] Burma School - Ku Don village School,Salary: Other Staff,5112-09,,
+hwf_project_line_14,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Stationery,5112-10,,
+hwf_project_line_15,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Textbook / Exercise book,5112-11,,
+hwf_project_line_16,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Craft / Art / Vocational training materials,5112-12,,
+hwf_project_line_17,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Sport supplies,5112-13,,
+hwf_project_line_18,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Books for library,5112-14,,
+hwf_project_line_19,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Student uniform,5112-15,,
+hwf_project_line_20,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Teacher uniform,5112-16,,
+hwf_project_line_21,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Teacher supplies,5112-17,,
+hwf_project_line_22,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Prize for outstanding student,5112-18,,
+hwf_project_line_23,[Special Area School] Burma School - Ku Don village School,Supplies & teaching resource: Others,5112-19,,
+hwf_project_line_24,[Special Area School] Burma School - Ku Don village School,Utilities: Sanitation,5112-20,,
+hwf_project_line_25,[Special Area School] Burma School - Ku Don village School,Utilities: Electricity,5112-21,,
+hwf_project_line_26,[Special Area School] Burma School - Ku Don village School,Utilities: Drinking water,5112-22,,
+hwf_project_line_27,[Special Area School] Burma School - Ku Don village School,Utilities: Used water,5112-23,,
+hwf_project_line_28,[Special Area School] Burma School - Ku Don village School,Utilities: Telephone fee,5112-24,,
+hwf_project_line_29,[Special Area School] Burma School - Ku Don village School,Utilities: Internet fee,5112-25,,
+hwf_project_line_30,[Special Area School] Burma School - Ku Don village School,Utilities: Others,5112-26,,
+hwf_project_line_31,[Special Area School] Burma School - Ku Don village School,Facilities: House/ building / land Rent,5112-27,,
+hwf_project_line_32,[Special Area School] Burma School - Ku Don village School,Facilities: Maintenance and school improvement,5112-28,,
+hwf_project_line_33,[Special Area School] Burma School - Ku Don village School,Facilities: Construction,5112-29,,
+hwf_project_line_34,[Special Area School] Burma School - Ku Don village School,Facilities: Security & Emergency,5112-30,,
+hwf_project_line_35,[Special Area School] Burma School - Ku Don village School,Facilities: Others,5112-31,,
+hwf_project_line_36,[Special Area School] Burma School - Ku Don village School,Equipment & Furniture: School / Class room/ library equipment,5112-32,,
+hwf_project_line_37,[Special Area School] Burma School - Ku Don village School,Equipment & Furniture: School / Class room/ library furniture,5112-33,,
+hwf_project_line_38,[Special Area School] Burma School - Ku Don village School,"Equipment & Furniture: Computer, Comunication & accessories",5112-34,,
+hwf_project_line_39,[Special Area School] Burma School - Ku Don village School,Equipment & Furniture: Equipment for vocational training,5112-35,,
+hwf_project_line_40,[Special Area School] Burma School - Ku Don village School,Equipment & Furniture: Sport equipment,5112-36,,
+hwf_project_line_41,[Special Area School] Burma School - Ku Don village School,Equipment & Furniture: Musical instrument & Technical devices,5112-37,,
+hwf_project_line_42,[Special Area School] Burma School - Ku Don village School,Equipment & Furniture: Kitchen & Eating equipment,5112-38,,
+hwf_project_line_43,[Special Area School] Burma School - Ku Don village School,Equipment & Furniture: Others,5112-39,,
+hwf_project_line_44,[Special Area School] Burma School - Ku Don village School,Transportation: Car / Bus / Truck rent,5112-40,,
+hwf_project_line_45,[Special Area School] Burma School - Ku Don village School,Transportation: Maintenance / repair,5112-41,,
+hwf_project_line_46,[Special Area School] Burma School - Ku Don village School,Transportation: Gasoline / Petrol,5112-42,,
+hwf_project_line_47,[Special Area School] Burma School - Ku Don village School,Transportation: Insurance / Tax,5112-43,,
+hwf_project_line_48,[Special Area School] Burma School - Ku Don village School,Transportation: Others,5112-44,,
+hwf_project_line_49,[Special Area School] Burma School - Ku Don village School,Social activity: Cultural event,5112-45,,
+hwf_project_line_50,[Special Area School] Burma School - Ku Don village School,Social activity: Special day /event,5112-46,,
+hwf_project_line_51,[Special Area School] Burma School - Ku Don village School,Social activity: Sport event,5112-47,,
+hwf_project_line_52,[Special Area School] Burma School - Ku Don village School,Social activity: Field Trip,5112-48,,
+hwf_project_line_53,[Special Area School] Burma School - Ku Don village School,Social activity: Prize for sport & culture event,5112-49,,
+hwf_project_line_54,[Special Area School] Burma School - Ku Don village School,Social activity: Others,5112-50,,
+hwf_project_line_55,[Special Area School] Burma School - Ku Don village School,Food: Rice,5112-51,,
+hwf_project_line_56,[Special Area School] Burma School - Ku Don village School,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5112-52,,
+hwf_project_line_57,[Special Area School] Burma School - Ku Don village School,Food: Ingredients,5112-53,,
+hwf_project_line_58,[Special Area School] Burma School - Ku Don village School,Food: Snack,5112-54,,
+hwf_project_line_59,[Special Area School] Burma School - Ku Don village School,Food: Charcoal,5112-55,,
+hwf_project_line_60,[Special Area School] Burma School - Ku Don village School,Food: Others,5112-56,,
+hwf_project_line_61,[Special Area School] Burma School - Ku Don village School,Medical & Health care: First Aid Kit provided by HwF,5112-57,,
+hwf_project_line_62,[Special Area School] Burma School - Ku Don village School,Medical & Health care: Medical supply,5112-58,,
+hwf_project_line_63,[Special Area School] Burma School - Ku Don village School,Medical & Health care: Vitamin,5112-59,,
+hwf_project_line_64,[Special Area School] Burma School - Ku Don village School,Medical & Health care: Milk,5112-60,,
+hwf_project_line_65,[Special Area School] Burma School - Ku Don village School,Medical & Health care: Personal hygiene & Toiletries,5112-61,,
+hwf_project_line_66,[Special Area School] Burma School - Ku Don village School,Medical & Health care: Health education / Training,5112-62,,
+hwf_project_line_67,[Special Area School] Burma School - Ku Don village School,Medical & Health care: Others,5112-63,,
+hwf_project_line_68,[Special Area School] Burma School - Ku Don village School,Capacity building: Teacher training/ workshop,5112-64,,
+hwf_project_line_69,[Special Area School] Burma School - Ku Don village School,Capacity building: Teacher Meeting,5112-65,,
+hwf_project_line_70,[Special Area School] Burma School - Ku Don village School,Capacity building: Parent visiting/ meeting,5112-66,,
+hwf_project_line_71,[Special Area School] Burma School - Ku Don village School,Capacity building: Others,5112-67,,
+hwf_project_line_72,[Special Area School] Burma School - Ku Don village School,Miscellaneous : Miscellaneous,5112-68,,
+hwf_project_line_73,[Special Area School] Burma School - Ku Don village School,Ku Don (other donor),5112-69,,
+hwf_project_line_74,[Rays of Hope School] Ah Yone Thit,Salary: Director,5121-01,HoG I,
+hwf_project_line_75,[Rays of Hope School] Ah Yone Thit,Salary: Head master,5121-02,HoG I,49200
+hwf_project_line_76,[Rays of Hope School] Ah Yone Thit,Salary: Senior Teacher,5121-03,HoG I,39600
+hwf_project_line_77,[Rays of Hope School] Ah Yone Thit,Salary: Junior Teacher,5121-04,HoG I,144000
+hwf_project_line_78,[Rays of Hope School] Ah Yone Thit,Salary: Specific teacher,5121-05,HoG I,48000
+hwf_project_line_79,[Rays of Hope School] Ah Yone Thit,Salary: Cook,5121-06,HoG I,
+hwf_project_line_80,[Rays of Hope School] Ah Yone Thit,Salary: Guard / Dormitory,5121-07,HoG I,
+hwf_project_line_81,[Rays of Hope School] Ah Yone Thit,Salary: Driver,5121-08,HoG I,
+hwf_project_line_82,[Rays of Hope School] Ah Yone Thit,Salary: Other Staff,5121-09,HoG I,
+hwf_project_line_83,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Stationery,5121-10,HoG I,5000
+hwf_project_line_84,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Textbook / Exercise book,5121-11,HoG I,
+hwf_project_line_85,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Craft / Art / Vocational training materials,5121-12,HoG I,
+hwf_project_line_86,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Sport supplies,5121-13,HoG I,1425
+hwf_project_line_87,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Books for library,5121-14,HoG I,
+hwf_project_line_88,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Student uniform,5121-15,HoG I,
+hwf_project_line_89,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Teacher uniform,5121-16,HoG I,
+hwf_project_line_90,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Teacher supplies,5121-17,HoG I,
+hwf_project_line_91,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Prize for outstanding student,5121-18,HoG I,3000
+hwf_project_line_92,[Rays of Hope School] Ah Yone Thit,Supplies & teaching resource: Others,5121-19,HoG I,
+hwf_project_line_93,[Rays of Hope School] Ah Yone Thit,Utilities: Sanitation,5121-20,HoG I,1250
+hwf_project_line_94,[Rays of Hope School] Ah Yone Thit,Utilities: Electricity,5121-21,HoG I,18000
+hwf_project_line_95,[Rays of Hope School] Ah Yone Thit,Utilities: Drinking water,5121-22,HoG I,
+hwf_project_line_96,[Rays of Hope School] Ah Yone Thit,Utilities: Used water,5121-23,HoG I,7200
+hwf_project_line_97,[Rays of Hope School] Ah Yone Thit,Utilities: Telephone fee,5121-24,HoG I,
+hwf_project_line_98,[Rays of Hope School] Ah Yone Thit,Utilities: Internet fee,5121-25,HoG I,
+hwf_project_line_99,[Rays of Hope School] Ah Yone Thit,Utilities: Others,5121-26,HoG I,
+hwf_project_line_100,[Rays of Hope School] Ah Yone Thit,Facilities: House/ building / land Rent,5121-27,HoG I,78750
+hwf_project_line_101,[Rays of Hope School] Ah Yone Thit,Facilities: Maintenance and school improvement,5121-28,HoG I,7500
+hwf_project_line_102,[Rays of Hope School] Ah Yone Thit,Facilities: Construction,5121-29,HoG I,
+hwf_project_line_103,[Rays of Hope School] Ah Yone Thit,Facilities: Security & Emergency,5121-30,HoG I,
+hwf_project_line_104,[Rays of Hope School] Ah Yone Thit,Facilities: Others,5121-31,HoG I,
+hwf_project_line_105,[Rays of Hope School] Ah Yone Thit,Equipment & Furniture: School / Class room/ library equipment,5121-32,HoG I,
+hwf_project_line_106,[Rays of Hope School] Ah Yone Thit,Equipment & Furniture: School / Class room/ library furniture,5121-33,HoG I,
+hwf_project_line_107,[Rays of Hope School] Ah Yone Thit,"Equipment & Furniture: Computer, Comunication & accessories",5121-34,HoG I,
+hwf_project_line_108,[Rays of Hope School] Ah Yone Thit,Equipment & Furniture: Equipment for vocational training,5121-35,HoG I,
+hwf_project_line_109,[Rays of Hope School] Ah Yone Thit,Equipment & Furniture: Sport equipment,5121-36,HoG I,
+hwf_project_line_110,[Rays of Hope School] Ah Yone Thit,Equipment & Furniture: Musical instrument & Technical devices,5121-37,HoG I,
+hwf_project_line_111,[Rays of Hope School] Ah Yone Thit,Equipment & Furniture: Kitchen & Eating equipment,5121-38,HoG I,
+hwf_project_line_112,[Rays of Hope School] Ah Yone Thit,Equipment & Furniture: Others,5121-39,HoG I,
+hwf_project_line_113,[Rays of Hope School] Ah Yone Thit,Transportation: Car / Bus / Truck rent,5121-40,HoG I,50000
+hwf_project_line_114,[Rays of Hope School] Ah Yone Thit,Transportation: Maintenance / repair,5121-41,HoG I,
+hwf_project_line_115,[Rays of Hope School] Ah Yone Thit,Transportation: Gasoline / Petrol,5121-42,HoG I,
+hwf_project_line_116,[Rays of Hope School] Ah Yone Thit,Transportation: Insurance / Tax,5121-43,HoG I,
+hwf_project_line_117,[Rays of Hope School] Ah Yone Thit,Transportation: Others,5121-44,HoG I,
+hwf_project_line_118,[Rays of Hope School] Ah Yone Thit,Social activity: Cultural event,5121-45,HoG I,
+hwf_project_line_119,[Rays of Hope School] Ah Yone Thit,Social activity: Special day /event,5121-46,HoG I,
+hwf_project_line_120,[Rays of Hope School] Ah Yone Thit,Social activity: Sport event,5121-47,HoG I,
+hwf_project_line_121,[Rays of Hope School] Ah Yone Thit,Social activity: Field Trip,5121-48,HoG I,
+hwf_project_line_122,[Rays of Hope School] Ah Yone Thit,Social activity: Prize for sport & culture event,5121-49,HoG I,
+hwf_project_line_123,[Rays of Hope School] Ah Yone Thit,Social activity: Others,5121-50,HoG I,
+hwf_project_line_124,[Rays of Hope School] Ah Yone Thit,Food: Rice,5121-51,HoG I,
+hwf_project_line_125,[Rays of Hope School] Ah Yone Thit,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5121-52,HoG I,
+hwf_project_line_126,[Rays of Hope School] Ah Yone Thit,Food: Ingredients,5121-53,HoG I,
+hwf_project_line_127,[Rays of Hope School] Ah Yone Thit,Food: Snack,5121-54,HoG I,
+hwf_project_line_128,[Rays of Hope School] Ah Yone Thit,Food: Charcoal,5121-55,HoG I,
+hwf_project_line_129,[Rays of Hope School] Ah Yone Thit,Food: Others,5121-56,HoG I,
+hwf_project_line_130,[Rays of Hope School] Ah Yone Thit,Medical & Health care: First Aid Kit provided by HwF,5121-57,HoG I,
+hwf_project_line_131,[Rays of Hope School] Ah Yone Thit,Medical & Health care: Medical supply,5121-58,HoG I,
+hwf_project_line_132,[Rays of Hope School] Ah Yone Thit,Medical & Health care: Vitamin,5121-59,HoG I,
+hwf_project_line_133,[Rays of Hope School] Ah Yone Thit,Medical & Health care: Milk,5121-60,HoG I,
+hwf_project_line_134,[Rays of Hope School] Ah Yone Thit,Medical & Health care: Personal hygiene & Toiletries,5121-61,HoG I,4272
+hwf_project_line_135,[Rays of Hope School] Ah Yone Thit,Medical & Health care: Health education / Training,5121-62,HoG I,
+hwf_project_line_136,[Rays of Hope School] Ah Yone Thit,Medical & Health care: Others,5121-63,HoG I,
+hwf_project_line_137,[Rays of Hope School] Ah Yone Thit,Capacity building: Teacher training/ workshop,5121-64,HoG I,
+hwf_project_line_138,[Rays of Hope School] Ah Yone Thit,Capacity building: Teacher Meeting,5121-65,HoG I,
+hwf_project_line_139,[Rays of Hope School] Ah Yone Thit,Capacity building: Parent visiting/ meeting,5121-66,HoG I,
+hwf_project_line_140,[Rays of Hope School] Ah Yone Thit,Capacity building: Others,5121-67,HoG I,
+hwf_project_line_141,[Rays of Hope School] Ah Yone Thit,Miscellaneous : Miscellaneous,5121-68,HoG I,
+hwf_project_line_142,[Rays of Hope School] Ah Yone Thit,Ah Yone Thit (other donor),5121-69,HoG I,
+hwf_project_line_143,[Rays of Hope School] BHSOH Leaning Center,Salary: Director,5122-01,HoG I,
+hwf_project_line_144,[Rays of Hope School] BHSOH Leaning Center,Salary: Head master,5122-02,HoG I,14850
+hwf_project_line_145,[Rays of Hope School] BHSOH Leaning Center,Salary: Senior Teacher,5122-03,HoG I,69750
+hwf_project_line_146,[Rays of Hope School] BHSOH Leaning Center,Salary: Junior Teacher,5122-04,HoG I,83250
+hwf_project_line_147,[Rays of Hope School] BHSOH Leaning Center,Salary: Specific teacher,5122-05,HoG I,40500
+hwf_project_line_148,[Rays of Hope School] BHSOH Leaning Center,Salary: Cook,5122-06,HoG I,
+hwf_project_line_149,[Rays of Hope School] BHSOH Leaning Center,Salary: Guard / Dormitory,5122-07,HoG I,
+hwf_project_line_150,[Rays of Hope School] BHSOH Leaning Center,Salary: Driver,5122-08,HoG I,
+hwf_project_line_151,[Rays of Hope School] BHSOH Leaning Center,Salary: Other Staff,5122-09,HoG I,
+hwf_project_line_152,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Stationery,5122-10,HoG I,2861
+hwf_project_line_153,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Textbook / Exercise book,5122-11,HoG I,
+hwf_project_line_154,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Craft / Art / Vocational training materials,5122-12,HoG I,
+hwf_project_line_155,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Sport supplies,5122-13,HoG I,
+hwf_project_line_156,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Books for library,5122-14,HoG I,
+hwf_project_line_157,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Student uniform,5122-15,HoG I,
+hwf_project_line_158,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Teacher uniform,5122-16,HoG I,
+hwf_project_line_159,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Teacher supplies,5122-17,HoG I,
+hwf_project_line_160,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Prize for outstanding student,5122-18,HoG I,5100
+hwf_project_line_161,[Rays of Hope School] BHSOH Leaning Center,Supplies & teaching resource: Others,5122-19,HoG I,
+hwf_project_line_162,[Rays of Hope School] BHSOH Leaning Center,Utilities: Sanitation,5122-20,HoG I,
+hwf_project_line_163,[Rays of Hope School] BHSOH Leaning Center,Utilities: Electricity,5122-21,HoG I,16633
+hwf_project_line_164,[Rays of Hope School] BHSOH Leaning Center,Utilities: Drinking water,5122-22,HoG I,
+hwf_project_line_165,[Rays of Hope School] BHSOH Leaning Center,Utilities: Used water,5122-23,HoG I,
+hwf_project_line_166,[Rays of Hope School] BHSOH Leaning Center,Utilities: Telephone fee,5122-24,HoG I,
+hwf_project_line_167,[Rays of Hope School] BHSOH Leaning Center,Utilities: Internet fee,5122-25,HoG I,1800
+hwf_project_line_168,[Rays of Hope School] BHSOH Leaning Center,Utilities: Others,5122-26,HoG I,
+hwf_project_line_169,[Rays of Hope School] BHSOH Leaning Center,Facilities: House/ building / land Rent,5122-27,HoG I,
+hwf_project_line_170,[Rays of Hope School] BHSOH Leaning Center,Facilities: Maintenance and school improvement,5122-28,HoG I,
+hwf_project_line_171,[Rays of Hope School] BHSOH Leaning Center,Facilities: Construction,5122-29,HoG I,
+hwf_project_line_172,[Rays of Hope School] BHSOH Leaning Center,Facilities: Security & Emergency,5122-30,HoG I,
+hwf_project_line_173,[Rays of Hope School] BHSOH Leaning Center,Facilities: Others,5122-31,HoG I,
+hwf_project_line_174,[Rays of Hope School] BHSOH Leaning Center,Equipment & Furniture: School / Class room/ library equipment,5122-32,HoG I,
+hwf_project_line_175,[Rays of Hope School] BHSOH Leaning Center,Equipment & Furniture: School / Class room/ library furniture,5122-33,HoG I,
+hwf_project_line_176,[Rays of Hope School] BHSOH Leaning Center,"Equipment & Furniture: Computer, Comunication & accessories",5122-34,HoG I,
+hwf_project_line_177,[Rays of Hope School] BHSOH Leaning Center,Equipment & Furniture: Equipment for vocational training,5122-35,HoG I,
+hwf_project_line_178,[Rays of Hope School] BHSOH Leaning Center,Equipment & Furniture: Sport equipment,5122-36,HoG I,
+hwf_project_line_179,[Rays of Hope School] BHSOH Leaning Center,Equipment & Furniture: Musical instrument & Technical devices,5122-37,HoG I,
+hwf_project_line_180,[Rays of Hope School] BHSOH Leaning Center,Equipment & Furniture: Kitchen & Eating equipment,5122-38,HoG I,
+hwf_project_line_181,[Rays of Hope School] BHSOH Leaning Center,Equipment & Furniture: Others,5122-39,HoG I,
+hwf_project_line_182,[Rays of Hope School] BHSOH Leaning Center,Transportation: Car / Bus / Truck rent,5122-40,HoG I,60000
+hwf_project_line_183,[Rays of Hope School] BHSOH Leaning Center,Transportation: Maintenance / repair,5122-41,HoG I,
+hwf_project_line_184,[Rays of Hope School] BHSOH Leaning Center,Transportation: Gasoline / Petrol,5122-42,HoG I,
+hwf_project_line_185,[Rays of Hope School] BHSOH Leaning Center,Transportation: Insurance / Tax,5122-43,HoG I,
+hwf_project_line_186,[Rays of Hope School] BHSOH Leaning Center,Transportation: Others,5122-44,HoG I,
+hwf_project_line_187,[Rays of Hope School] BHSOH Leaning Center,Social activity: Cultural event,5122-45,HoG I,
+hwf_project_line_188,[Rays of Hope School] BHSOH Leaning Center,Social activity: Special day /event,5122-46,HoG I,
+hwf_project_line_189,[Rays of Hope School] BHSOH Leaning Center,Social activity: Sport event,5122-47,HoG I,
+hwf_project_line_190,[Rays of Hope School] BHSOH Leaning Center,Social activity: Field Trip,5122-48,HoG I,
+hwf_project_line_191,[Rays of Hope School] BHSOH Leaning Center,Social activity: Prize for sport & culture event,5122-49,HoG I,
+hwf_project_line_192,[Rays of Hope School] BHSOH Leaning Center,Social activity: Others,5122-50,HoG I,
+hwf_project_line_193,[Rays of Hope School] BHSOH Leaning Center,Food: Rice,5122-51,HoG I,
+hwf_project_line_194,[Rays of Hope School] BHSOH Leaning Center,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5122-52,HoG I,
+hwf_project_line_195,[Rays of Hope School] BHSOH Leaning Center,Food: Ingredients,5122-53,HoG I,
+hwf_project_line_196,[Rays of Hope School] BHSOH Leaning Center,Food: Snack,5122-54,HoG I,
+hwf_project_line_197,[Rays of Hope School] BHSOH Leaning Center,Food: Charcoal,5122-55,HoG I,
+hwf_project_line_198,[Rays of Hope School] BHSOH Leaning Center,Food: Others,5122-56,HoG I,
+hwf_project_line_199,[Rays of Hope School] BHSOH Leaning Center,Medical & Health care: First Aid Kit provided by HwF,5122-57,HoG I,
+hwf_project_line_200,[Rays of Hope School] BHSOH Leaning Center,Medical & Health care: Medical supply,5122-58,HoG I,
+hwf_project_line_201,[Rays of Hope School] BHSOH Leaning Center,Medical & Health care: Vitamin,5122-59,HoG I,
+hwf_project_line_202,[Rays of Hope School] BHSOH Leaning Center,Medical & Health care: Milk,5122-60,HoG I,
+hwf_project_line_203,[Rays of Hope School] BHSOH Leaning Center,Medical & Health care: Personal hygiene & Toiletries,5122-61,HoG I,
+hwf_project_line_204,[Rays of Hope School] BHSOH Leaning Center,Medical & Health care: Health education / Training,5122-62,HoG I,
+hwf_project_line_205,[Rays of Hope School] BHSOH Leaning Center,Medical & Health care: Others,5122-63,HoG I,
+hwf_project_line_206,[Rays of Hope School] BHSOH Leaning Center,Capacity building: Teacher training/ workshop,5122-64,HoG I,
+hwf_project_line_207,[Rays of Hope School] BHSOH Leaning Center,Capacity building: Teacher Meeting,5122-65,HoG I,
+hwf_project_line_208,[Rays of Hope School] BHSOH Leaning Center,Capacity building: Parent visiting/ meeting,5122-66,HoG I,
+hwf_project_line_209,[Rays of Hope School] BHSOH Leaning Center,Capacity building: Others,5122-67,HoG I,
+hwf_project_line_210,[Rays of Hope School] BHSOH Leaning Center,Miscellaneous : Miscellaneous,5122-68,HoG I,
+hwf_project_line_211,[Rays of Hope School] BHSOH Leaning Center,BHSOH (other donors),5121-04,HoG I,
+hwf_project_line_212,[Rays of Hope School] KM 42 Leaning Center,Salary: Director,5123-01,HoG I,
+hwf_project_line_213,[Rays of Hope School] KM 42 Leaning Center,Salary: Head master,5123-02,HoG I,36000
+hwf_project_line_214,[Rays of Hope School] KM 42 Leaning Center,Salary: Senior Teacher,5123-03,HoG I,56700
+hwf_project_line_215,[Rays of Hope School] KM 42 Leaning Center,Salary: Junior Teacher,5123-04,HoG I,223200
+hwf_project_line_216,[Rays of Hope School] KM 42 Leaning Center,Salary: Specific teacher,5123-05,HoG I,36000
+hwf_project_line_217,[Rays of Hope School] KM 42 Leaning Center,Salary: Cook,5123-06,HoG I,27000
+hwf_project_line_218,[Rays of Hope School] KM 42 Leaning Center,Salary: Guard / Dormitory,5123-07,HoG I,
+hwf_project_line_219,[Rays of Hope School] KM 42 Leaning Center,Salary: Driver,5123-08,HoG I,
+hwf_project_line_220,[Rays of Hope School] KM 42 Leaning Center,Salary: Other Staff,5123-09,HoG I,
+hwf_project_line_221,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Stationery,5123-10,HoG I,3750
+hwf_project_line_222,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Textbook / Exercise book,5123-11,HoG I,
+hwf_project_line_223,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Craft / Art / Vocational training materials,5123-12,HoG I,
+hwf_project_line_224,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Sport supplies,5123-13,HoG I,382.5
+hwf_project_line_225,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Books for library,5123-14,HoG I,
+hwf_project_line_226,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Student uniform,5123-15,HoG I,105000
+hwf_project_line_227,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Teacher uniform,5123-16,HoG I,2100
+hwf_project_line_228,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Teacher supplies,5123-17,HoG I,
+hwf_project_line_229,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Prize for outstanding student,5123-18,HoG I,3750
+hwf_project_line_230,[Rays of Hope School] KM 42 Leaning Center,Supplies & teaching resource: Others,5123-19,HoG I,
+hwf_project_line_231,[Rays of Hope School] KM 42 Leaning Center,Utilities: Sanitation,5123-20,HoG I,1920
+hwf_project_line_232,[Rays of Hope School] KM 42 Leaning Center,Utilities: Electricity,5123-21,HoG I,18000
+hwf_project_line_233,[Rays of Hope School] KM 42 Leaning Center,Utilities: Drinking water,5123-22,HoG I,
+hwf_project_line_234,[Rays of Hope School] KM 42 Leaning Center,Utilities: Used water,5123-23,HoG I,3750
+hwf_project_line_235,[Rays of Hope School] KM 42 Leaning Center,Utilities: Telephone fee,5123-24,HoG I,
+hwf_project_line_236,[Rays of Hope School] KM 42 Leaning Center,Utilities: Internet fee,5123-25,HoG I,
+hwf_project_line_237,[Rays of Hope School] KM 42 Leaning Center,Utilities: Others,5123-26,HoG I,
+hwf_project_line_238,[Rays of Hope School] KM 42 Leaning Center,Facilities: House/ building / land Rent,5123-27,HoG I,5250
+hwf_project_line_239,[Rays of Hope School] KM 42 Leaning Center,Facilities: Maintenance and school improvement,5123-28,HoG I,3750
+hwf_project_line_240,[Rays of Hope School] KM 42 Leaning Center,Facilities: Construction,5123-29,HoG I,
+hwf_project_line_241,[Rays of Hope School] KM 42 Leaning Center,Facilities: Security & Emergency,5123-30,HoG I,
+hwf_project_line_242,[Rays of Hope School] KM 42 Leaning Center,Facilities: Others,5123-31,HoG I,
+hwf_project_line_243,[Rays of Hope School] KM 42 Leaning Center,Equipment & Furniture: School / Class room/ library equipment,5123-32,HoG I,
+hwf_project_line_244,[Rays of Hope School] KM 42 Leaning Center,Equipment & Furniture: School / Class room/ library furniture,5123-33,HoG I,
+hwf_project_line_245,[Rays of Hope School] KM 42 Leaning Center,"Equipment & Furniture: Computer, Comunication & accessories",5123-34,HoG I,
+hwf_project_line_246,[Rays of Hope School] KM 42 Leaning Center,Equipment & Furniture: Equipment for vocational training,5123-35,HoG I,
+hwf_project_line_247,[Rays of Hope School] KM 42 Leaning Center,Equipment & Furniture: Sport equipment,5123-36,HoG I,
+hwf_project_line_248,[Rays of Hope School] KM 42 Leaning Center,Equipment & Furniture: Musical instrument & Technical devices,5123-37,HoG I,
+hwf_project_line_249,[Rays of Hope School] KM 42 Leaning Center,Equipment & Furniture: Kitchen & Eating equipment,5123-38,HoG I,
+hwf_project_line_250,[Rays of Hope School] KM 42 Leaning Center,Equipment & Furniture: Others,5123-39,HoG I,
+hwf_project_line_251,[Rays of Hope School] KM 42 Leaning Center,Transportation: Car / Bus / Truck rent,5123-40,HoG I,225000
+hwf_project_line_252,[Rays of Hope School] KM 42 Leaning Center,Transportation: Maintenance / repair,5123-41,HoG I,
+hwf_project_line_253,[Rays of Hope School] KM 42 Leaning Center,Transportation: Gasoline / Petrol,5123-42,HoG I,
+hwf_project_line_254,[Rays of Hope School] KM 42 Leaning Center,Transportation: Insurance / Tax,5123-43,HoG I,
+hwf_project_line_255,[Rays of Hope School] KM 42 Leaning Center,Transportation: Others,5123-44,HoG I,
+hwf_project_line_256,[Rays of Hope School] KM 42 Leaning Center,Social activity: Cultural event,5123-45,HoG I,
+hwf_project_line_257,[Rays of Hope School] KM 42 Leaning Center,Social activity: Special day /event,5123-46,HoG I,
+hwf_project_line_258,[Rays of Hope School] KM 42 Leaning Center,Social activity: Sport event,5123-47,HoG I,
+hwf_project_line_259,[Rays of Hope School] KM 42 Leaning Center,Social activity: Field Trip,5123-48,HoG I,
+hwf_project_line_260,[Rays of Hope School] KM 42 Leaning Center,Social activity: Prize for sport & culture event,5123-49,HoG I,
+hwf_project_line_261,[Rays of Hope School] KM 42 Leaning Center,Social activity: Others,5123-50,HoG I,
+hwf_project_line_262,[Rays of Hope School] KM 42 Leaning Center,Food: Rice,5123-51,HoG I,
+hwf_project_line_263,[Rays of Hope School] KM 42 Leaning Center,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5123-52,HoG I,
+hwf_project_line_264,[Rays of Hope School] KM 42 Leaning Center,Food: Ingredients,5123-53,HoG I,
+hwf_project_line_265,[Rays of Hope School] KM 42 Leaning Center,Food: Snack,5123-54,HoG I,
+hwf_project_line_266,[Rays of Hope School] KM 42 Leaning Center,Food: Charcoal,5123-55,HoG I,
+hwf_project_line_267,[Rays of Hope School] KM 42 Leaning Center,Food: Others,5123-56,HoG I,
+hwf_project_line_268,[Rays of Hope School] KM 42 Leaning Center,Medical & Health care: First Aid Kit provided by HwF,5123-57,HoG I,
+hwf_project_line_269,[Rays of Hope School] KM 42 Leaning Center,Medical & Health care: Medical supply,5123-58,HoG I,
+hwf_project_line_270,[Rays of Hope School] KM 42 Leaning Center,Medical & Health care: Vitamin,5123-59,HoG I,
+hwf_project_line_271,[Rays of Hope School] KM 42 Leaning Center,Medical & Health care: Milk,5123-60,HoG I,
+hwf_project_line_272,[Rays of Hope School] KM 42 Leaning Center,Medical & Health care: Personal hygiene & Toiletries,5123-61,HoG I,15600
+hwf_project_line_273,[Rays of Hope School] KM 42 Leaning Center,Medical & Health care: Health education / Training,5123-62,HoG I,
+hwf_project_line_274,[Rays of Hope School] KM 42 Leaning Center,Medical & Health care: Others,5123-63,HoG I,
+hwf_project_line_275,[Rays of Hope School] KM 42 Leaning Center,Capacity building: Teacher training/ workshop,5123-64,HoG I,
+hwf_project_line_276,[Rays of Hope School] KM 42 Leaning Center,Capacity building: Teacher Meeting,5123-65,HoG I,
+hwf_project_line_277,[Rays of Hope School] KM 42 Leaning Center,Capacity building: Parent visiting/ meeting,5123-66,HoG I,
+hwf_project_line_278,[Rays of Hope School] KM 42 Leaning Center,Capacity building: Others,5123-67,HoG I,
+hwf_project_line_279,[Rays of Hope School] KM 42 Leaning Center,Miscellaneous : Miscellaneous,5123-68,HoG I,
+hwf_project_line_280,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Director,5124-01,CB,
+hwf_project_line_281,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Head master,5124-02,CB,12000
+hwf_project_line_282,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Senior Teacher,5124-03,CB,18900
+hwf_project_line_283,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Junior Teacher,5124-04,CB,74400
+hwf_project_line_284,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Specific teacher,5124-05,CB,12000
+hwf_project_line_285,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Cook,5124-06,CB,9000
+hwf_project_line_286,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Guard / Dormitory,5124-07,CB,
+hwf_project_line_287,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Driver,5124-08,CB,
+hwf_project_line_288,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Salary: Other Staff,5124-09,CB,
+hwf_project_line_289,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Stationery,5124-10,CB,1250
+hwf_project_line_290,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Textbook / Exercise book,5124-11,CB,
+hwf_project_line_291,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Craft / Art / Vocational training materials,5124-12,CB,
+hwf_project_line_292,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Sport supplies,5124-13,CB,127.5
+hwf_project_line_293,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Books for library,5124-14,CB,
+hwf_project_line_294,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Student uniform,5124-15,CB,35000
+hwf_project_line_295,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Teacher uniform,5124-16,CB,700
+hwf_project_line_296,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Teacher supplies,5124-17,CB,
+hwf_project_line_297,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Prize for outstanding student,5124-18,CB,1250
+hwf_project_line_298,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Supplies & teaching resource: Others,5124-19,CB,
+hwf_project_line_299,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Utilities: Sanitation,5124-20,CB,640
+hwf_project_line_300,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Utilities: Electricity,5124-21,CB,6000
+hwf_project_line_301,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Utilities: Drinking water,5124-22,CB,
+hwf_project_line_302,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Utilities: Used water,5124-23,CB,1250
+hwf_project_line_303,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Utilities: Telephone fee,5124-24,CB,
+hwf_project_line_304,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Utilities: Internet fee,5124-25,CB,
+hwf_project_line_305,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Utilities: Others,5124-26,CB,
+hwf_project_line_306,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Facilities: House/ building / land Rent,5124-27,CB,1750
+hwf_project_line_307,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Facilities: Maintenance and school improvement,5124-28,CB,1250
+hwf_project_line_308,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Facilities: Construction,5124-29,CB,
+hwf_project_line_309,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Facilities: Security & Emergency,5124-30,CB,
+hwf_project_line_310,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Facilities: Others,5124-31,CB,
+hwf_project_line_311,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Equipment & Furniture: School / Class room/ library equipment,5124-32,CB,
+hwf_project_line_312,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Equipment & Furniture: School / Class room/ library furniture,5124-33,CB,
+hwf_project_line_313,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),"Equipment & Furniture: Computer, Comunication & accessories",5124-34,CB,
+hwf_project_line_314,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Equipment & Furniture: Equipment for vocational training,5124-35,CB,
+hwf_project_line_315,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Equipment & Furniture: Sport equipment,5124-36,CB,
+hwf_project_line_316,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Equipment & Furniture: Musical instrument & Technical devices,5124-37,CB,
+hwf_project_line_317,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Equipment & Furniture: Kitchen & Eating equipment,5124-38,CB,
+hwf_project_line_318,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Equipment & Furniture: Others,5124-39,CB,
+hwf_project_line_319,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Transportation: Car / Bus / Truck rent,5124-40,CB,75000
+hwf_project_line_320,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Transportation: Maintenance / repair,5124-41,CB,
+hwf_project_line_321,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Transportation: Gasoline / Petrol,5124-42,CB,
+hwf_project_line_322,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Transportation: Insurance / Tax,5124-43,CB,
+hwf_project_line_323,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Transportation: Others,5124-44,CB,
+hwf_project_line_324,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Social activity: Cultural event,5124-45,CB,
+hwf_project_line_325,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Social activity: Special day /event,5124-46,CB,
+hwf_project_line_326,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Social activity: Sport event,5124-47,CB,
+hwf_project_line_327,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Social activity: Field Trip,5124-48,CB,
+hwf_project_line_328,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Social activity: Prize for sport & culture event,5124-49,CB,
+hwf_project_line_329,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Social activity: Others,5124-50,CB,
+hwf_project_line_330,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Food: Rice,5124-51,CB,
+hwf_project_line_331,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5124-52,CB,
+hwf_project_line_332,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Food: Ingredients,5124-53,CB,
+hwf_project_line_333,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Food: Snack,5124-54,CB,
+hwf_project_line_334,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Food: Charcoal,5124-55,CB,
+hwf_project_line_335,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Food: Others,5124-56,CB,
+hwf_project_line_336,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Medical & Health care: First Aid Kit provided by HwF,5124-57,CB,
+hwf_project_line_337,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Medical & Health care: Medical supply,5124-58,CB,
+hwf_project_line_338,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Medical & Health care: Vitamin,5124-59,CB,
+hwf_project_line_339,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Medical & Health care: Milk,5124-60,CB,
+hwf_project_line_340,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Medical & Health care: Personal hygiene & Toiletries,5124-61,CB,5200
+hwf_project_line_341,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Medical & Health care: Health education / Training,5124-62,CB,
+hwf_project_line_342,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Medical & Health care: Others,5124-63,CB,
+hwf_project_line_343,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Capacity building: Teacher training/ workshop,5124-64,CB,
+hwf_project_line_344,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Capacity building: Teacher Meeting,5124-65,CB,
+hwf_project_line_345,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Capacity building: Parent visiting/ meeting,5124-66,CB,
+hwf_project_line_346,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Capacity building: Others,5124-67,CB,
+hwf_project_line_347,[Rays of Hope School] KM 42 Leaning Center (other donors 25 %),Miscellaneous : Miscellaneous,5124-68,CB,
+hwf_project_line_348,[Rays of Hope School] New Day Leaning Center,Salary: Director,5125-01,HoG I,49800
+hwf_project_line_349,[Rays of Hope School] New Day Leaning Center,Salary: Head master,5125-02,HoG I,48000
+hwf_project_line_350,[Rays of Hope School] New Day Leaning Center,Salary: Senior Teacher,5125-03,HoG I,160800
+hwf_project_line_351,[Rays of Hope School] New Day Leaning Center,Salary: Junior Teacher,5125-04,HoG I,252000
+hwf_project_line_352,[Rays of Hope School] New Day Leaning Center,Salary: Specific teacher,5125-05,HoG I,48000
+hwf_project_line_353,[Rays of Hope School] New Day Leaning Center,Salary: Cook,5125-06,HoG I,
+hwf_project_line_354,[Rays of Hope School] New Day Leaning Center,Salary: Guard / Dormitory,5125-07,HoG I,
+hwf_project_line_355,[Rays of Hope School] New Day Leaning Center,Salary: Driver,5125-08,HoG I,
+hwf_project_line_356,[Rays of Hope School] New Day Leaning Center,Salary: Other Staff,5125-09,HoG I,
+hwf_project_line_357,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Stationery,5125-10,HoG I,5000
+hwf_project_line_358,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Textbook / Exercise book,5125-11,HoG I,
+hwf_project_line_359,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Craft / Art / Vocational training materials,5125-12,HoG I,
+hwf_project_line_360,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Sport supplies,5125-13,HoG I,2525
+hwf_project_line_361,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Books for library,5125-14,HoG I,
+hwf_project_line_362,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Student uniform,5125-15,HoG I,
+hwf_project_line_363,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Teacher uniform,5125-16,HoG I,
+hwf_project_line_364,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Teacher supplies,5125-17,HoG I,
+hwf_project_line_365,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Prize for outstanding student,5125-18,HoG I,3000
+hwf_project_line_366,[Rays of Hope School] New Day Leaning Center,Supplies & teaching resource: Others,5125-19,HoG I,
+hwf_project_line_367,[Rays of Hope School] New Day Leaning Center,Utilities: Sanitation,5125-20,HoG I,2560
+hwf_project_line_368,[Rays of Hope School] New Day Leaning Center,Utilities: Electricity,5125-21,HoG I,36000
+hwf_project_line_369,[Rays of Hope School] New Day Leaning Center,Utilities: Drinking water,5125-22,HoG I,
+hwf_project_line_370,[Rays of Hope School] New Day Leaning Center,Utilities: Used water,5125-23,HoG I,36000
+hwf_project_line_371,[Rays of Hope School] New Day Leaning Center,Utilities: Telephone fee,5125-24,HoG I,
+hwf_project_line_372,[Rays of Hope School] New Day Leaning Center,Utilities: Internet fee,5125-25,HoG I,
+hwf_project_line_373,[Rays of Hope School] New Day Leaning Center,Utilities: Others,5125-26,HoG I,
+hwf_project_line_374,[Rays of Hope School] New Day Leaning Center,Facilities: House/ building / land Rent,5125-27,HoG I,51000
+hwf_project_line_375,[Rays of Hope School] New Day Leaning Center,Facilities: Maintenance and school improvement,5125-28,HoG I,7500
+hwf_project_line_376,[Rays of Hope School] New Day Leaning Center,Facilities: Construction,5125-29,HoG I,
+hwf_project_line_377,[Rays of Hope School] New Day Leaning Center,Facilities: Security & Emergency,5125-30,HoG I,
+hwf_project_line_378,[Rays of Hope School] New Day Leaning Center,Facilities: Others,5125-31,HoG I,
+hwf_project_line_379,[Rays of Hope School] New Day Leaning Center,Equipment & Furniture: School / Class room/ library equipment,5125-32,HoG I,
+hwf_project_line_380,[Rays of Hope School] New Day Leaning Center,Equipment & Furniture: School / Class room/ library furniture,5125-33,HoG I,
+hwf_project_line_381,[Rays of Hope School] New Day Leaning Center,"Equipment & Furniture: Computer, Comunication & accessories",5125-34,HoG I,
+hwf_project_line_382,[Rays of Hope School] New Day Leaning Center,Equipment & Furniture: Equipment for vocational training,5125-35,HoG I,
+hwf_project_line_383,[Rays of Hope School] New Day Leaning Center,Equipment & Furniture: Sport equipment,5125-36,HoG I,
+hwf_project_line_384,[Rays of Hope School] New Day Leaning Center,Equipment & Furniture: Musical instrument & Technical devices,5125-37,HoG I,
+hwf_project_line_385,[Rays of Hope School] New Day Leaning Center,Equipment & Furniture: Kitchen & Eating equipment,5125-38,HoG I,
+hwf_project_line_386,[Rays of Hope School] New Day Leaning Center,Equipment & Furniture: Others,5125-39,HoG I,
+hwf_project_line_387,[Rays of Hope School] New Day Leaning Center,Transportation: Car / Bus / Truck rent,5125-40,HoG I,250000
+hwf_project_line_388,[Rays of Hope School] New Day Leaning Center,Transportation: Maintenance / repair,5125-41,HoG I,
+hwf_project_line_389,[Rays of Hope School] New Day Leaning Center,Transportation: Gasoline / Petrol,5125-42,HoG I,
+hwf_project_line_390,[Rays of Hope School] New Day Leaning Center,Transportation: Insurance / Tax,5125-43,HoG I,
+hwf_project_line_391,[Rays of Hope School] New Day Leaning Center,Transportation: Others,5125-44,HoG I,
+hwf_project_line_392,[Rays of Hope School] New Day Leaning Center,Social activity: Cultural event,5125-45,HoG I,
+hwf_project_line_393,[Rays of Hope School] New Day Leaning Center,Social activity: Special day /event,5125-46,HoG I,
+hwf_project_line_394,[Rays of Hope School] New Day Leaning Center,Social activity: Sport event,5125-47,HoG I,
+hwf_project_line_395,[Rays of Hope School] New Day Leaning Center,Social activity: Field Trip,5125-48,HoG I,
+hwf_project_line_396,[Rays of Hope School] New Day Leaning Center,Social activity: Prize for sport & culture event,5125-49,HoG I,
+hwf_project_line_397,[Rays of Hope School] New Day Leaning Center,Social activity: Others,5125-50,HoG I,
+hwf_project_line_398,[Rays of Hope School] New Day Leaning Center,Food: Rice,5125-51,HoG I,
+hwf_project_line_399,[Rays of Hope School] New Day Leaning Center,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5125-52,HoG I,
+hwf_project_line_400,[Rays of Hope School] New Day Leaning Center,Food: Ingredients,5125-53,HoG I,
+hwf_project_line_401,[Rays of Hope School] New Day Leaning Center,Food: Snack,5125-54,HoG I,
+hwf_project_line_402,[Rays of Hope School] New Day Leaning Center,Food: Charcoal,5125-55,HoG I,
+hwf_project_line_403,[Rays of Hope School] New Day Leaning Center,Food: Others,5125-56,HoG I,
+hwf_project_line_404,[Rays of Hope School] New Day Leaning Center,Medical & Health care: First Aid Kit provided by HwF,5125-57,HoG I,
+hwf_project_line_405,[Rays of Hope School] New Day Leaning Center,Medical & Health care: Medical supply,5125-58,HoG I,
+hwf_project_line_406,[Rays of Hope School] New Day Leaning Center,Medical & Health care: Vitamin,5125-59,HoG I,
+hwf_project_line_407,[Rays of Hope School] New Day Leaning Center,Medical & Health care: Milk,5125-60,HoG I,
+hwf_project_line_408,[Rays of Hope School] New Day Leaning Center,Medical & Health care: Personal hygiene & Toiletries,5125-61,HoG I,14240
+hwf_project_line_409,[Rays of Hope School] New Day Leaning Center,Medical & Health care: Health education / Training,5125-62,HoG I,
+hwf_project_line_410,[Rays of Hope School] New Day Leaning Center,Medical & Health care: Others,5125-63,HoG I,
+hwf_project_line_411,[Rays of Hope School] New Day Leaning Center,Capacity building: Teacher training/ workshop,5125-64,HoG I,
+hwf_project_line_412,[Rays of Hope School] New Day Leaning Center,Capacity building: Teacher Meeting,5125-65,HoG I,
+hwf_project_line_413,[Rays of Hope School] New Day Leaning Center,Capacity building: Parent visiting/ meeting,5125-66,HoG I,
+hwf_project_line_414,[Rays of Hope School] New Day Leaning Center,Capacity building: Others,5125-67,HoG I,
+hwf_project_line_415,[Rays of Hope School] New Day Leaning Center,Miscellaneous : Miscellaneous,5125-68,HoG I,
+hwf_project_line_416,[Rays of Hope School] New Day Leaning Center,New Day (other donor),5125-69,HoG I,
+hwf_project_line_417,[Rays of Hope School] Paramii Leaning Center,Salary: Director,5126-01,HoG I,60000
+hwf_project_line_418,[Rays of Hope School] Paramii Leaning Center,Salary: Head master,5126-02,HoG I,59400
+hwf_project_line_419,[Rays of Hope School] Paramii Leaning Center,Salary: Senior Teacher,5126-03,HoG I,53400
+hwf_project_line_420,[Rays of Hope School] Paramii Leaning Center,Salary: Junior Teacher,5126-04,HoG I,612000
+hwf_project_line_421,[Rays of Hope School] Paramii Leaning Center,Salary: Specific teacher,5126-05,HoG I,203000
+hwf_project_line_422,[Rays of Hope School] Paramii Leaning Center,Salary: Cook,5126-06,HoG I,
+hwf_project_line_423,[Rays of Hope School] Paramii Leaning Center,Salary: Guard / Dormitory,5126-07,HoG I,
+hwf_project_line_424,[Rays of Hope School] Paramii Leaning Center,Salary: Driver,5126-08,HoG I,
+hwf_project_line_425,[Rays of Hope School] Paramii Leaning Center,Salary: Other Staff,5126-09,HoG I,
+hwf_project_line_426,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Stationery,5126-10,HoG I,10000
+hwf_project_line_427,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Textbook / Exercise book,5126-11,HoG I,
+hwf_project_line_428,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Craft / Art / Vocational training materials,5126-12,HoG I,
+hwf_project_line_429,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Sport supplies,5126-13,HoG I,2825
+hwf_project_line_430,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Books for library,5126-14,HoG I,
+hwf_project_line_431,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Student uniform,5126-15,HoG I,
+hwf_project_line_432,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Teacher uniform,5126-16,HoG I,
+hwf_project_line_433,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Teacher supplies,5126-17,HoG I,
+hwf_project_line_434,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Prize for outstanding student,5126-18,HoG I,5000
+hwf_project_line_435,[Rays of Hope School] Paramii Leaning Center,Supplies & teaching resource: Others,5126-19,HoG I,
+hwf_project_line_436,[Rays of Hope School] Paramii Leaning Center,Utilities: Sanitation,5126-20,HoG I,2560
+hwf_project_line_437,[Rays of Hope School] Paramii Leaning Center,Utilities: Electricity,5126-21,HoG I,36000
+hwf_project_line_438,[Rays of Hope School] Paramii Leaning Center,Utilities: Drinking water,5126-22,HoG I,
+hwf_project_line_439,[Rays of Hope School] Paramii Leaning Center,Utilities: Used water,5126-23,HoG I,36000
+hwf_project_line_440,[Rays of Hope School] Paramii Leaning Center,Utilities: Telephone fee,5126-24,HoG I,
+hwf_project_line_441,[Rays of Hope School] Paramii Leaning Center,Utilities: Internet fee,5126-25,HoG I,7572
+hwf_project_line_442,[Rays of Hope School] Paramii Leaning Center,Utilities: Others,5126-26,HoG I,3600
+hwf_project_line_443,[Rays of Hope School] Paramii Leaning Center,Facilities: House/ building / land Rent,5126-27,HoG I,45000
+hwf_project_line_444,[Rays of Hope School] Paramii Leaning Center,Facilities: Maintenance and school improvement,5126-28,HoG I,7500
+hwf_project_line_445,[Rays of Hope School] Paramii Leaning Center,Facilities: Construction,5126-29,HoG I,
+hwf_project_line_446,[Rays of Hope School] Paramii Leaning Center,Facilities: Security & Emergency,5126-30,HoG I,
+hwf_project_line_447,[Rays of Hope School] Paramii Leaning Center,Facilities: Others,5126-31,HoG I,
+hwf_project_line_448,[Rays of Hope School] Paramii Leaning Center,Equipment & Furniture: School / Class room/ library equipment,5126-32,HoG I,
+hwf_project_line_449,[Rays of Hope School] Paramii Leaning Center,Equipment & Furniture: School / Class room/ library furniture,5126-33,HoG I,
+hwf_project_line_450,[Rays of Hope School] Paramii Leaning Center,"Equipment & Furniture: Computer, Comunication & accessories",5126-34,HoG I,
+hwf_project_line_451,[Rays of Hope School] Paramii Leaning Center,Equipment & Furniture: Equipment for vocational training,5126-35,HoG I,
+hwf_project_line_452,[Rays of Hope School] Paramii Leaning Center,Equipment & Furniture: Sport equipment,5126-36,HoG I,
+hwf_project_line_453,[Rays of Hope School] Paramii Leaning Center,Equipment & Furniture: Musical instrument & Technical devices,5126-37,HoG I,
+hwf_project_line_454,[Rays of Hope School] Paramii Leaning Center,Equipment & Furniture: Kitchen & Eating equipment,5126-38,HoG I,
+hwf_project_line_455,[Rays of Hope School] Paramii Leaning Center,Equipment & Furniture: Others,5126-39,HoG I,
+hwf_project_line_456,[Rays of Hope School] Paramii Leaning Center,Transportation: Car / Bus / Truck rent,5126-40,HoG I,250000
+hwf_project_line_457,[Rays of Hope School] Paramii Leaning Center,Transportation: Maintenance / repair,5126-41,HoG I,
+hwf_project_line_458,[Rays of Hope School] Paramii Leaning Center,Transportation: Gasoline / Petrol,5126-42,HoG I,
+hwf_project_line_459,[Rays of Hope School] Paramii Leaning Center,Transportation: Insurance / Tax,5126-43,HoG I,
+hwf_project_line_460,[Rays of Hope School] Paramii Leaning Center,Transportation: Others,5126-44,HoG I,
+hwf_project_line_461,[Rays of Hope School] Paramii Leaning Center,Social activity: Cultural event,5126-45,HoG I,
+hwf_project_line_462,[Rays of Hope School] Paramii Leaning Center,Social activity: Special day /event,5126-46,HoG I,
+hwf_project_line_463,[Rays of Hope School] Paramii Leaning Center,Social activity: Sport event,5126-47,HoG I,
+hwf_project_line_464,[Rays of Hope School] Paramii Leaning Center,Social activity: Field Trip,5126-48,HoG I,
+hwf_project_line_465,[Rays of Hope School] Paramii Leaning Center,Social activity: Prize for sport & culture event,5126-49,HoG I,
+hwf_project_line_466,[Rays of Hope School] Paramii Leaning Center,Social activity: Others,5126-50,HoG I,
+hwf_project_line_467,[Rays of Hope School] Paramii Leaning Center,Food: Rice,5126-51,HoG I,
+hwf_project_line_468,[Rays of Hope School] Paramii Leaning Center,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5126-52,HoG I,
+hwf_project_line_469,[Rays of Hope School] Paramii Leaning Center,Food: Ingredients,5126-53,HoG I,
+hwf_project_line_470,[Rays of Hope School] Paramii Leaning Center,Food: Snack,5126-54,HoG I,
+hwf_project_line_471,[Rays of Hope School] Paramii Leaning Center,Food: Charcoal,5126-55,HoG I,
+hwf_project_line_472,[Rays of Hope School] Paramii Leaning Center,Food: Others,5126-56,HoG I,
+hwf_project_line_473,[Rays of Hope School] Paramii Leaning Center,Medical & Health care: First Aid Kit provided by HwF,5126-57,HoG I,
+hwf_project_line_474,[Rays of Hope School] Paramii Leaning Center,Medical & Health care: Medical supply,5126-58,HoG I,
+hwf_project_line_475,[Rays of Hope School] Paramii Leaning Center,Medical & Health care: Vitamin,5126-59,HoG I,
+hwf_project_line_476,[Rays of Hope School] Paramii Leaning Center,Medical & Health care: Milk,5126-60,HoG I,
+hwf_project_line_477,[Rays of Hope School] Paramii Leaning Center,Medical & Health care: Personal hygiene & Toiletries,5126-61,HoG I,17800
+hwf_project_line_478,[Rays of Hope School] Paramii Leaning Center,Medical & Health care: Health education / Training,5126-62,HoG I,
+hwf_project_line_479,[Rays of Hope School] Paramii Leaning Center,Medical & Health care: Others,5126-63,HoG I,
+hwf_project_line_480,[Rays of Hope School] Paramii Leaning Center,Capacity building: Teacher training/ workshop,5126-64,HoG I,
+hwf_project_line_481,[Rays of Hope School] Paramii Leaning Center,Capacity building: Teacher Meeting,5126-65,HoG I,
+hwf_project_line_482,[Rays of Hope School] Paramii Leaning Center,Capacity building: Parent visiting/ meeting,5126-66,HoG I,
+hwf_project_line_483,[Rays of Hope School] Paramii Leaning Center,Capacity building: Others,5126-67,HoG I,
+hwf_project_line_484,[Rays of Hope School] Paramii Leaning Center,Miscellaneous : Miscellaneous,5126-68,HoG I,
+hwf_project_line_485,[Rays of Hope School] Paramii Leaning Center,Paramii (other donor)- ศูนย์การเรียน PRM (other donor),5126-69,HoG I,
+hwf_project_line_486,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Director,5127-01,HoG I,
+hwf_project_line_487,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Head master,5127-02,HoG I,48000
+hwf_project_line_488,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Senior Teacher,5127-03,HoG I,39600
+hwf_project_line_489,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Junior Teacher,5127-04,HoG I,144000
+hwf_project_line_490,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Specific teacher,5127-05,HoG I,48000
+hwf_project_line_491,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Cook,5127-06,HoG I,
+hwf_project_line_492,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Guard / Dormitory,5127-07,HoG I,
+hwf_project_line_493,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Driver,5127-08,HoG I,
+hwf_project_line_494,[Rays of Hope School] Ah Yon Oo Leaning Center,Salary: Other Staff,5127-09,HoG I,
+hwf_project_line_495,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Stationery,5127-10,HoG I,5000
+hwf_project_line_496,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Textbook / Exercise book,5127-11,HoG I,
+hwf_project_line_497,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Craft / Art / Vocational training materials,5127-12,HoG I,
+hwf_project_line_498,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Sport supplies,5127-13,HoG I,1425
+hwf_project_line_499,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Books for library,5127-14,HoG I,
+hwf_project_line_500,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Student uniform,5127-15,HoG I,
+hwf_project_line_501,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Teacher uniform,5127-16,HoG I,
+hwf_project_line_502,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Teacher supplies,5127-17,HoG I,
+hwf_project_line_503,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Prize for outstanding student,5127-18,HoG I,3000
+hwf_project_line_504,[Rays of Hope School] Ah Yon Oo Leaning Center,Supplies & teaching resource: Others,5127-19,HoG I,
+hwf_project_line_505,[Rays of Hope School] Ah Yon Oo Leaning Center,Utilities: Sanitation,5127-20,HoG I,1250
+hwf_project_line_506,[Rays of Hope School] Ah Yon Oo Leaning Center,Utilities: Electricity,5127-21,HoG I,12000
+hwf_project_line_507,[Rays of Hope School] Ah Yon Oo Leaning Center,Utilities: Drinking water,5127-22,HoG I,
+hwf_project_line_508,[Rays of Hope School] Ah Yon Oo Leaning Center,Utilities: Used water,5127-23,HoG I,
+hwf_project_line_509,[Rays of Hope School] Ah Yon Oo Leaning Center,Utilities: Telephone fee,5127-24,HoG I,
+hwf_project_line_510,[Rays of Hope School] Ah Yon Oo Leaning Center,Utilities: Internet fee,5127-25,HoG I,
+hwf_project_line_511,[Rays of Hope School] Ah Yon Oo Leaning Center,Utilities: Others,5127-26,HoG I,
+hwf_project_line_512,[Rays of Hope School] Ah Yon Oo Leaning Center,Facilities: House/ building / land Rent,5127-27,HoG I,30000
+hwf_project_line_513,[Rays of Hope School] Ah Yon Oo Leaning Center,Facilities: Maintenance and school improvement,5127-28,HoG I,2000
+hwf_project_line_514,[Rays of Hope School] Ah Yon Oo Leaning Center,Facilities: Construction,5127-29,HoG I,
+hwf_project_line_515,[Rays of Hope School] Ah Yon Oo Leaning Center,Facilities: Security & Emergency,5127-30,HoG I,
+hwf_project_line_516,[Rays of Hope School] Ah Yon Oo Leaning Center,Facilities: Others,5127-31,HoG I,
+hwf_project_line_517,[Rays of Hope School] Ah Yon Oo Leaning Center,Equipment & Furniture: School / Class room/ library equipment,5127-32,HoG I,
+hwf_project_line_518,[Rays of Hope School] Ah Yon Oo Leaning Center,Equipment & Furniture: School / Class room/ library furniture,5127-33,HoG I,
+hwf_project_line_519,[Rays of Hope School] Ah Yon Oo Leaning Center,"Equipment & Furniture: Computer, Comunication & accessories",5127-34,HoG I,
+hwf_project_line_520,[Rays of Hope School] Ah Yon Oo Leaning Center,Equipment & Furniture: Equipment for vocational training,5127-35,HoG I,
+hwf_project_line_521,[Rays of Hope School] Ah Yon Oo Leaning Center,Equipment & Furniture: Sport equipment,5127-36,HoG I,
+hwf_project_line_522,[Rays of Hope School] Ah Yon Oo Leaning Center,Equipment & Furniture: Musical instrument & Technical devices,5127-37,HoG I,
+hwf_project_line_523,[Rays of Hope School] Ah Yon Oo Leaning Center,Equipment & Furniture: Kitchen & Eating equipment,5127-38,HoG I,
+hwf_project_line_524,[Rays of Hope School] Ah Yon Oo Leaning Center,Equipment & Furniture: Others,5127-39,HoG I,
+hwf_project_line_525,[Rays of Hope School] Ah Yon Oo Leaning Center,Transportation: Car / Bus / Truck rent,5127-40,HoG I,80000
+hwf_project_line_526,[Rays of Hope School] Ah Yon Oo Leaning Center,Transportation: Maintenance / repair,5127-41,HoG I,
+hwf_project_line_527,[Rays of Hope School] Ah Yon Oo Leaning Center,Transportation: Gasoline / Petrol,5127-42,HoG I,
+hwf_project_line_528,[Rays of Hope School] Ah Yon Oo Leaning Center,Transportation: Insurance / Tax,5127-43,HoG I,
+hwf_project_line_529,[Rays of Hope School] Ah Yon Oo Leaning Center,Transportation: Others,5127-44,HoG I,
+hwf_project_line_530,[Rays of Hope School] Ah Yon Oo Leaning Center,Social activity: Cultural event,5127-45,HoG I,
+hwf_project_line_531,[Rays of Hope School] Ah Yon Oo Leaning Center,Social activity: Special day /event,5127-46,HoG I,
+hwf_project_line_532,[Rays of Hope School] Ah Yon Oo Leaning Center,Social activity: Sport event,5127-47,HoG I,
+hwf_project_line_533,[Rays of Hope School] Ah Yon Oo Leaning Center,Social activity: Field Trip,5127-48,HoG I,
+hwf_project_line_534,[Rays of Hope School] Ah Yon Oo Leaning Center,Social activity: Prize for sport & culture event,5127-49,HoG I,
+hwf_project_line_535,[Rays of Hope School] Ah Yon Oo Leaning Center,Social activity: Others,5127-50,HoG I,
+hwf_project_line_536,[Rays of Hope School] Ah Yon Oo Leaning Center,Food: Rice,5127-51,HoG I,
+hwf_project_line_537,[Rays of Hope School] Ah Yon Oo Leaning Center,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5127-52,HoG I,
+hwf_project_line_538,[Rays of Hope School] Ah Yon Oo Leaning Center,Food: Ingredients,5127-53,HoG I,
+hwf_project_line_539,[Rays of Hope School] Ah Yon Oo Leaning Center,Food: Snack,5127-54,HoG I,
+hwf_project_line_540,[Rays of Hope School] Ah Yon Oo Leaning Center,Food: Charcoal,5127-55,HoG I,
+hwf_project_line_541,[Rays of Hope School] Ah Yon Oo Leaning Center,Food: Others,5127-56,HoG I,
+hwf_project_line_542,[Rays of Hope School] Ah Yon Oo Leaning Center,Medical & Health care: First Aid Kit provided by HwF,5127-57,HoG I,
+hwf_project_line_543,[Rays of Hope School] Ah Yon Oo Leaning Center,Medical & Health care: Medical supply,5127-58,HoG I,
+hwf_project_line_544,[Rays of Hope School] Ah Yon Oo Leaning Center,Medical & Health care: Vitamin,5127-59,HoG I,
+hwf_project_line_545,[Rays of Hope School] Ah Yon Oo Leaning Center,Medical & Health care: Milk,5127-60,HoG I,
+hwf_project_line_546,[Rays of Hope School] Ah Yon Oo Leaning Center,Medical & Health care: Personal hygiene & Toiletries,5127-61,HoG I,4272
+hwf_project_line_547,[Rays of Hope School] Ah Yon Oo Leaning Center,Medical & Health care: Health education / Training,5127-62,HoG I,
+hwf_project_line_548,[Rays of Hope School] Ah Yon Oo Leaning Center,Medical & Health care: Others,5127-63,HoG I,
+hwf_project_line_549,[Rays of Hope School] Ah Yon Oo Leaning Center,Capacity building: Teacher training/ workshop,5127-64,HoG I,
+hwf_project_line_550,[Rays of Hope School] Ah Yon Oo Leaning Center,Capacity building: Teacher Meeting,5127-65,HoG I,
+hwf_project_line_551,[Rays of Hope School] Ah Yon Oo Leaning Center,Capacity building: Parent visiting/ meeting,5127-66,HoG I,
+hwf_project_line_552,[Rays of Hope School] Ah Yon Oo Leaning Center,Capacity building: Others,5127-67,HoG I,
+hwf_project_line_553,[Rays of Hope School] Ah Yon Oo Leaning Center,Miscellaneous : Miscellaneous,5127-68,HoG I,
+hwf_project_line_554,[Rays of Hope School] Ah Yon Oo Leaning Center,Ah Yon Oo (other donor),5127-69,HoG I,
+hwf_project_line_555,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Director,5128-01,HoG I,
+hwf_project_line_556,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Head master,5128-02,HoG I,59400
+hwf_project_line_557,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Senior Teacher,5128-03,HoG I,108000
+hwf_project_line_558,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Junior Teacher,5128-04,HoG I,216000
+hwf_project_line_559,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Specific teacher,5128-05,HoG I,48000
+hwf_project_line_560,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Cook,5128-06,HoG I,
+hwf_project_line_561,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Guard / Dormitory,5128-07,HoG I,
+hwf_project_line_562,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Driver,5128-08,HoG I,
+hwf_project_line_563,[Rays of Hope School] Pa Yan Daw Leaning Center,Salary: Other Staff,5128-09,HoG I,
+hwf_project_line_564,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Stationery,5128-10,HoG I,10000
+hwf_project_line_565,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Textbook / Exercise book,5128-11,HoG I,
+hwf_project_line_566,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Craft / Art / Vocational training materials,5128-12,HoG I,
+hwf_project_line_567,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Sport supplies,5128-13,HoG I,1975
+hwf_project_line_568,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Books for library,5128-14,HoG I,
+hwf_project_line_569,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Student uniform,5128-15,HoG I,
+hwf_project_line_570,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Teacher uniform,5128-16,HoG I,
+hwf_project_line_571,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Teacher supplies,5128-17,HoG I,
+hwf_project_line_572,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Prize for outstanding student,5128-18,HoG I,3000
+hwf_project_line_573,[Rays of Hope School] Pa Yan Daw Leaning Center,Supplies & teaching resource: Others,5128-19,HoG I,
+hwf_project_line_574,[Rays of Hope School] Pa Yan Daw Leaning Center,Utilities: Sanitation,5128-20,HoG I,1780
+hwf_project_line_575,[Rays of Hope School] Pa Yan Daw Leaning Center,Utilities: Electricity,5128-21,HoG I,24000
+hwf_project_line_576,[Rays of Hope School] Pa Yan Daw Leaning Center,Utilities: Drinking water,5128-22,HoG I,
+hwf_project_line_577,[Rays of Hope School] Pa Yan Daw Leaning Center,Utilities: Used water,5128-23,HoG I,24000
+hwf_project_line_578,[Rays of Hope School] Pa Yan Daw Leaning Center,Utilities: Telephone fee,5128-24,HoG I,
+hwf_project_line_579,[Rays of Hope School] Pa Yan Daw Leaning Center,Utilities: Internet fee,5128-25,HoG I,
+hwf_project_line_580,[Rays of Hope School] Pa Yan Daw Leaning Center,Utilities: Others,5128-26,HoG I,
+hwf_project_line_581,[Rays of Hope School] Pa Yan Daw Leaning Center,Facilities: House/ building / land Rent,5128-27,HoG I,
+hwf_project_line_582,[Rays of Hope School] Pa Yan Daw Leaning Center,Facilities: Maintenance and school improvement,5128-28,HoG I,5000
+hwf_project_line_583,[Rays of Hope School] Pa Yan Daw Leaning Center,Facilities: Construction,5128-29,HoG I,
+hwf_project_line_584,[Rays of Hope School] Pa Yan Daw Leaning Center,Facilities: Security & Emergency,5128-30,HoG I,
+hwf_project_line_585,[Rays of Hope School] Pa Yan Daw Leaning Center,Facilities: Others,5128-31,HoG I,
+hwf_project_line_586,[Rays of Hope School] Pa Yan Daw Leaning Center,Equipment & Furniture: School / Class room/ library equipment,5128-32,HoG I,
+hwf_project_line_587,[Rays of Hope School] Pa Yan Daw Leaning Center,Equipment & Furniture: School / Class room/ library furniture,5128-33,HoG I,
+hwf_project_line_588,[Rays of Hope School] Pa Yan Daw Leaning Center,"Equipment & Furniture: Computer, Comunication & accessories",5128-34,HoG I,
+hwf_project_line_589,[Rays of Hope School] Pa Yan Daw Leaning Center,Equipment & Furniture: Equipment for vocational training,5128-35,HoG I,
+hwf_project_line_590,[Rays of Hope School] Pa Yan Daw Leaning Center,Equipment & Furniture: Sport equipment,5128-36,HoG I,
+hwf_project_line_591,[Rays of Hope School] Pa Yan Daw Leaning Center,Equipment & Furniture: Musical instrument & Technical devices,5128-37,HoG I,
+hwf_project_line_592,[Rays of Hope School] Pa Yan Daw Leaning Center,Equipment & Furniture: Kitchen & Eating equipment,5128-38,HoG I,
+hwf_project_line_593,[Rays of Hope School] Pa Yan Daw Leaning Center,Equipment & Furniture: Others,5128-39,HoG I,
+hwf_project_line_594,[Rays of Hope School] Pa Yan Daw Leaning Center,Transportation: Car / Bus / Truck rent,5128-40,HoG I,
+hwf_project_line_595,[Rays of Hope School] Pa Yan Daw Leaning Center,Transportation: Maintenance / repair,5128-41,HoG I,
+hwf_project_line_596,[Rays of Hope School] Pa Yan Daw Leaning Center,Transportation: Gasoline / Petrol,5128-42,HoG I,
+hwf_project_line_597,[Rays of Hope School] Pa Yan Daw Leaning Center,Transportation: Insurance / Tax,5128-43,HoG I,
+hwf_project_line_598,[Rays of Hope School] Pa Yan Daw Leaning Center,Transportation: Others,5128-44,HoG I,
+hwf_project_line_599,[Rays of Hope School] Pa Yan Daw Leaning Center,Social activity: Cultural event,5128-45,HoG I,
+hwf_project_line_600,[Rays of Hope School] Pa Yan Daw Leaning Center,Social activity: Special day /event,5128-46,HoG I,
+hwf_project_line_601,[Rays of Hope School] Pa Yan Daw Leaning Center,Social activity: Sport event,5128-47,HoG I,
+hwf_project_line_602,[Rays of Hope School] Pa Yan Daw Leaning Center,Social activity: Field Trip,5128-48,HoG I,
+hwf_project_line_603,[Rays of Hope School] Pa Yan Daw Leaning Center,Social activity: Prize for sport & culture event,5128-49,HoG I,
+hwf_project_line_604,[Rays of Hope School] Pa Yan Daw Leaning Center,Social activity: Others,5128-50,HoG I,
+hwf_project_line_605,[Rays of Hope School] Pa Yan Daw Leaning Center,Food: Rice,5128-51,HoG I,
+hwf_project_line_606,[Rays of Hope School] Pa Yan Daw Leaning Center,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5128-52,HoG I,
+hwf_project_line_607,[Rays of Hope School] Pa Yan Daw Leaning Center,Food: Ingredients,5128-53,HoG I,
+hwf_project_line_608,[Rays of Hope School] Pa Yan Daw Leaning Center,Food: Snack,5128-54,HoG I,
+hwf_project_line_609,[Rays of Hope School] Pa Yan Daw Leaning Center,Food: Charcoal,5128-55,HoG I,
+hwf_project_line_610,[Rays of Hope School] Pa Yan Daw Leaning Center,Food: Others,5128-56,HoG I,
+hwf_project_line_611,[Rays of Hope School] Pa Yan Daw Leaning Center,Medical & Health care: First Aid Kit provided by HwF,5128-57,HoG I,
+hwf_project_line_612,[Rays of Hope School] Pa Yan Daw Leaning Center,Medical & Health care: Medical supply,5128-58,HoG I,
+hwf_project_line_613,[Rays of Hope School] Pa Yan Daw Leaning Center,Medical & Health care: Vitamin,5128-59,HoG I,
+hwf_project_line_614,[Rays of Hope School] Pa Yan Daw Leaning Center,Medical & Health care: Milk,5128-60,HoG I,
+hwf_project_line_615,[Rays of Hope School] Pa Yan Daw Leaning Center,Medical & Health care: Personal hygiene & Toiletries,5128-61,HoG I,7120
+hwf_project_line_616,[Rays of Hope School] Pa Yan Daw Leaning Center,Medical & Health care: Health education / Training,5128-62,HoG I,
+hwf_project_line_617,[Rays of Hope School] Pa Yan Daw Leaning Center,Medical & Health care: Others,5128-63,HoG I,
+hwf_project_line_618,[Rays of Hope School] Pa Yan Daw Leaning Center,Capacity building: Teacher training/ workshop,5128-64,HoG I,
+hwf_project_line_619,[Rays of Hope School] Pa Yan Daw Leaning Center,Capacity building: Teacher Meeting,5128-65,HoG I,
+hwf_project_line_620,[Rays of Hope School] Pa Yan Daw Leaning Center,Capacity building: Parent visiting/ meeting,5128-66,HoG I,
+hwf_project_line_621,[Rays of Hope School] Pa Yan Daw Leaning Center,Capacity building: Others,5128-67,HoG I,
+hwf_project_line_622,[Rays of Hope School] Pa Yan Daw Leaning Center,Miscellaneous : Miscellaneous,5128-68,HoG I,
+hwf_project_line_623,[Rays of Hope School] Pa Yan Daw Leaning Center,Pa Yan Daw (other donor),5128-69,HoG I,
+hwf_project_line_624,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Director,5129-01,HoG I,
+hwf_project_line_625,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Head master,5129-02,HoG I,48000
+hwf_project_line_626,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Senior Teacher,5129-03,HoG I,
+hwf_project_line_627,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Junior Teacher,5129-04,HoG I,180000
+hwf_project_line_628,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Specific teacher,5129-05,HoG I,48000
+hwf_project_line_629,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Cook,5129-06,HoG I,
+hwf_project_line_630,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Guard / Dormitory,5129-07,HoG I,
+hwf_project_line_631,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Driver,5129-08,HoG I,
+hwf_project_line_632,[Rays of Hope School] Naung Boh Deh Leaning Center,Salary: Other Staff,5129-09,HoG I,
+hwf_project_line_633,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Stationery,5129-10,HoG I,5000
+hwf_project_line_634,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Textbook / Exercise book,5129-11,HoG I,
+hwf_project_line_635,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Craft / Art / Vocational training materials,5129-12,HoG I,
+hwf_project_line_636,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Sport supplies,5129-13,HoG I,1425
+hwf_project_line_637,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Books for library,5129-14,HoG I,
+hwf_project_line_638,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Student uniform,5129-15,HoG I,
+hwf_project_line_639,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Teacher uniform,5129-16,HoG I,
+hwf_project_line_640,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Teacher supplies,5129-17,HoG I,
+hwf_project_line_641,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Prize for outstanding student,5129-18,HoG I,3000
+hwf_project_line_642,[Rays of Hope School] Naung Boh Deh Leaning Center,Supplies & teaching resource: Others,5129-19,HoG I,
+hwf_project_line_643,[Rays of Hope School] Naung Boh Deh Leaning Center,Utilities: Sanitation,5129-20,HoG I,1250
+hwf_project_line_644,[Rays of Hope School] Naung Boh Deh Leaning Center,Utilities: Electricity,5129-21,HoG I,19200
+hwf_project_line_645,[Rays of Hope School] Naung Boh Deh Leaning Center,Utilities: Drinking water,5129-22,HoG I,
+hwf_project_line_646,[Rays of Hope School] Naung Boh Deh Leaning Center,Utilities: Used water,5129-23,HoG I,12000
+hwf_project_line_647,[Rays of Hope School] Naung Boh Deh Leaning Center,Utilities: Telephone fee,5129-24,HoG I,
+hwf_project_line_648,[Rays of Hope School] Naung Boh Deh Leaning Center,Utilities: Internet fee,5129-25,HoG I,
+hwf_project_line_649,[Rays of Hope School] Naung Boh Deh Leaning Center,Utilities: Others,5129-26,HoG I,
+hwf_project_line_650,[Rays of Hope School] Naung Boh Deh Leaning Center,Facilities: House/ building / land Rent,5129-27,HoG I,
+hwf_project_line_651,[Rays of Hope School] Naung Boh Deh Leaning Center,Facilities: Maintenance and school improvement,5129-28,HoG I,2000
+hwf_project_line_652,[Rays of Hope School] Naung Boh Deh Leaning Center,Facilities: Construction,5129-29,HoG I,
+hwf_project_line_653,[Rays of Hope School] Naung Boh Deh Leaning Center,Facilities: Security & Emergency,5129-30,HoG I,
+hwf_project_line_654,[Rays of Hope School] Naung Boh Deh Leaning Center,Facilities: Others,5129-31,HoG I,
+hwf_project_line_655,[Rays of Hope School] Naung Boh Deh Leaning Center,Equipment & Furniture: School / Class room/ library equipment,5129-32,HoG I,
+hwf_project_line_656,[Rays of Hope School] Naung Boh Deh Leaning Center,Equipment & Furniture: School / Class room/ library furniture,5129-33,HoG I,
+hwf_project_line_657,[Rays of Hope School] Naung Boh Deh Leaning Center,"Equipment & Furniture: Computer, Comunication & accessories",5129-34,HoG I,
+hwf_project_line_658,[Rays of Hope School] Naung Boh Deh Leaning Center,Equipment & Furniture: Equipment for vocational training,5129-35,HoG I,
+hwf_project_line_659,[Rays of Hope School] Naung Boh Deh Leaning Center,Equipment & Furniture: Sport equipment,5129-36,HoG I,
+hwf_project_line_660,[Rays of Hope School] Naung Boh Deh Leaning Center,Equipment & Furniture: Musical instrument & Technical devices,5129-37,HoG I,
+hwf_project_line_661,[Rays of Hope School] Naung Boh Deh Leaning Center,Equipment & Furniture: Kitchen & Eating equipment,5129-38,HoG I,
+hwf_project_line_662,[Rays of Hope School] Naung Boh Deh Leaning Center,Equipment & Furniture: Others,5129-39,HoG I,
+hwf_project_line_663,[Rays of Hope School] Naung Boh Deh Leaning Center,Transportation: Car / Bus / Truck rent,5129-40,HoG I,
+hwf_project_line_664,[Rays of Hope School] Naung Boh Deh Leaning Center,Transportation: Maintenance / repair,5129-41,HoG I,
+hwf_project_line_665,[Rays of Hope School] Naung Boh Deh Leaning Center,Transportation: Gasoline / Petrol,5129-42,HoG I,
+hwf_project_line_666,[Rays of Hope School] Naung Boh Deh Leaning Center,Transportation: Insurance / Tax,5129-43,HoG I,
+hwf_project_line_667,[Rays of Hope School] Naung Boh Deh Leaning Center,Transportation: Others,5129-44,HoG I,
+hwf_project_line_668,[Rays of Hope School] Naung Boh Deh Leaning Center,Social activity: Cultural event,5129-45,HoG I,
+hwf_project_line_669,[Rays of Hope School] Naung Boh Deh Leaning Center,Social activity: Special day /event,5129-46,HoG I,
+hwf_project_line_670,[Rays of Hope School] Naung Boh Deh Leaning Center,Social activity: Sport event,5129-47,HoG I,
+hwf_project_line_671,[Rays of Hope School] Naung Boh Deh Leaning Center,Social activity: Field Trip,5129-48,HoG I,
+hwf_project_line_672,[Rays of Hope School] Naung Boh Deh Leaning Center,Social activity: Prize for sport & culture event,5129-49,HoG I,
+hwf_project_line_673,[Rays of Hope School] Naung Boh Deh Leaning Center,Social activity: Others,5129-50,HoG I,
+hwf_project_line_674,[Rays of Hope School] Naung Boh Deh Leaning Center,Food: Rice,5129-51,HoG I,
+hwf_project_line_675,[Rays of Hope School] Naung Boh Deh Leaning Center,Food: Vegetable / Meat/ Fish/ Egg/ Fruit,5129-52,HoG I,
+hwf_project_line_676,[Rays of Hope School] Naung Boh Deh Leaning Center,Food: Ingredients,5129-53,HoG I,
+hwf_project_line_677,[Rays of Hope School] Naung Boh Deh Leaning Center,Food: Snack,5129-54,HoG I,
+hwf_project_line_678,[Rays of Hope School] Naung Boh Deh Leaning Center,Food: Charcoal,5129-55,HoG I,
+hwf_project_line_679,[Rays of Hope School] Naung Boh Deh Leaning Center,Food: Others,5129-56,HoG I,
+hwf_project_line_680,[Rays of Hope School] Naung Boh Deh Leaning Center,Medical & Health care: First Aid Kit provided by HwF,5129-57,HoG I,
+hwf_project_line_681,[Rays of Hope School] Naung Boh Deh Leaning Center,Medical & Health care: Medical supply,5129-58,HoG I,
+hwf_project_line_682,[Rays of Hope School] Naung Boh Deh Leaning Center,Medical & Health care: Vitamin,5129-59,HoG I,
+hwf_project_line_683,[Rays of Hope School] Naung Boh Deh Leaning Center,Medical & Health care: Milk,5129-60,HoG I,
+hwf_project_line_684,[Rays of Hope School] Naung Boh Deh Leaning Center,Medical & Health care: Personal hygiene & Toiletries,5129-61,HoG I,4272
+hwf_project_line_685,[Rays of Hope School] Naung Boh Deh Leaning Center,Medical & Health care: Health education / Training,5129-62,HoG I,
+hwf_project_line_686,[Rays of Hope School] Naung Boh Deh Leaning Center,Medical & Health care: Others,5129-63,HoG I,
+hwf_project_line_687,[Rays of Hope School] Naung Boh Deh Leaning Center,Capacity building: Teacher training/ workshop,5129-64,HoG I,
+hwf_project_line_688,[Rays of Hope School] Naung Boh Deh Leaning Center,Capacity building: Teacher Meeting,5129-65,HoG I,
+hwf_project_line_689,[Rays of Hope School] Naung Boh Deh Leaning Center,Capacity building: Parent visiting/ meeting,5129-66,HoG I,
+hwf_project_line_690,[Rays of Hope School] Naung Boh Deh Leaning Center,Capacity building: Others,5129-67,HoG I,
+hwf_project_line_691,[Rays of Hope School] Naung Boh Deh Leaning Center,Miscellaneous : Miscellaneous,5129-68,HoG I,
+hwf_project_line_692,[Rays of Hope School] Naung Boh Deh Leaning Center,Naung Boh Deh (other donor),5129-69,HoG I,
+hwf_project_line_693,[Activity] Stationery,Stationery - Buy Centrally,5131-01,"Regione Suedtirol Trentino",800000
+hwf_project_line_694,[Activity] Stationery,Teaching material emergency,5131-02,,
+hwf_project_line_695,[Activity] Stationery,Buy Centrally(other donors),5131-03,,
+hwf_project_line_696,[Activity] Scholarship,Scholarship for Rays of Hope school student,5132-01,HoG I,20000
+hwf_project_line_697,[Activity] Scholarship,Transportation,5132-02,HoG I,
+hwf_project_line_699,[Activity] Meetings,Monthly headmaster,5133-01,HoG I,10000
+hwf_project_line_700,[Activity] Meetings,Teacher seminar,5133-02,HoG I,15000
+hwf_project_line_701,[Activity] Meetings,Teacher study tour,5133-03,HoG I,20000
+hwf_project_line_702,[Activity] Meetings,Posten Orientation,5133-04,HoG I,20000
+hwf_project_line_703,"[Activity] Training,Workshop,Course",Circus,5134-01,HoG I,2000
+hwf_project_line_704,"[Activity] Training,Workshop,Course",Summer courses,5134-02,HoG I,30000
+hwf_project_line_705,"[Activity] Training,Workshop,Course",Computer courses,5134-03,HoG I,10000
+hwf_project_line_706,"[Activity] Training,Workshop,Course",Student exchange,5134-04,HoG I,5000
+hwf_project_line_707,"[Activity] Training,Workshop,Course",Language course for teacher & student,5134-05,HoG I,10000
+hwf_project_line_708,"[Activity] Training,Workshop,Course",Caretaker (other donor),5134-06,HoG I,
+hwf_project_line_709,[Activity] Vocational training,Cooking,5135-01,HoG I,10000
+hwf_project_line_710,[Activity] Vocational training,Sewing,5135-02,HoG I,10000
+hwf_project_line_711,[Activity] Vocational training,Vocational training/Other interested course,5135-03,HoG I,20000
+hwf_project_line_712,[Activity] Activity,Student fellowship day,5136-01,HoG I,30000
+hwf_project_line_713,[Activity] Activity,"Events (Culture, Sports)",5136-02,HoG I,20000
+hwf_project_line_714,[Activity] Activity,Activities with children (football/Swim),5136-03,HoG I,5000
+hwf_project_line_715,"[Activity] Contribution to other project, training",English special course ESC (No Pho Camp),5137-01,HoG I,
+hwf_project_line_716,"[Activity] Contribution to other project, training",Other,5137-02,HoG I,
+hwf_project_line_717,[Activity] Networking,Gifts&small donations,5138-01,HoG I,20000
+hwf_project_line_718,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Salary Director,5141-01,HoG I,
+hwf_project_line_719,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Salary Head master,5141-02,HoG I,
+hwf_project_line_720,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Salary Cook,5141-03,HoG I,
+hwf_project_line_721,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Salary Guard / Domitory,5141-04,HoG I,
+hwf_project_line_722,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Salary Driver,5141-05,HoG I,
+hwf_project_line_723,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Salary Other Staff,5141-06,HoG I,
+hwf_project_line_724,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Supplies & teaching resource Domitory supplies,5141-07,HoG I,
+hwf_project_line_725,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Supplies & teaching resource Others,5141-08,HoG I,
+hwf_project_line_726,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Utilities Sanitation,5141-09,HoG I,
+hwf_project_line_727,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Utilities Electricity,5141-10,HoG I,
+hwf_project_line_728,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Utilities Drinking water,5141-11,HoG I,
+hwf_project_line_729,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Utilities Used water,5141-12,HoG I,
+hwf_project_line_730,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Utilities Others,5141-13,HoG I,
+hwf_project_line_731,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Facilities House/ building / land Rent,5141-14,HoG I,
+hwf_project_line_732,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Facilities Maintenance and dormitory improvement,5141-15,HoG I,
+hwf_project_line_733,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Facilities Construction,5141-16,HoG I,
+hwf_project_line_734,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Facilities Security & Emergency,5141-17,HoG I,
+hwf_project_line_735,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Facilities Others,5141-18,HoG I,
+hwf_project_line_736,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Equipment & Furniture Dormitory equipment,5141-19,HoG I,
+hwf_project_line_737,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Equipment & Furniture Dormitory furniture,5141-20,HoG I,
+hwf_project_line_738,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Equipment & Furniture Sport equipment,5141-21,HoG I,
+hwf_project_line_739,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Equipment & Furniture Kitchen & Eating equipment,5141-22,HoG I,
+hwf_project_line_740,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Equipment & Furniture Others,5141-23,HoG I,
+hwf_project_line_741,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Transportation Car / Bus / Truck rent,5141-24,HoG I,
+hwf_project_line_742,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Transportation Maintenance / repair,5141-25,HoG I,
+hwf_project_line_743,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Transportation Gasoline / Petrol,5141-26,HoG I,
+hwf_project_line_744,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Transportation Insurance / Tax,5141-27,HoG I,
+hwf_project_line_745,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Transportation Others,5141-28,HoG I,
+hwf_project_line_746,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Food Rice,5141-29,HoG I,
+hwf_project_line_747,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5141-30,HoG I,
+hwf_project_line_748,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Food Ingredients,5141-31,HoG I,
+hwf_project_line_749,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Food Snack,5141-32,HoG I,
+hwf_project_line_750,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Food Charcoal,5141-33,HoG I,
+hwf_project_line_751,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Food Others,5141-34,HoG I,
+hwf_project_line_752,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Medical & Health care First Aid Kit provided by HwF,5141-35,HoG I,
+hwf_project_line_753,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Medical & Health care Medical supply,5141-36,HoG I,
+hwf_project_line_754,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Medical & Health care Vitamine,5141-37,HoG I,
+hwf_project_line_755,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Medical & Health care Milk,5141-38,HoG I,
+hwf_project_line_756,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Medical & Health care Personal hygiene & Toiletries,5141-39,HoG I,
+hwf_project_line_757,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Medical & Health care Health education / Training,5141-40,HoG I,
+hwf_project_line_758,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Medical & Health care Others,5141-41,HoG I,
+hwf_project_line_759,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Miscellanous Miscellanous,5141-42,HoG I,
+hwf_project_line_760,[Ray of Hope Dormitories] Ah Yone Thit Dormitory,Ah Yone Thit Dormitory (other donor),5141-43,HoG I,
+hwf_project_line_761,[Ray of Hope Dormitories] BHSOH Dormitory,Salary Director,5142-01,HoG I,
+hwf_project_line_762,[Ray of Hope Dormitories] BHSOH Dormitory,Salary Head master,5142-02,HoG I,
+hwf_project_line_763,[Ray of Hope Dormitories] BHSOH Dormitory,Salary Cook,5142-03,HoG I,
+hwf_project_line_764,[Ray of Hope Dormitories] BHSOH Dormitory,Salary Guard / Domitory,5142-04,HoG I,
+hwf_project_line_765,[Ray of Hope Dormitories] BHSOH Dormitory,Salary Driver,5142-05,HoG I,
+hwf_project_line_766,[Ray of Hope Dormitories] BHSOH Dormitory,Salary Other Staff,5142-06,HoG I,
+hwf_project_line_767,[Ray of Hope Dormitories] BHSOH Dormitory,Supplies & teaching resource Domitory supplies,5142-07,HoG I,
+hwf_project_line_768,[Ray of Hope Dormitories] BHSOH Dormitory,Supplies & teaching resource Others,5142-08,HoG I,
+hwf_project_line_769,[Ray of Hope Dormitories] BHSOH Dormitory,Utilities Sanitation,5142-09,HoG I,
+hwf_project_line_770,[Ray of Hope Dormitories] BHSOH Dormitory,Utilities Electricity,5142-10,HoG I,
+hwf_project_line_771,[Ray of Hope Dormitories] BHSOH Dormitory,Utilities Drinking water,5142-11,HoG I,
+hwf_project_line_772,[Ray of Hope Dormitories] BHSOH Dormitory,Utilities Used water,5142-12,HoG I,
+hwf_project_line_773,[Ray of Hope Dormitories] BHSOH Dormitory,Utilities Others,5142-13,HoG I,
+hwf_project_line_774,[Ray of Hope Dormitories] BHSOH Dormitory,Facilities House/ building / land Rent,5142-14,HoG I,
+hwf_project_line_775,[Ray of Hope Dormitories] BHSOH Dormitory,Facilities Maintenance and dormitory improvement,5142-15,HoG I,
+hwf_project_line_776,[Ray of Hope Dormitories] BHSOH Dormitory,Facilities Construction,5142-16,HoG I,
+hwf_project_line_777,[Ray of Hope Dormitories] BHSOH Dormitory,Facilities Security & Emergency,5142-17,HoG I,
+hwf_project_line_778,[Ray of Hope Dormitories] BHSOH Dormitory,Facilities Others,5142-18,HoG I,
+hwf_project_line_779,[Ray of Hope Dormitories] BHSOH Dormitory,Equipment & Furniture Dormitory equipment,5142-19,HoG I,
+hwf_project_line_780,[Ray of Hope Dormitories] BHSOH Dormitory,Equipment & Furniture Dormitory furniture,5142-20,HoG I,
+hwf_project_line_781,[Ray of Hope Dormitories] BHSOH Dormitory,Equipment & Furniture Sport equipment,5142-21,HoG I,
+hwf_project_line_782,[Ray of Hope Dormitories] BHSOH Dormitory,Equipment & Furniture Kitchen & Eating equipment,5142-22,HoG I,
+hwf_project_line_783,[Ray of Hope Dormitories] BHSOH Dormitory,Equipment & Furniture Others,5142-23,HoG I,
+hwf_project_line_784,[Ray of Hope Dormitories] BHSOH Dormitory,Transportation Car / Bus / Truck rent,5142-24,HoG I,
+hwf_project_line_785,[Ray of Hope Dormitories] BHSOH Dormitory,Transportation Maintenance / repair,5142-25,HoG I,
+hwf_project_line_786,[Ray of Hope Dormitories] BHSOH Dormitory,Transportation Gasoline / Petrol,5142-26,HoG I,
+hwf_project_line_787,[Ray of Hope Dormitories] BHSOH Dormitory,Transportation Insurance / Tax,5142-27,HoG I,
+hwf_project_line_788,[Ray of Hope Dormitories] BHSOH Dormitory,Transportation Others,5142-28,HoG I,
+hwf_project_line_789,[Ray of Hope Dormitories] BHSOH Dormitory,Food Rice,5142-29,HoG I,
+hwf_project_line_790,[Ray of Hope Dormitories] BHSOH Dormitory,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5142-30,HoG I,
+hwf_project_line_791,[Ray of Hope Dormitories] BHSOH Dormitory,Food Ingredients,5142-31,HoG I,
+hwf_project_line_792,[Ray of Hope Dormitories] BHSOH Dormitory,Food Snack,5142-32,HoG I,
+hwf_project_line_793,[Ray of Hope Dormitories] BHSOH Dormitory,Food Charcoal,5142-33,HoG I,
+hwf_project_line_794,[Ray of Hope Dormitories] BHSOH Dormitory,Food Others,5142-34,HoG I,
+hwf_project_line_795,[Ray of Hope Dormitories] BHSOH Dormitory,Medical & Health care First Aid Kit provided by HwF,5142-35,HoG I,
+hwf_project_line_796,[Ray of Hope Dormitories] BHSOH Dormitory,Medical & Health care Medical supply,5142-36,HoG I,
+hwf_project_line_797,[Ray of Hope Dormitories] BHSOH Dormitory,Medical & Health care Vitamine,5142-37,HoG I,
+hwf_project_line_798,[Ray of Hope Dormitories] BHSOH Dormitory,Medical & Health care Milk,5142-38,HoG I,
+hwf_project_line_799,[Ray of Hope Dormitories] BHSOH Dormitory,Medical & Health care Personal hygiene & Toiletries,5142-39,HoG I,
+hwf_project_line_800,[Ray of Hope Dormitories] BHSOH Dormitory,Medical & Health care Health education / Training,5142-40,HoG I,
+hwf_project_line_801,[Ray of Hope Dormitories] BHSOH Dormitory,Medical & Health care Others,5142-41,HoG I,
+hwf_project_line_802,[Ray of Hope Dormitories] BHSOH Dormitory,Miscellanous Miscellanous,5142-42,HoG I,
+hwf_project_line_803,[Ray of Hope Dormitories] BHSOH Dormitory,BHSOH Dormitory (other donor),5142-43,HoG I,
+hwf_project_line_804,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Salary Director,5143-01,HoG I,
+hwf_project_line_805,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Salary Head master,5143-02,HoG I,
+hwf_project_line_806,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Salary Cook,5143-03,HoG I,
+hwf_project_line_807,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Salary Guard / Domitory,5143-04,HoG I,
+hwf_project_line_808,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Salary Driver,5143-05,HoG I,
+hwf_project_line_809,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Salary Other Staff,5143-06,HoG I,
+hwf_project_line_810,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Supplies & teaching resource Domitory supplies,5143-07,HoG I,
+hwf_project_line_811,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Supplies & teaching resource Others,5143-08,HoG I,
+hwf_project_line_812,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Utilities Sanitation,5143-09,HoG I,
+hwf_project_line_813,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Utilities Electricity,5143-10,HoG I,
+hwf_project_line_814,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Utilities Drinking water,5143-11,HoG I,
+hwf_project_line_815,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Utilities Used water,5143-12,HoG I,
+hwf_project_line_816,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Utilities Others,5143-13,HoG I,
+hwf_project_line_817,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Facilities House/ building / land Rent,5143-14,HoG I,
+hwf_project_line_818,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Facilities Maintenance and dormitory improvement,5143-15,HoG I,
+hwf_project_line_819,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Facilities Construction,5143-16,HoG I,
+hwf_project_line_820,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Facilities Security & Emergency,5143-17,HoG I,
+hwf_project_line_821,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Facilities Others,5143-18,HoG I,
+hwf_project_line_822,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Equipment & Furniture Dormitory equipment,5143-19,HoG I,
+hwf_project_line_823,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Equipment & Furniture Dormitory furniture,5143-20,HoG I,
+hwf_project_line_824,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Equipment & Furniture Sport equipment,5143-21,HoG I,
+hwf_project_line_825,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Equipment & Furniture Kitchen & Eating equipment,5143-22,HoG I,
+hwf_project_line_826,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Equipment & Furniture Others,5143-23,HoG I,
+hwf_project_line_827,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Transportation Car / Bus / Truck rent,5143-24,HoG I,
+hwf_project_line_828,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Transportation Maintenance / repair,5143-25,HoG I,
+hwf_project_line_829,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Transportation Gasoline / Petrol,5143-26,HoG I,
+hwf_project_line_830,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Transportation Insurance / Tax,5143-27,HoG I,
+hwf_project_line_831,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Transportation Others,5143-28,HoG I,
+hwf_project_line_832,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Food Rice,5143-29,HoG I,
+hwf_project_line_833,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5143-30,HoG I,
+hwf_project_line_834,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Food Ingredients,5143-31,HoG I,
+hwf_project_line_835,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Food Snack,5143-32,HoG I,
+hwf_project_line_836,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Food Charcoal,5143-33,HoG I,
+hwf_project_line_837,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Food Others,5143-34,HoG I,
+hwf_project_line_838,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Medical & Health care First Aid Kit provided by HwF,5143-35,HoG I,
+hwf_project_line_839,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Medical & Health care Medical supply,5143-36,HoG I,
+hwf_project_line_840,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Medical & Health care Vitamine,5143-37,HoG I,
+hwf_project_line_841,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Medical & Health care Milk,5143-38,HoG I,
+hwf_project_line_842,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Medical & Health care Personal hygiene & Toiletries,5143-39,HoG I,
+hwf_project_line_843,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Medical & Health care Health education / Training,5143-40,HoG I,
+hwf_project_line_844,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Medical & Health care Others,5143-41,HoG I,
+hwf_project_line_845,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,Miscellanous Miscellanous,5143-42,HoG I,
+hwf_project_line_846,[Ray of Hope Dormitories] Pa Yan Daw Dormitory,PYD Dormitory (other donor),5143-43,HoG I,
+hwf_project_line_847,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Salary Director,5144-01,HoG I,
+hwf_project_line_848,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Salary Head master,5144-02,HoG I,
+hwf_project_line_849,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Salary Cook,5144-03,HoG I,
+hwf_project_line_850,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Salary Guard / Domitory,5144-04,HoG I,
+hwf_project_line_851,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Salary Driver,5144-05,HoG I,
+hwf_project_line_852,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Salary Other Staff,5144-06,HoG I,
+hwf_project_line_853,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Supplies & teaching resource Domitory supplies,5144-07,HoG I,
+hwf_project_line_854,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Supplies & teaching resource Others,5144-08,HoG I,
+hwf_project_line_855,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Utilities Sanitation,5144-09,HoG I,
+hwf_project_line_856,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Utilities Electricity,5144-10,HoG I,
+hwf_project_line_857,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Utilities Drinking water,5144-11,HoG I,
+hwf_project_line_858,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Utilities Used water,5144-12,HoG I,
+hwf_project_line_859,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Utilities Others,5144-13,HoG I,
+hwf_project_line_860,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Facilities House/ building / land Rent,5144-14,HoG I,
+hwf_project_line_861,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Facilities Maintenance and dormitory improvement,5144-15,HoG I,
+hwf_project_line_862,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Facilities Construction,5144-16,HoG I,
+hwf_project_line_863,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Facilities Security & Emergency,5144-17,HoG I,
+hwf_project_line_864,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Facilities Others,5144-18,HoG I,
+hwf_project_line_865,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Equipment & Furniture Dormitory equipment,5144-19,HoG I,
+hwf_project_line_866,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Equipment & Furniture Dormitory furniture,5144-20,HoG I,
+hwf_project_line_867,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Equipment & Furniture Sport equipment,5144-21,HoG I,
+hwf_project_line_868,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Equipment & Furniture Kitchen & Eating equipment,5144-22,HoG I,
+hwf_project_line_869,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Equipment & Furniture Others,5144-23,HoG I,
+hwf_project_line_870,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Transportation Car / Bus / Truck rent,5144-24,HoG I,
+hwf_project_line_871,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Transportation Maintenance / repair,5144-25,HoG I,
+hwf_project_line_872,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Transportation Gasoline / Petrol,5144-26,HoG I,
+hwf_project_line_873,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Transportation Insurance / Tax,5144-27,HoG I,
+hwf_project_line_874,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Transportation Others,5144-28,HoG I,
+hwf_project_line_875,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Food Rice,5144-29,HoG I,
+hwf_project_line_876,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5144-30,HoG I,
+hwf_project_line_877,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Food Ingredients,5144-31,HoG I,
+hwf_project_line_878,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Food Snack,5144-32,HoG I,
+hwf_project_line_879,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Food Charcoal,5144-33,HoG I,
+hwf_project_line_880,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Food Others,5144-34,HoG I,
+hwf_project_line_881,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Medical & Health care First Aid Kit provided by HwF,5144-35,HoG I,
+hwf_project_line_882,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Medical & Health care Medical supply,5144-36,HoG I,
+hwf_project_line_883,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Medical & Health care Vitamine,5144-37,HoG I,
+hwf_project_line_884,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Medical & Health care Milk,5144-38,HoG I,
+hwf_project_line_885,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Medical & Health care Personal hygiene & Toiletries,5144-39,HoG I,
+hwf_project_line_886,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Medical & Health care Health education / Training,5144-40,HoG I,
+hwf_project_line_887,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Medical & Health care Others,5144-41,HoG I,
+hwf_project_line_888,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,Miscellanous Miscellanous,5144-42,HoG I,
+hwf_project_line_889,[Ray of Hope Dormitories] Naung Boh Deh Dormitory,PYD Dormitory (other donor),5144-43,HoG I,
+hwf_project_line_890,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Salary Director,5145-01,HoG I,
+hwf_project_line_891,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Salary Head master,5145-02,HoG I,
+hwf_project_line_892,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Salary Cook,5145-03,HoG I,
+hwf_project_line_893,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Salary Guard / Domitory,5145-04,HoG I,
+hwf_project_line_894,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Salary Driver,5145-05,HoG I,
+hwf_project_line_895,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Salary Other Staff,5145-06,HoG I,
+hwf_project_line_896,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Supplies & teaching resource Domitory supplies,5145-07,HoG I,
+hwf_project_line_897,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Supplies & teaching resource Others,5145-08,HoG I,
+hwf_project_line_898,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Utilities Sanitation,5145-09,HoG I,
+hwf_project_line_899,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Utilities Electricity,5145-10,HoG I,
+hwf_project_line_900,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Utilities Drinking water,5145-11,HoG I,
+hwf_project_line_901,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Utilities Used water,5145-12,HoG I,
+hwf_project_line_902,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Utilities Others,5145-13,HoG I,
+hwf_project_line_903,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Facilities House/ building / land Rent,5145-14,HoG I,
+hwf_project_line_904,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Facilities Maintenance and dormitory improvement,5145-15,HoG I,
+hwf_project_line_905,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Facilities Construction,5145-16,HoG I,
+hwf_project_line_906,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Facilities Security & Emergency,5145-17,HoG I,
+hwf_project_line_907,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Facilities Others,5145-18,HoG I,
+hwf_project_line_908,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Equipment & Furniture Dormitory equipment,5145-19,HoG I,
+hwf_project_line_909,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Equipment & Furniture Dormitory furniture,5145-20,HoG I,
+hwf_project_line_910,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Equipment & Furniture Sport equipment,5145-21,HoG I,
+hwf_project_line_911,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Equipment & Furniture Kitchen & Eating equipment,5145-22,HoG I,
+hwf_project_line_912,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Equipment & Furniture Others,5145-23,HoG I,
+hwf_project_line_913,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Transportation Car / Bus / Truck rent,5145-24,HoG I,
+hwf_project_line_914,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Transportation Maintenance / repair,5145-25,HoG I,
+hwf_project_line_915,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Transportation Gasoline / Petrol,5145-26,HoG I,
+hwf_project_line_916,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Transportation Insurance / Tax,5145-27,HoG I,
+hwf_project_line_917,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Transportation Others,5145-28,HoG I,
+hwf_project_line_918,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Food Rice,5145-29,HoG I,
+hwf_project_line_919,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Food Vegetable / Meat/ Fish/ Egg/ Fruit,5145-30,HoG I,
+hwf_project_line_920,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Food Ingredients,5145-31,HoG I,
+hwf_project_line_921,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Food Snack,5145-32,HoG I,
+hwf_project_line_922,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Food Charcoal,5145-33,HoG I,
+hwf_project_line_923,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Food Others,5145-34,HoG I,
+hwf_project_line_924,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Medical & Health care First Aid Kit provided by HwF,5145-35,HoG I,
+hwf_project_line_925,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Medical & Health care Medical supply,5145-36,HoG I,
+hwf_project_line_926,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Medical & Health care Vitamine,5145-37,HoG I,
+hwf_project_line_927,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Medical & Health care Milk,5145-38,HoG I,
+hwf_project_line_928,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Medical & Health care Personal hygiene & Toiletries,5145-39,HoG I,
+hwf_project_line_929,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Medical & Health care Health education / Training,5145-40,HoG I,
+hwf_project_line_930,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Medical & Health care Others,5145-41,HoG I,
+hwf_project_line_931,[Ray of Hope Dormitories] Naung Boh Deh(other donor),Miscellanous Miscellanous,5145-42,HoG I,
+hwf_project_line_932,[Ray of Hope Dormitories] Naung Boh Deh(other donor),NBD Dormitory (other donor),5145-43,HoG I,
+hwf_project_line_933,[Ray of Hope Dormitories] Paramii,Salary Director,5146-01,HoG I,
+hwf_project_line_934,[Ray of Hope Dormitories] Paramii,Salary Head master,5146-02,HoG I,
+hwf_project_line_935,[Ray of Hope Dormitories] Paramii,Salary Cook,5146-03,HoG I,
+hwf_project_line_936,[Ray of Hope Dormitories] Paramii,Salary Guard / Domitory,5146-04,HoG I,
+hwf_project_line_937,[Ray of Hope Dormitories] Paramii,Salary Driver,5146-05,HoG I,
+hwf_project_line_938,[Ray of Hope Dormitories] Paramii,Salary Other Staff,5146-06,HoG I,
+hwf_project_line_939,[Ray of Hope Dormitories] Paramii,Supplies & teaching resource Domitory supplies,5146-07,HoG I,
+hwf_project_line_940,[Ray of Hope Dormitories] Paramii,Supplies & teaching resource Others,5146-08,HoG I,
+hwf_project_line_941,[Ray of Hope Dormitories] Paramii,Utilities Sanitation,5146-09,HoG I,
+hwf_project_line_942,[Ray of Hope Dormitories] Paramii,Utilities Electricity,5146-10,HoG I,
+hwf_project_line_943,[Ray of Hope Dormitories] Paramii,Utilities Drinking water,5146-11,HoG I,
+hwf_project_line_944,[Ray of Hope Dormitories] Paramii,Utilities Used water,5146-12,HoG I,
+hwf_project_line_945,[Ray of Hope Dormitories] Paramii,Utilities Others,5146-13,HoG I,
+hwf_project_line_946,[Ray of Hope Dormitories] Paramii,Facilities House/ building / land Rent,5146-14,HoG I,
+hwf_project_line_947,[Ray of Hope Dormitories] Paramii,Facilities Maintenance and dormitory improvement,5146-15,HoG I,
+hwf_project_line_948,[Ray of Hope Dormitories] Paramii,Facilities Construction,5146-16,HoG I,
+hwf_project_line_949,[Ray of Hope Dormitories] Paramii,Facilities Security & Emergency,5146-17,HoG I,
+hwf_project_line_950,[Ray of Hope Dormitories] Paramii,Facilities Others,5146-18,HoG I,
+hwf_project_line_951,[Ray of Hope Dormitories] Paramii,Equipment & Furniture Dormitory equipment,5146-19,HoG I,
+hwf_project_line_952,[Ray of Hope Dormitories] Paramii,Equipment & Furniture Dormitory furniture,5146-20,HoG I,
+hwf_project_line_953,[Ray of Hope Dormitories] Paramii,Equipment & Furniture Sport equipment,5146-21,HoG I,
+hwf_project_line_954,[Ray of Hope Dormitories] Paramii,Equipment & Furniture Kitchen & Eating equipment,5146-22,HoG I,
+hwf_project_line_955,[Ray of Hope Dormitories] Paramii,Equipment & Furniture Others,5146-23,HoG I,
+hwf_project_line_956,[Ray of Hope Dormitories] Paramii,Transportation Car / Bus / Truck rent,5146-24,HoG I,
+hwf_project_line_957,[Ray of Hope Dormitories] Paramii,Transportation Maintenance / repair,5146-25,HoG I,
+hwf_project_line_958,[Ray of Hope Dormitories] Paramii,Transportation Gasoline / Petrol,5146-26,HoG I,
+hwf_project_line_959,[Ray of Hope Dormitories] Paramii,Transportation Insurance / Tax,5146-27,HoG I,
+hwf_project_line_960,[Ray of Hope Dormitories] Paramii,Transportation Others,5146-28,HoG I,
+hwf_project_line_961,[Ray of Hope Dormitories] Paramii,Food Rice,5146-29,HoG I,
+hwf_project_line_962,[Ray of Hope Dormitories] Paramii,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5146-30,HoG I,
+hwf_project_line_963,[Ray of Hope Dormitories] Paramii,Food Ingredients,5146-31,HoG I,
+hwf_project_line_964,[Ray of Hope Dormitories] Paramii,Food Snack,5146-32,HoG I,
+hwf_project_line_965,[Ray of Hope Dormitories] Paramii,Food Charcoal,5146-33,HoG I,
+hwf_project_line_966,[Ray of Hope Dormitories] Paramii,Food Others,5146-34,HoG I,
+hwf_project_line_967,[Ray of Hope Dormitories] Paramii,Medical & Health care First Aid Kit provided by HwF,5146-35,HoG I,
+hwf_project_line_968,[Ray of Hope Dormitories] Paramii,Medical & Health care Medical supply,5146-36,HoG I,
+hwf_project_line_969,[Ray of Hope Dormitories] Paramii,Medical & Health care Vitamine,5146-37,HoG I,
+hwf_project_line_970,[Ray of Hope Dormitories] Paramii,Medical & Health care Milk,5146-38,HoG I,
+hwf_project_line_971,[Ray of Hope Dormitories] Paramii,Medical & Health care Personal hygiene & Toiletries,5146-39,HoG I,
+hwf_project_line_972,[Ray of Hope Dormitories] Paramii,Medical & Health care Health education / Training,5146-40,HoG I,
+hwf_project_line_973,[Ray of Hope Dormitories] Paramii,Medical & Health care Others,5146-41,HoG I,
+hwf_project_line_974,[Ray of Hope Dormitories] Paramii,Miscellanous Miscellanous,5146-42,HoG I,
+hwf_project_line_975,[Ray of Hope Dormitories] Paramii,PRM Dormitory (other donor),5146-43,HoG I,
+hwf_project_line_976,[Ray of Hope Dormitories] Children Home,Salary Director,5147-01,HoG I,
+hwf_project_line_977,[Ray of Hope Dormitories] Children Home,Salary Head master,5147-02,HoG I,
+hwf_project_line_978,[Ray of Hope Dormitories] Children Home,Salary Cook,5147-03,HoG I,
+hwf_project_line_979,[Ray of Hope Dormitories] Children Home,Salary Guard / Domitory,5147-04,HoG I,
+hwf_project_line_980,[Ray of Hope Dormitories] Children Home,Salary Driver,5147-05,HoG I,
+hwf_project_line_981,[Ray of Hope Dormitories] Children Home,Salary Other Staff,5147-06,HoG I,
+hwf_project_line_982,[Ray of Hope Dormitories] Children Home,Supplies & teaching resource Domitory supplies,5147-07,HoG I,
+hwf_project_line_983,[Ray of Hope Dormitories] Children Home,Supplies & teaching resource Others,5147-08,HoG I,
+hwf_project_line_984,[Ray of Hope Dormitories] Children Home,Utilities Sanitation,5147-09,HoG I,
+hwf_project_line_985,[Ray of Hope Dormitories] Children Home,Utilities Electricity,5147-10,HoG I,
+hwf_project_line_986,[Ray of Hope Dormitories] Children Home,Utilities Drinking water,5147-11,HoG I,
+hwf_project_line_987,[Ray of Hope Dormitories] Children Home,Utilities Used water,5147-12,HoG I,
+hwf_project_line_988,[Ray of Hope Dormitories] Children Home,Utilities Others,5147-13,HoG I,
+hwf_project_line_989,[Ray of Hope Dormitories] Children Home,Facilities House/ building / land Rent,5147-14,HoG I,
+hwf_project_line_990,[Ray of Hope Dormitories] Children Home,Facilities Maintenance and dormitory improvement,5147-15,HoG I,
+hwf_project_line_991,[Ray of Hope Dormitories] Children Home,Facilities Construction,5147-16,HoG I,
+hwf_project_line_992,[Ray of Hope Dormitories] Children Home,Facilities Security & Emergency,5147-17,HoG I,
+hwf_project_line_993,[Ray of Hope Dormitories] Children Home,Facilities Others,5147-18,HoG I,
+hwf_project_line_994,[Ray of Hope Dormitories] Children Home,Equipment & Furniture Dormitory equipment,5147-19,HoG I,
+hwf_project_line_995,[Ray of Hope Dormitories] Children Home,Equipment & Furniture Dormitory furniture,5147-20,HoG I,
+hwf_project_line_996,[Ray of Hope Dormitories] Children Home,Equipment & Furniture Sport equipment,5147-21,HoG I,
+hwf_project_line_997,[Ray of Hope Dormitories] Children Home,Equipment & Furniture Kitchen & Eating equipment,5147-22,HoG I,
+hwf_project_line_998,[Ray of Hope Dormitories] Children Home,Equipment & Furniture Others,5147-23,HoG I,
+hwf_project_line_999,[Ray of Hope Dormitories] Children Home,Transportation Car / Bus / Truck rent,5147-24,HoG I,
+hwf_project_line_1000,[Ray of Hope Dormitories] Children Home,Transportation Maintenance / repair,5147-25,HoG I,
+hwf_project_line_1001,[Ray of Hope Dormitories] Children Home,Transportation Gasoline / Petrol,5147-26,HoG I,
+hwf_project_line_1002,[Ray of Hope Dormitories] Children Home,Transportation Insurance / Tax,5147-27,HoG I,
+hwf_project_line_1003,[Ray of Hope Dormitories] Children Home,Transportation Others,5147-28,HoG I,
+hwf_project_line_1004,[Ray of Hope Dormitories] Children Home,Food Rice,5147-29,HoG I,
+hwf_project_line_1005,[Ray of Hope Dormitories] Children Home,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5147-30,HoG I,
+hwf_project_line_1006,[Ray of Hope Dormitories] Children Home,Food Ingredients,5147-31,HoG I,
+hwf_project_line_1007,[Ray of Hope Dormitories] Children Home,Food Snack,5147-32,HoG I,
+hwf_project_line_1008,[Ray of Hope Dormitories] Children Home,Food Charcoal,5147-33,HoG I,
+hwf_project_line_1009,[Ray of Hope Dormitories] Children Home,Food Others,5147-34,HoG I,
+hwf_project_line_1010,[Ray of Hope Dormitories] Children Home,Medical & Health care First Aid Kit provided by HwF,5147-35,HoG I,
+hwf_project_line_1011,[Ray of Hope Dormitories] Children Home,Medical & Health care Medical supply,5147-36,HoG I,
+hwf_project_line_1012,[Ray of Hope Dormitories] Children Home,Medical & Health care Vitamine,5147-37,HoG I,
+hwf_project_line_1013,[Ray of Hope Dormitories] Children Home,Medical & Health care Milk,5147-38,HoG I,
+hwf_project_line_1014,[Ray of Hope Dormitories] Children Home,Medical & Health care Personal hygiene & Toiletries,5147-39,HoG I,
+hwf_project_line_1015,[Ray of Hope Dormitories] Children Home,Medical & Health care Health education / Training,5147-40,HoG I,
+hwf_project_line_1016,[Ray of Hope Dormitories] Children Home,Medical & Health care Others,5147-41,HoG I,
+hwf_project_line_1017,[Ray of Hope Dormitories] Children Home,Miscellanous Miscellanous,5147-42,HoG I,
+hwf_project_line_1018,[Ray of Hope Dormitories] Children Home,Children Home Dormitory (other donor),5147-43,HoG I,
+hwf_project_line_1019,[Ray of Hope Dormitories] Mae La Dormitory,Salary Director,5148-01,HoG I,
+hwf_project_line_1020,[Ray of Hope Dormitories] Mae La Dormitory,Salary Head master,5148-02,HoG I,
+hwf_project_line_1021,[Ray of Hope Dormitories] Mae La Dormitory,Salary Cook,5148-03,HoG I,
+hwf_project_line_1022,[Ray of Hope Dormitories] Mae La Dormitory,Salary Guard / Domitory,5148-04,HoG I,
+hwf_project_line_1023,[Ray of Hope Dormitories] Mae La Dormitory,Salary Driver,5148-05,HoG I,
+hwf_project_line_1024,[Ray of Hope Dormitories] Mae La Dormitory,Salary Other Staff,5148-06,HoG I,
+hwf_project_line_1025,[Ray of Hope Dormitories] Mae La Dormitory,Supplies & teaching resource Domitory supplies,5148-07,HoG I,
+hwf_project_line_1026,[Ray of Hope Dormitories] Mae La Dormitory,Supplies & teaching resource Others,5148-08,HoG I,
+hwf_project_line_1027,[Ray of Hope Dormitories] Mae La Dormitory,Utilities Sanitation,5148-09,HoG I,
+hwf_project_line_1028,[Ray of Hope Dormitories] Mae La Dormitory,Utilities Electricity,5148-10,HoG I,
+hwf_project_line_1029,[Ray of Hope Dormitories] Mae La Dormitory,Utilities Drinking water,5148-11,HoG I,
+hwf_project_line_1030,[Ray of Hope Dormitories] Mae La Dormitory,Utilities Used water,5148-12,HoG I,
+hwf_project_line_1031,[Ray of Hope Dormitories] Mae La Dormitory,Utilities Others,5148-13,HoG I,
+hwf_project_line_1032,[Ray of Hope Dormitories] Mae La Dormitory,Facilities House/ building / land Rent,5148-14,HoG I,
+hwf_project_line_1033,[Ray of Hope Dormitories] Mae La Dormitory,Facilities Maintenance and dormitory improvement,5148-15,HoG I,
+hwf_project_line_1034,[Ray of Hope Dormitories] Mae La Dormitory,Facilities Construction,5148-16,HoG I,
+hwf_project_line_1035,[Ray of Hope Dormitories] Mae La Dormitory,Facilities Security & Emergency,5148-17,HoG I,
+hwf_project_line_1036,[Ray of Hope Dormitories] Mae La Dormitory,Facilities Others,5148-18,HoG I,
+hwf_project_line_1037,[Ray of Hope Dormitories] Mae La Dormitory,Equipment & Furniture Dormitory equipment,5148-19,HoG I,
+hwf_project_line_1038,[Ray of Hope Dormitories] Mae La Dormitory,Equipment & Furniture Dormitory furniture,5148-20,HoG I,
+hwf_project_line_1039,[Ray of Hope Dormitories] Mae La Dormitory,Equipment & Furniture Sport equipment,5148-21,HoG I,
+hwf_project_line_1040,[Ray of Hope Dormitories] Mae La Dormitory,Equipment & Furniture Kitchen & Eating equipment,5148-22,HoG I,
+hwf_project_line_1041,[Ray of Hope Dormitories] Mae La Dormitory,Equipment & Furniture Others,5148-23,HoG I,
+hwf_project_line_1042,[Ray of Hope Dormitories] Mae La Dormitory,Transportation Car / Bus / Truck rent,5148-24,HoG I,
+hwf_project_line_1043,[Ray of Hope Dormitories] Mae La Dormitory,Transportation Maintenance / repair,5148-25,HoG I,
+hwf_project_line_1044,[Ray of Hope Dormitories] Mae La Dormitory,Transportation Gasoline / Petrol,5148-26,HoG I,
+hwf_project_line_1045,[Ray of Hope Dormitories] Mae La Dormitory,Transportation Insurance / Tax,5148-27,HoG I,
+hwf_project_line_1046,[Ray of Hope Dormitories] Mae La Dormitory,Transportation Others,5148-28,HoG I,
+hwf_project_line_1047,[Ray of Hope Dormitories] Mae La Dormitory,Food Rice,5148-29,HoG I,
+hwf_project_line_1048,[Ray of Hope Dormitories] Mae La Dormitory,Food Vegetable / Meat/ Fish/ Egg/ Fruit,5148-30,HoG I,
+hwf_project_line_1049,[Ray of Hope Dormitories] Mae La Dormitory,Food Ingredients,5148-31,HoG I,
+hwf_project_line_1050,[Ray of Hope Dormitories] Mae La Dormitory,Food Snack,5148-32,HoG I,
+hwf_project_line_1051,[Ray of Hope Dormitories] Mae La Dormitory,Food Charcoal,5148-33,HoG I,
+hwf_project_line_1052,[Ray of Hope Dormitories] Mae La Dormitory,Food Others,5148-34,HoG I,
+hwf_project_line_1053,[Ray of Hope Dormitories] Mae La Dormitory,Medical & Health care First Aid Kit provided by HwF,5148-35,HoG I,
+hwf_project_line_1054,[Ray of Hope Dormitories] Mae La Dormitory,Medical & Health care Medical supply,5148-36,HoG I,
+hwf_project_line_1055,[Ray of Hope Dormitories] Mae La Dormitory,Medical & Health care Vitamine,5148-37,HoG I,
+hwf_project_line_1056,[Ray of Hope Dormitories] Mae La Dormitory,Medical & Health care Milk,5148-38,HoG I,
+hwf_project_line_1057,[Ray of Hope Dormitories] Mae La Dormitory,Medical & Health care Personal hygiene & Toiletries,5148-39,HoG I,
+hwf_project_line_1058,[Ray of Hope Dormitories] Mae La Dormitory,Medical & Health care Health education / Training,5148-40,HoG I,
+hwf_project_line_1059,[Ray of Hope Dormitories] Mae La Dormitory,Medical & Health care Others,5148-41,HoG I,
+hwf_project_line_1060,[Ray of Hope Dormitories] Mae La Dormitory,Miscellanous Miscellanous,5148-42,HoG I,
+hwf_project_line_1061,[Ray of Hope Dormitories] Mae La Dormitory,Children Home Dormitory (other donor),5148-43,HoG I,
+hwf_project_line_1062,[Education Project assistant] Education Project assistant,Education Manager,5151-01,HoG I,240000
+hwf_project_line_1063,[Education Project assistant] Education Project assistant,Education manager assistant,5151-02,HoG I,120000
+hwf_project_line_1064,[Education Project assistant] Education Project assistant,Work permit,5151-03,HoG I,130000
+hwf_project_line_1065,[Education Project assistant] Education Project assistant,Education staff,5151-04,HoG I,25000
+hwf_project_line_1066,[Education Project assistant] Building / Construction,School Renovation,5161-01,HoG I,200000
+hwf_project_line_1067,[Education Project assistant] Appropriate Education Development,School Renovation (Regione),5161-02,,
+hwf_project_line_1068,[Education Project assistant] Appropriate Education Development,1.1 ออกแบบระเบียบวิธีวิจัย,5170-01,สสส,
+hwf_project_line_1069,[Education Project assistant] Appropriate Education Development,1.2 ประสานงานแหล่งข้อมูลทั้งฝั่งไทยและพม่า,5170-02,สสส,
+hwf_project_line_1070,[Education Project assistant] Appropriate Education Development,1.3 ดำเนินการเก็บข้อมูลการวิจัยทั้ง 2 พื้นที่,5170-03,สสส,
+hwf_project_line_1071,[Education Project assistant] Appropriate Education Development,1.4 สังเคราะห์ผลการวิจัย เพื่อนำมาพัฒนาแนวทางเชื่อมโยงการศึกษา,5170-04,สสส,
+hwf_project_line_1072,[Education Project assistant] Appropriate Education Development,1.5 จัดทำรายงานผลการวิจัย,5170-05,สสส,
+hwf_project_line_1073,[Education Project assistant] Appropriate Education Development,2.1 พัฒนาความร่วมมือและจัดตั้งคณะทำงานประกอบด้าย สพป.,5170-06,สสส,
+hwf_project_line_1074,[Education Project assistant] Appropriate Education Development,2.2 การทดลองให้เกิดกรณีตัวอย่างการเชื่อมโยงการศึกษาในวิธีการต่างๆ,5170-07,สสส,
+hwf_project_line_1075,[Education Project assistant] Appropriate Education Development,2.3 ประสานการทำงานร่วมกับองค์กรเครือข่ายที่ทำงานในประเด็นเดียวกัน,5170-08,สสส,
+hwf_project_line_1076,[Education Project assistant] Appropriate Education Development,2.4 สรุปบทเรียนผลการทดลองในศูนย์การเรียน,5170-09,สสส,
+hwf_project_line_1077,[Education Project assistant] Appropriate Education Development,3.สนับสนุนให้ศูนย์การเรียน และโรงเรียนไทยจัดทำข้อเสนอแนวทางการเชื่อมโยงการศึกษา,5170-10,สสส,
+hwf_project_line_1078,[Education Project assistant] Appropriate Education Development,4.สนับสนุนให้ กศน.กลุ่มเป้าหมายพิเศษลงพื้นที่แม่สอด,5170-11,สสส,
+hwf_project_line_1079,[Education Project assistant] Appropriate Education Development,5.ประสานการทำงานและสนับสนุนให้ กศน.แม่สอดจัดตั้งคณะทำงาน,5170-12,สสส,
+hwf_project_line_1080,[Education Project assistant] Appropriate Education Development,6.สนับสนุนและผลักดันให้ศูนย์การเรียนนำร่องร่วมกับ กศน.ทดลองใช้หลักสูตรฯ,5170-13,สสส,
+hwf_project_line_1081,[Education Project assistant] Appropriate Education Development,7.สนับสนุนให้คณะทำงานพัฒนาเนื้อหารายวิชา,5170-14,สสส,
+hwf_project_line_1082,[Education Project assistant] Appropriate Education Development,8.ร่วมกับ กศน.อำเภอแม่สอด และสพป.ตากเขต 2 พัฒนาครูผู้สอน / วิทยากร,5170-15,สสส,
+hwf_project_line_1083,[Education Project assistant] Appropriate Education Development,9.สนับสนุนให้ กศน. และศูนย์การเรียน รวบรวมข้อมูลจากการทดลองใช้หลักสูตรเป็นระยะ,5170-16,สสส,
+hwf_project_line_1084,[Education Project assistant] Appropriate Education Development,10.สนับสนุนให้คณะทำงาน ปรับปรุงหลักสูตร(เนื้อหา รูปแบบ,5170-17,สสส,
+hwf_project_line_1085,[Education Project assistant] Appropriate Education Development,11.สนับสนุนและผลักดันให้ กศน.แม่สอดและสพป.ตากเขต 2 ขยายผลการจัดการศึกษา,5170-18,สสส,
+hwf_project_line_1086,[Education Project assistant] Appropriate Education Development,12.พัฒนาศักยภาพ และสื่อสารสร้างการเรียนรู้กับผู้ปฏิบัติงาน (กศน./สพป.),5170-19,สสส,
+hwf_project_line_1087,[Education Project assistant] Appropriate Education Development,13.สื่อสารสร้างการเรียนรู้ในกลุ่มเป้าหมาย เรื่องสิทธิและความสำคัญของการศึกษา,5170-20,สสส,
+hwf_project_line_1088,[Education Project assistant] Appropriate Education Development,14.สนับสนุนให้คณะทำงานร่วมกันสรุปบทเรียนการจัดการศึกษาตามหลักสูตร,5170-21,สสส,
+hwf_project_line_1089,[Education Project assistant] Appropriate Education Development,15.ร่วมกับ สพป.แสวงหาศูนย์การเรียนที่มีความสนใจจัดการศึกษาร่วมกับ กศน.,5170-22,สสส,
+hwf_project_line_1090,[Education Project assistant] Appropriate Education Development,16.ร่วมกับ กศน.เพื่อทำความเข้าใจกับศูนย์การเรียนที่สนใจเกี่ยวกับประโยชน์ที่ศูนย์การเรียนและผู้เรียนจะได้รับ,5170-23,สสส,
+hwf_project_line_1091,[Education Project assistant] Appropriate Education Development,17.ติดตามและสนับสนุนศูนย์การเรียนที่สมัครใจทำงานร่วมกับ กศน,5170-24,สสส,
+hwf_project_line_1092,[Education Project assistant] Appropriate Education Development,18.สนับสนุนให้ศูนย์การเรียนอย่างน้อย 1 แห่งเข้าร่วมเป็นภาคีเครือข่าย กศน.แม่สอด,5170-25,สสส,
+hwf_project_line_1093,[Education Project assistant] Appropriate Education Development,19.ร่วมกับ กศน.แม่สอดและศูนย์การเรียนสรุปบทเรียนแนวทาง ขั้นตอน,5170-26,สสส,
+hwf_project_line_1094,[Education Project assistant] Appropriate Education Development,20.จัดทำคู่มือแนวทางการจัดการศึกษาของศูนย์การเรียนเด็กต่างชาติ,5170-27,สสส,
+hwf_project_line_1095,[Education Project assistant] Appropriate Education Development,ค่า บริหารจัดการแม่สอด,5170-28,สสส,
+hwf_project_line_1096,[ACCESS] Salaries,Education project cordinator,5181-01,SCI-ACESS,131400
+hwf_project_line_1097,[ACCESS] Salaries,Education project satff,5181-02,SCI-ACESS,69001.2
+hwf_project_line_1098,[ACCESS] Salaries,Director,5181-03,SCI-ACESS,162000
+hwf_project_line_1099,[ACCESS] Salaries,Finance Manager,5181-04,SCI-ACESS,119700
+hwf_project_line_1100,[ACCESS] Salaries,Logisticianist,5181-05,SCI-ACESS,48600
+hwf_project_line_1101,[ACCESS] Transportation,Petrol and car manternanc,5182-01,SCI-ACESS,120000
+hwf_project_line_1102,[ACCESS] Transportation,Per diems for staff,5182-02,SCI-ACESS,72000
+hwf_project_line_1103,[ACCESS] Transportation,Accommondation package,5182-03,SCI-ACESS,9000
+hwf_project_line_1104,[ACCESS] Transportation,Air fares,5182-04,SCI-ACESS,15000
+hwf_project_line_1105,[ACCESS] Office expenses,Office supply,5183-01,SCI-ACESS,60000
+hwf_project_line_1106,[ACCESS] Office expenses,Utilities,5183-02,SCI-ACESS,36000
+hwf_project_line_1107,[ACCESS] Office expenses,Telephone,5183-03,SCI-ACESS,18000
+hwf_project_line_1108,[ACCESS] Office expenses,Internet,5183-04,SCI-ACESS,18000
+hwf_project_line_1109,[ACCESS] Equipment,Computer,5184-01,SCI-ACESS,22000
+hwf_project_line_1110,[ACCESS] Direct Costs,Running cost (Migrant school),5185-01,SCI-ACESS,900000
+hwf_project_line_1111,[ACCESS] Direct Costs,Support (Thai school),5185-02,SCI-ACESS,200000
+hwf_project_line_1112,[ACCESS] Direct Costs,Textbooks and material,5185-03,SCI-ACESS,175000
+hwf_project_line_1113,[ACCESS] Direct Costs,Teacher capacity building,5185-04,SCI-ACESS,60000
+hwf_project_line_1114,[ACCESS] Direct Costs,Migrant School Renovation cost,5185-05,SCI-ACESS,150000
+hwf_project_line_1115,[ACCESS] Direct Costs,Meeting,5185-06,SCI-ACESS,54000
+hwf_project_line_1116,[ACCESS] Direct Costs,Audit,5185-06,SCI-ACESS,20000
+hwf_project_line_1117,[ACCESS] Direct Costs,M&E,5185-07,SCI-ACESS,50000
+hwf_project_line_1118,[ACCESS] Direct Costs,Publication,5185-08,SCI-ACESS,30000
+hwf_project_line_1119,[ACCESS] Direct Costs,Campaign,5185-09,SCI-ACESS,60000
+hwf_project_line_1120,[ACCESS] Direct Costs,Provincial Meeting,5185-10,SCI-ACESS,40000
+hwf_project_line_1121,[ACCESS] Direct Costs,Based line survey,5185-11,SCI-ACESS,30000
+hwf_project_line_1122,ROY Community Awareness Training,Human Trafficking and CRC,5201-01,HoG I,15000
+hwf_project_line_1123,ROY Community Awareness Training,Traffic Rule Training,5201-02,HoG I,21000
+hwf_project_line_1124,ROY Community Awareness Training,Life skill and Adolescence Health,5201-03,HoG I,18000
+hwf_project_line_1125,ROY Leadership Training 2nd group,Materials & Equipment,5202-01,HoG I,17000
+hwf_project_line_1126,ROY Leadership Training 2nd group,"Community visit, Study tour",5202-02,HoG I,55000
+hwf_project_line_1127,ROY Leadership Training 2nd group,Regular training (Sat),5202-03,HoG I,217200
+hwf_project_line_1128,ROY Leadership Training 1st group,Materials & Equipment,5203-01,HoG I,10000
+hwf_project_line_1129,ROY Leadership Training 1st group,"Community visit, Study Tour",5203-02,HoG I,30000
+hwf_project_line_1130,ROY Leadership Training 1st group,Fellow up,5203-03,HoG I,10000
+hwf_project_line_1131,ROY Leadership Training 1st group,Capacity building,5203-04,HoG I,50000
+hwf_project_line_1132,ROY Leadership Training 1st group,Mini Project,5203-05,HoG I,60000
+hwf_project_line_1133,ROY Media Production,Materials & Equipment,5204-01,HoG I,27100
+hwf_project_line_1134,ROY Media Production,Creative Media workshop,5204-02,HoG I,41150
+hwf_project_line_1135,ROY Media Production,ROY Media campaign,5204-03,HoG I,109500
+hwf_project_line_1136,ROY Environment,Materials & Ingredients,5205-01,HoG I,57500
+hwf_project_line_1137,ROY Environment,Natural Detergent Workshop,5205-02,HoG I,6000
+hwf_project_line_1138,ROY Campaign,Community Road Show,5206-01,HoG I,63500
+hwf_project_line_1139,ROY Meeting,Project monthly meeting,5207-01,HoG I,18000
+hwf_project_line_1140,ROY Meeting,Network meeting,5207-02,HoG I,6000
+hwf_project_line_1141,ROY Project Management,Office Equipment,5208-01,HoG I,37000
+hwf_project_line_1142,ROY Project Management,Telephone Internet,5208-02,HoG I,39000
+hwf_project_line_1143,ROY Project Management,Stationery & Materials,5208-03,HoG I,12000
+hwf_project_line_1144,ROY Project Management,Transportation,5208-04,HoG I,12000
+hwf_project_line_1145,ROY Project Management,Maintenance and Repair equipment,5208-05,HoG I,12000
+hwf_project_line_1146,ROY Project Management,Staff capacity building,5208-06,HoG I,10000
+hwf_project_line_1147,ROY Project Management,Electricity & Used water,5208-07,HoG I,21500
+hwf_project_line_1148,ROY Project Management,Cleaning supplies,5208-08,HoG I,6000
+hwf_project_line_1149,ROY Music Project,Music training,5209-01,HoG I,297660
+hwf_project_line_1150,ROY Music Project,Maintenance Improvement,5209-02,HoG I,12000
+hwf_project_line_1151,ROY Music Project,Professional Skill Course,5209-03,HoG I,50000
+hwf_project_line_1152,ROY Music Project,Music VDO production,5209-04,HoG I,24000
+hwf_project_line_1153,ROY Music Project,Music Equipment,5209-05,HoG I,50000
+hwf_project_line_1154,ROY Music Project,Outstanding Student Present,5209-06,HoG I,3000
+hwf_project_line_1155,Burma Project,Activity for School student,5210-01,HoG I,128060
+hwf_project_line_1156,Burma Project,Activity for At-Risk children and youth,5210-02,HoG I,276000
+hwf_project_line_1157,Burma Project,Training for parent and teacher,5210-03,HoG I,128000
+hwf_project_line_1158,Burma Project,Media activity,5210-04,HoG I,80000
+hwf_project_line_1159,Burma Project,Based line study,5210-05,HoG I,195000
+hwf_project_line_1160,Burma Project,Seminar Meeting Home Visit,5210-06,HoG I,70000
+hwf_project_line_1161,Burma Project,Office in Hpa An,5210-07,HoG I,132400
+hwf_project_line_1162,Burma Project,Transportation,5210-08,HoG I,165000
+hwf_project_line_1163,Burma Project,Project Management,5210-09,HoG I,239000
+hwf_project_line_1164,Staff,Coordinator,5211-01,HoG I,444000
+hwf_project_line_1165,Staff,Staff,5211-02,HoG I,283000
+hwf_project_line_1166,Staff,Volunteer,5211-03,HoG I,232500
+hwf_project_line_1167,Mae Tao Clinic,Surgical supplies & Equipment,5301-01,HoG I,
+hwf_project_line_1168,Mae Tao Clinic,Prosthetic supplies,5301-02,HoG I,164000
+hwf_project_line_1169,Mae Tao Clinic,Acupuncture department supplies & equipment,5301-03,HoG I,82000
+hwf_project_line_1170,Kathi Zeschg Clinic (PBLT),Runing cost,5302-01,HoG I,200000
+hwf_project_line_1171,Kathi Zeschg Clinic (PBLT),Extra need,5302-02,HoG I,
+hwf_project_line_1172,[ANCP] Personnel,Daungthida Phiwong (100%),5321-01,SCI-ANCP,156000
+hwf_project_line_1173,[ANCP] Personnel,Victoria T-Suchart (100%),5321-02,SCI-ANCP,168000
+hwf_project_line_1174,[ANCP] Personnel,Filed volunteer (70%),5321-03,SCI-ANCP,60000
+hwf_project_line_1175,[ANCP] Support 4 Learning Center,Teacher coordinator,5322-01,SCI-ANCP,108000
+hwf_project_line_1176,[ANCP] Support 4 Learning Center,Thai teachers,5322-02,SCI-ANCP,300000
+hwf_project_line_1177,[ANCP] Support 4 Learning Center,Burmese teachers,5322-03,SCI-ANCP,134388
+hwf_project_line_1178,[ANCP] Support 4 Learning Center,School materials/student kits,5322-04,SCI-ANCP,119000
+hwf_project_line_1179,[ANCP] Support 4 Learning Center,School equiment and supplies,5322-05,SCI-ANCP,29700
+hwf_project_line_1180,[ANCP] Support 4 Learning Center,Nutritions,5322-06,SCI-ANCP,30000
+hwf_project_line_1181,[ANCP] Support 4 Learning Center,Snacks,5322-07,SCI-ANCP,30000
+hwf_project_line_1182,[ANCP] Support 4 Learning Center,Transportation,5322-08,SCI-ANCP,29592
+hwf_project_line_1183,[ANCP] Implementing one daycare center,Care-takers,5323-01,SCI-ANCP,213120
+hwf_project_line_1184,[ANCP] Implementing one daycare center,Transportations,5323-02,SCI-ANCP,36000
+hwf_project_line_1185,[ANCP] Implementing one daycare center,Materials for children and mothers,5323-03,SCI-ANCP,118400
+hwf_project_line_1186,[ANCP] Implementing one daycare center,Nutrition foods,5323-04,SCI-ANCP,71040.48
+hwf_project_line_1187,[ANCP] Conduct mobile health care,Drug and first aid kits,5324-01,SCI-ANCP,35520
+hwf_project_line_1188,[ANCP] Conduct mobile health care,Allowance for migrant volunteers,5324-02,SCI-ANCP,108000
+hwf_project_line_1189,[ANCP] Conduct mobile health care,Transportation for community outreach workers,5324-03,SCI-ANCP,36000
+hwf_project_line_1190,[ANCP] Conduct mobile health care,Materials for training,5324-04,SCI-ANCP,5000
+hwf_project_line_1191,[ANCP] Strengthening the health referral system,Community Health Committee Meeting in 2 project areas,5325-01,SCI-ANCP,15000
+hwf_project_line_1192,[ANCP] Strengthening the health referral system,Transportation,5325-02,SCI-ANCP,8880.04
+hwf_project_line_1193,[ANCP] Strengthening the health referral system,Break and Lunch,5325-03,SCI-ANCP,12000
+hwf_project_line_1194,[ANCP] Strengthening the health referral system,Transportation for referral of patients in serious cases,5325-04,SCI-ANCP,3000
+hwf_project_line_1195,[ANCP] in-country support,Accountant/Finance (10%),5326-01,SCI-ANCP,36000
+hwf_project_line_1196,[ANCP] in-country support,Telephone,5326-02,SCI-ANCP,12795
+hwf_project_line_1197,[ANCP] Monitoring &evaluation,Siraporn Kaewsombat (25%),5327-01,SCI-ANCP,135000
+hwf_project_line_1198,[ANCP] Monitoring &evaluation,Transportation and M&E tools,5327-02,SCI-ANCP,9279.04
+hwf_project_line_1199,Eldery - โครงการผู้สูงอายุ,Activity - กิจกรรม,5330-01,Oldy-FOPDEV,
+hwf_project_line_1200,Eldery - โครงการผู้สูงอายุ,Admin Cost - ค่าจัดการ,5330-02,Oldy-FOPDEV,
+hwf_project_line_1201,Sewing workshop,Machine,5401-01,Maro,10000
+hwf_project_line_1202,Sewing workshop,Furniture & Improvement,5401-02,Maro,50000
+hwf_project_line_1203,Sewing workshop,Student uniform,5401-03,Maro,526000
+hwf_project_line_1204,Sewing workshop,Student uniform (other donor),5401-04,HoG I,
+hwf_project_line_1205,Sewing workshop,Teacher uniform,5401-05,Maro,30000
+hwf_project_line_1206,Sewing workshop,Teacher uniform (other donor),5401-06,HoG I,
+hwf_project_line_1207,Sewing workshop,Other,5401-07,HoG I,
+hwf_project_line_1208,Sewing workshop,Other (other donor),5401-08,Maro,
+hwf_project_line_1209,Sewing workshop,Rent & operation costs,5401-09,HoG I,84000
+hwf_project_line_1210,Sewing workshop,Rent & operation costs(other donor),5401-10,HoG I,
+hwf_project_line_1211,Sewing workshop,Staff Salary,5401-11,HoG I,1293800
+hwf_project_line_1212,Sewing workshop,Staff Salary (other donor),5401-12,HoG I,
+hwf_project_line_1213,Sewing workshop,Staff capacity Building,5401-13,Maro,10000
+hwf_project_line_1214,Sewing workshop,Staff capacity Building (other donor),5401-14,HoG I,
+hwf_project_line_1215,Sewing workshop,Developing Social Marketing Commercial,5401-15,Maro,300000
+hwf_project_line_1216,Sanitation assistant,Toilet,5402-01,HoG I,20000
+hwf_project_line_1217,Sanitation assistant,Sanitation assistant/Drinking water,5402-02,HoG I,10000
+hwf_project_line_1218,Emergency,General,5403-01,HoG I,
+hwf_project_line_1219,Emergency,General (other),5403-02,HoG I,
+hwf_project_line_1220,Emergency,KKB Emergency,5403-03,HoG I,60412
+hwf_project_line_1221,[Central Kitchen] Improvement and building Maintenance,Improvement and building Maintenance,5511-01,HoG I,30000
+hwf_project_line_1222,[Central Kitchen] Equipment kitchen,Gas stove,5512-01,HoG I,10200
+hwf_project_line_1223,[Central Kitchen] Equipment kitchen,Big pot,5512-02,HoG I,11600
+hwf_project_line_1224,[Central Kitchen] Equipment kitchen,Big pan,5512-03,HoG I,3800
+hwf_project_line_1225,[Central Kitchen] Equipment kitchen,Cooking utensils,5512-04,HoG I,20000
+hwf_project_line_1226,[Central Kitchen] Equipment kitchen,Food container,5512-05,HoG I,4800
+hwf_project_line_1227,[Central Kitchen] Equipment kitchen,Rice container,5512-06,HoG I,14000
+hwf_project_line_1228,[Central Kitchen] Equipment kitchen,Drinking water tank,5512-07,HoG I,4500
+hwf_project_line_1229,[Central Kitchen] Equipment kitchen,Other,5512-08,HoG I,10000
+hwf_project_line_1230,[Central Kitchen] Equipment kitchen,Other (other donor),5512-09,HoG I,
+hwf_project_line_1231,[Central Kitchen] Furniture,Office furniture,5513-01,HoG I,6600
+hwf_project_line_1232,[Central Kitchen] Furniture,Operation furniture,5513-02,HoG I,10000
+hwf_project_line_1233,[Central Kitchen] Furniture,Other,5513-03,HoG I,
+hwf_project_line_1234,[Central Kitchen] Transportation,Insurance and tax,5514-01,HoG I,63000
+hwf_project_line_1235,[Central Kitchen] Transportation,Insurance and tax (other donor),5514-02,HoG I,
+hwf_project_line_1236,[Central Kitchen] Transportation,Petrol,5514-03,HoG I,300000
+hwf_project_line_1237,[Central Kitchen] Transportation,Petrol (other donor),5514-04,HoG I,
+hwf_project_line_1238,[Central Kitchen] Transportation,Car maintenance,5514-05,HoG I,60000
+hwf_project_line_1239,[Central Kitchen] Transportation,Car maintenance (other donor),5514-06,HoG I,
+hwf_project_line_1240,[Central Kitchen] Rent and Utilities,Rent and tax,5515-01,HoG I,103000
+hwf_project_line_1241,[Central Kitchen] Rent and Utilities,Rent and tax (other donor),5515-02,HoG I,
+hwf_project_line_1242,[Central Kitchen] Rent and Utilities,Electricity,5515-03,HoG I,60000
+hwf_project_line_1243,[Central Kitchen] Rent and Utilities,Electricity (other donor),5515-04,HoG I,
+hwf_project_line_1244,[Central Kitchen] Rent and Utilities,Water/ used and waste,5515-05,HoG I,48000
+hwf_project_line_1245,[Central Kitchen] Rent and Utilities,Water/ used and waste (other donor),5515-06,HoG I,
+hwf_project_line_1246,[Central Kitchen] Rent and Utilities,Telephone,5515-07,HoG I,12000
+hwf_project_line_1247,[Central Kitchen] Rent and Utilities,Garvage collection,5515-08,HoG I,2400
+hwf_project_line_1248,[Central Kitchen] Salaries,Manager,5516-01,HoG I,140250
+hwf_project_line_1249,[Central Kitchen] Salaries,Nutritionist,5516-02,HoG I,153000
+hwf_project_line_1250,[Central Kitchen] Salaries,Cook,5516-03,HoG I,204000
+hwf_project_line_1251,[Central Kitchen] Salaries,Driver,5516-04,HoG I,204000
+hwf_project_line_1252,[Central Kitchen] Salaries,Senior Assistant,5516-05,HoG I,191250
+hwf_project_line_1253,[Central Kitchen] Salaries,Junior Assistant,5516-06,HoG I,204000
+hwf_project_line_1254,[Central Kitchen] Salaries,Logistician (share cost 70 %),5516-07,HoG I,115706.25
+hwf_project_line_1255,[Central Kitchen] Salaries,Work permit,5516-08,HoG I,30400
+hwf_project_line_1256,[Central Kitchen] Salaries,Over time work,5516-09,HoG I,120000
+hwf_project_line_1257,[Central Kitchen] Salaries,Health Check up,5516-10,HoG I,10000
+hwf_project_line_1258,[Central Kitchen] Staff Capacity building,Fire Safety& First Aid training,5517-01,HoG I,2000
+hwf_project_line_1259,[Central Kitchen] Staff Capacity building,Safety food and Nutrition training,5517-02,HoG I,25000
+hwf_project_line_1260,[Central Kitchen] Staff Capacity building,Production place visit Vegetable,5517-03,HoG I,2500
+hwf_project_line_1261,[Central Kitchen] Cooking Gas and Sanitation,Cooking gas,5518-01,HoG I,583200
+hwf_project_line_1262,[Central Kitchen] Cooking Gas and Sanitation,Plastic bag,5518-02,HoG I,93500
+hwf_project_line_1263,[Central Kitchen] Cooking Gas and Sanitation,Cleaning detergent,5518-03,HoG I,14400
+hwf_project_line_1264,[Central Kitchen] Cooking Gas and Sanitation,Cleaning and change water filter,5518-04,HoG I,36000
+hwf_project_line_1265,[Central Kitchen] Cooking Gas and Sanitation,Other,5518-05,HoG I,24000
+hwf_project_line_1266,[Central Kitchen] Food supplies,Meat / Egg,5519-01,"Regione Suedtirol Trentino",4046477.92
+hwf_project_line_1267,[Central Kitchen] Food supplies,Meat / Egg (other donor),5519-02,,
+hwf_project_line_1268,[Central Kitchen] Food supplies,Vegetable,5519-03,"Regione Suedtirol Trentino",1857098.61
+hwf_project_line_1269,[Central Kitchen] Food supplies,Vegetable (other donor),5519-04,,
+hwf_project_line_1270,[Central Kitchen] Food supplies,Ingredient,5519-05,"Regione Suedtirol Trentino",985956.48
+hwf_project_line_1271,[Central Kitchen] Food supplies,Ingredient (other donor),5519-06,,
+hwf_project_line_1272,[Central Kitchen] Food supplies,Rice,5519-07,"Regione Suedtirol Trentino",2463750
+hwf_project_line_1273,[Central Kitchen] Food supplies,Rice (other donor),5519-08,,
+hwf_project_line_1274,Nutrition,Milk & Fruit,5520-01,,
+hwf_project_line_1275,Nutrition,Nutrition education outreach,5520-02,,
+hwf_project_line_1276,Nutrition,Milk & Fruit(other donor),5520-03,,
+hwf_project_line_1277,Food supplies for school & Dormitory (not central kitchen),KM 42 : Rice,5530-01,HoG CH,90000
+hwf_project_line_1278,Food supplies for school & Dormitory (not central kitchen),KM 42 : vegetable & meat,5530-02,,
+hwf_project_line_1279,Food supplies for school & Dormitory (not central kitchen),KKB : Rice,5530-03,,
+hwf_project_line_1280,Food supplies for school & Dormitory (not central kitchen),KKB : vegetable & meat,5530-04,,
+hwf_project_line_1281,Food supplies for school & Dormitory (not central kitchen),KM 42 : Rice(other donor),5530-05,,
+hwf_project_line_1282,Food supplies for school & Dormitory (not central kitchen),KM 42 : vegetable & meat(other donor),5530-06,,
+hwf_project_line_1283,Agriculture,Organic Agriculture,5540-01,HoG CH,30000
+hwf_project_line_1284,Agriculture,"Animal raising (Fish, Pig, Chicken)",5540-02,,
+hwf_project_line_1285,Agriculture,Mushroom culture,5540-03,HoG CH,30000
+hwf_project_line_1286,Agriculture,Bio fertilizer,5540-04,HoG CH,30000
+hwf_project_line_1287,Agriculture,Rent & Operation,5540-05,,
+hwf_project_line_1288,Agriculture,Salary,5540-06,HoG CH,60000
+hwf_project_line_1289,Food-Emergency,Food Emergency,5550-01,,
+hwf_project_line_1290,Partners Responsible on Child protection,Consultation workshops with partner organisations,5601-01,SCI-UNICEF,100000
+hwf_project_line_1291,Partners Responsible on Child protection,Training on use of child protection assessment tools,5601-02,SCI-UNICEF,90000
+hwf_project_line_1292,Partners Responsible on Child protection,National training on intensive individual data collection,5601-03,SCI-UNICEF,
+hwf_project_line_1293,Partners Responsible on Child protection,Conduct of child protection assessments,5601-04,SCI-UNICEF,120000
+hwf_project_line_1294,Partners Responsible on Child protection,Verification of serious child protection cases,5601-05,SCI-UNICEF,
+hwf_project_line_1295,Partners Responsible on Child protection,Managing the data collected,5601-06,SCI-UNICEF,
+hwf_project_line_1296,"Partners Responsible identify, reach, and respond",Capacity building with local government,5602-01,SCI-UNICEF,158000
+hwf_project_line_1297,"Partners Responsible identify, reach, and respond",Follow-up training,5602-02,SCI-UNICEF,
+hwf_project_line_1298,"Partners Responsible identify, reach, and respond",Support case conference,5602-03,SCI-UNICEF,72000
+hwf_project_line_1299,"Partners Responsible identify, reach, and respond",Facilitate direct services,5602-04,SCI-UNICEF,100000
+hwf_project_line_1300,"Partners Responsible identify, reach, and respond",Support youth led initiatives,5602-05,SCI-UNICEF,84000
+hwf_project_line_1301,Consultation workshops,Meetings with CPC at district,5603-01,SCI-UNICEF,100000
+hwf_project_line_1302,Consultation workshops,Facilitation of consultations and dialogues,5603-02,SCI-UNICEF,50000
+hwf_project_line_1303,Consultation workshops,"Participate and contribute to the on-going discussions - 
+",5603-03,SCI-UNICEF,
+hwf_project_line_1304,Consultation workshops,Lobby with government,5603-04,SCI-UNICEF,
+hwf_project_line_1305,"Planning, evaluation, and partnerships",Administrative Costs,5604-01,SCI-UNICEF,100000
+hwf_project_line_1306,"Planning, evaluation, and partnerships",Electricity,5604-02,SCI-UNICEF,
+hwf_project_line_1307,"Planning, evaluation, and partnerships",Used water,5604-03,SCI-UNICEF,
+hwf_project_line_1308,"Planning, evaluation, and partnerships",Transportation,5604-04,SCI-UNICEF,
+hwf_project_line_1309,"Planning, evaluation, and partnerships",Office supplies,5604-05,SCI-UNICEF,
+hwf_project_line_1310,Utilities&Facilities,Electricity,5701-01,HoG I,42000
+hwf_project_line_1311,Utilities&Facilities,Television,5701-02,HoG I,
+hwf_project_line_1312,Utilities&Facilities,"Drinking Water, Coffee",5701-03,HoG I,6000
+hwf_project_line_1313,Utilities&Facilities,"Drinking Water, Coffee (other donor)",5701-04,HoG I,
+hwf_project_line_1314,Utilities&Facilities,Used Water,5701-05,HoG I,18000
+hwf_project_line_1315,Utilities&Facilities,Products for cleaning&sanitation,5701-06,HoG I,6000
+hwf_project_line_1316,Utilities&Facilities,Material for fixing or improvements,5701-07,HoG I,10000
+hwf_project_line_1317,Utilities&Facilities,Labor cost for fixing or improvements,5701-08,HoG I,5000
+hwf_project_line_1318,Project assistant,Director,5702-01,HoG I,490050
+hwf_project_line_1319,Project assistant,Office Manager,5702-02,HoG I,18000
+hwf_project_line_1320,Project assistant,Finance Manager,5702-03,HoG I,224100
+hwf_project_line_1321,Project assistant,Accountant,5702-04,HoG I,189000
+hwf_project_line_1322,Project assistant,Driver,5702-05,HoG I,117900
+hwf_project_line_1323,Project assistant,Office Maid,5702-06,HoG I,88200
+hwf_project_line_1324,Project assistant,IT,5702-07,HoG I,96000
+hwf_project_line_1325,Project assistant,Fund Raiser,5702-08,HoG I,240000
+hwf_project_line_1326,Project assistant,Work permit,5702-09,HoG I,15000
+hwf_project_line_1327,Project assistant,Visa,5702-10,HoG I,15000
+hwf_project_line_1328,Project assistant,Insurance / Health / Medicine / Social insurance,5702-11,HoG I,50000
+hwf_project_line_1329,Project assistant,Additional expenses salary Staff,5702-12,HoG I,10000
+hwf_project_line_1330,Project assistant,Food/Drinks voluntary helpers,5702-13,HoG I,3000
+hwf_project_line_1331,Project assistant,Thai Foundation Auditing/ Accounting,5702-14,HoG I,50000
+hwf_project_line_1332,Project assistant,"Contribution to staff saving schem (3,200 Bht X 12 months)",5702-15,HoG I,40000
+hwf_project_line_1333,Project assistant,Staff of the year,5702-16,HoG I,17000
+hwf_project_line_1334,Project assistant,Monthly allowance for Benno,5702-17,HoG I,180000
+hwf_project_line_1335,"Travels,Car,Flights&Lodging",Insurance Car,5703-01,HoG I,46000
+hwf_project_line_1336,"Travels,Car,Flights&Lodging",Tax-Car,5703-02,HoG I,10000
+hwf_project_line_1337,"Travels,Car,Flights&Lodging",Tax-Motorbike,5703-03,HoG I,1000
+hwf_project_line_1338,"Travels,Car,Flights&Lodging",Maintenance-Car,5703-04,HoG I,119000
+hwf_project_line_1339,"Travels,Car,Flights&Lodging",Maintenance-Motorbike,5703-05,HoG I,5000
+hwf_project_line_1340,"Travels,Car,Flights&Lodging",Accessories car,5703-06,HoG I,3000
+hwf_project_line_1341,"Travels,Car,Flights&Lodging",Gasoline,5703-07,HoG I,144000
+hwf_project_line_1342,"Travels,Car,Flights&Lodging","Bus, Train, Taxi",5703-08,HoG I,37000
+hwf_project_line_1343,"Travels,Car,Flights&Lodging",Car rent,5703-09,HoG I,5000
+hwf_project_line_1344,"Travels,Car,Flights&Lodging",Expressway toll,5703-10,HoG I,2000
+hwf_project_line_1345,"Travels,Car,Flights&Lodging",Hotel&lodging Thailand,5703-11,HoG I,25000
+hwf_project_line_1346,"Travels,Car,Flights&Lodging","Bus, Train, Taxi(other donor)",5703-12,HoG I,
+hwf_project_line_1347,Office supplies,Office supplies,5704-01,HoG I,6000
+hwf_project_line_1348,Office supplies,Flowers,5704-02,HoG I,1000
+hwf_project_line_1349,Office supplies,Picture prints,5704-03,HoG I,1000
+hwf_project_line_1350,Office supplies,Ink for printer/ Toner,5704-04,HoG I,10550
+hwf_project_line_1351,Office supplies,CD/ DVD,5704-05,HoG I,1000
+hwf_project_line_1352,Equipment furniture&machines (Office&House),Accessories for all,5705-01,HoG I,30000
+hwf_project_line_1353,Equipment furniture&machines (Office&House),Equipment for gardening,5705-02,HoG I,3000
+hwf_project_line_1354,Communication&shipping,"Telephone,Communications,Post",5706-01,HoG I,36000
+hwf_project_line_1355,Communication&shipping,"Telephone,Communications,Post / office BKK",5706-02,HoG I,
+hwf_project_line_1356,Communication&shipping,Internet,5706-03,HoG I,18000
+hwf_project_line_1357,Communication&shipping,Internet / office BKK,5706-04,HoG I,
+hwf_project_line_1358,Communication&shipping,Digital Camera,5706-05,HoG I,
+hwf_project_line_1359,Public relations&information,Brochures&leaflets,5707-01,HoG I,10000
+hwf_project_line_1360,Public relations&information,Business Cards,5707-02,HoG I,1000
+hwf_project_line_1361,Public relations&information,"Signs, boards&stickers",5707-03,HoG I,2000
+hwf_project_line_1362,Public relations&information,Gifts for guests&partners,5707-04,HoG I,3000
+hwf_project_line_1363,Public relations&information,News releases&fundraising,5707-05,HoG I,
+hwf_project_line_1364,Food&related costs,Restaurants&food for guests,5708-01,HoG I,18000
+hwf_project_line_1365,Food&related costs,All expenses not listed above,5708-02,HoG I,10000
+hwf_project_line_1366,Food&related costs,All expenses not listed above(other donor),5708-03,HoG I,
+hwf_project_line_1367,Events&conferences,All expenses related to specific events,5709-01,HoG I,50000
+hwf_project_line_1368,Events&conferences,All expenses related to specific events(other donor),5709-02,HoG I,
+hwf_project_line_1369,Other,Other/Exploring Burma,5710-01,HoG I,

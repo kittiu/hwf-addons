@@ -1,0 +1,87 @@
+id,project_categ_id,name
+hwf_project_1,"Schools , Training & Dormitory Project",[Special Area School] Special Area School
+hwf_project_2,"Schools , Training & Dormitory Project",[Special Area School] Burma School - Ku Don village School
+hwf_project_3,"Schools , Training & Dormitory Project",[Rays of Hope School] Ah Yone Thit
+hwf_project_4,"Schools , Training & Dormitory Project",[Rays of Hope School] BHSOH Leaning Center
+hwf_project_5,"Schools , Training & Dormitory Project",[Rays of Hope School] KM 42 Leaning Center
+hwf_project_6,"Schools , Training & Dormitory Project",[Rays of Hope School] KM 42 Leaning Center (other donors 25 %)
+hwf_project_7,"Schools , Training & Dormitory Project",[Rays of Hope School] New Day Leaning Center
+hwf_project_8,"Schools , Training & Dormitory Project",[Rays of Hope School] Paramii Leaning Center
+hwf_project_9,"Schools , Training & Dormitory Project",[Rays of Hope School] Ah Yon Oo Leaning Center
+hwf_project_10,"Schools , Training & Dormitory Project",[Rays of Hope School] Pa Yan Daw Leaning Center
+hwf_project_11,"Schools , Training & Dormitory Project",[Rays of Hope School] Naung Boh Deh Leaning Center
+hwf_project_12,"Schools , Training & Dormitory Project",[Activity] Stationery
+hwf_project_13,"Schools , Training & Dormitory Project",[Activity] Scholarship
+hwf_project_14,"Schools , Training & Dormitory Project",[Activity] Meetings
+hwf_project_15,"Schools , Training & Dormitory Project","[Activity] Training,Workshop,Course"
+hwf_project_16,"Schools , Training & Dormitory Project",[Activity] Vocational training
+hwf_project_17,"Schools , Training & Dormitory Project",[Activity] Activity
+hwf_project_18,"Schools , Training & Dormitory Project","[Activity] Contribution to other project, training"
+hwf_project_19,"Schools , Training & Dormitory Project",[Activity] Networking
+hwf_project_20,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] Ah Yone Thit Dormitory
+hwf_project_21,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] BHSOH Dormitory
+hwf_project_22,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] Pa Yan Daw Dormitory
+hwf_project_23,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] Naung Boh Deh Dormitory
+hwf_project_24,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] Naung Boh Deh(other donor)
+hwf_project_25,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] Paramii
+hwf_project_26,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] Children Home
+hwf_project_27,"Schools , Training & Dormitory Project",[Ray of Hope Dormitories] Mae La Dormitory
+hwf_project_28,"Schools , Training & Dormitory Project",[Education Project assistant] Education Project assistant
+hwf_project_29,"Schools , Training & Dormitory Project",[Education Project assistant] Building / Construction
+hwf_project_30,"Schools , Training & Dormitory Project",[Education Project assistant] Appropriate Education Development
+hwf_project_31,"Schools , Training & Dormitory Project",[ACCESS] Salaries
+hwf_project_32,"Schools , Training & Dormitory Project",[ACCESS] Transportation
+hwf_project_33,"Schools , Training & Dormitory Project",[ACCESS] Office expenses
+hwf_project_34,"Schools , Training & Dormitory Project",[ACCESS] Equipment
+hwf_project_35,"Schools , Training & Dormitory Project",[ACCESS] Direct Costs
+hwf_project_36,Rays of Youth,ROY Community Awareness Training
+hwf_project_37,Rays of Youth,ROY Leadership Training 2nd group
+hwf_project_38,Rays of Youth,ROY Leadership Training 1st group
+hwf_project_39,Rays of Youth,ROY Media Production
+hwf_project_40,Rays of Youth,ROY Environment
+hwf_project_41,Rays of Youth,ROY Campaign
+hwf_project_42,Rays of Youth,ROY Meeting
+hwf_project_43,Rays of Youth,ROY Project Management
+hwf_project_44,Rays of Youth,ROY Music Project
+hwf_project_45,Rays of Youth,Burma Project
+hwf_project_46,Rays of Youth,Staff
+hwf_project_47,Health & Medical Project,Mae Tao Clinic
+hwf_project_48,Health & Medical Project,Kathi Zeschg Clinic (PBLT)
+hwf_project_49,Health & Medical Project,[ANCP] Personnel
+hwf_project_50,Health & Medical Project,[ANCP] Support 4 Learning Center
+hwf_project_51,Health & Medical Project,[ANCP] Implementing one daycare center
+hwf_project_52,Health & Medical Project,[ANCP] Conduct mobile health care
+hwf_project_53,Health & Medical Project,[ANCP] Strengthening the health referral system
+hwf_project_54,Health & Medical Project,[ANCP] in-country support
+hwf_project_55,Health & Medical Project,[ANCP] Monitoring &evaluation
+hwf_project_56,Health & Medical Project,Eldery - โครงการผู้สูงอายุ
+hwf_project_57,Community & Income Generation Project,Sewing workshop
+hwf_project_58,Community & Income Generation Project,Sanitation assistant
+hwf_project_59,Community & Income Generation Project,Emergency
+hwf_project_60,Food and Agriculture,[Central Kitchen] Improvement and building Maintenance
+hwf_project_61,Food and Agriculture,[Central Kitchen] Equipment kitchen
+hwf_project_62,Food and Agriculture,[Central Kitchen] Furniture
+hwf_project_63,Food and Agriculture,[Central Kitchen] Transportation
+hwf_project_64,Food and Agriculture,[Central Kitchen] Rent and Utilities
+hwf_project_65,Food and Agriculture,[Central Kitchen] Salaries
+hwf_project_66,Food and Agriculture,[Central Kitchen] Staff Capacity building
+hwf_project_67,Food and Agriculture,[Central Kitchen] Cooking Gas and Sanitation
+hwf_project_68,Food and Agriculture,[Central Kitchen] Food supplies
+hwf_project_69,Food and Agriculture,Nutrition
+hwf_project_70,Food and Agriculture,Food supplies for school & Dormitory (not central kitchen)
+hwf_project_71,Food and Agriculture,Agriculture
+hwf_project_72,Food and Agriculture,Food-Emergency
+hwf_project_73,Child Protection,Partners Responsible on Child protection
+hwf_project_74,Child Protection,"Partners Responsible identify, reach, and respond"
+hwf_project_75,Child Protection,Consultation workshops
+hwf_project_76,Child Protection,"Planning, evaluation, and partnerships"
+hwf_project_77,Project Management,Utilities&Facilities
+hwf_project_78,Project Management,Project assistant
+hwf_project_79,Project Management,"Travels,Car,Flights&Lodging"
+hwf_project_80,Project Management,Office supplies
+hwf_project_81,Project Management,Equipment furniture&machines (Office&House)
+hwf_project_82,Project Management,Communication&shipping
+hwf_project_83,Project Management,Public relations&information
+hwf_project_84,Project Management,Food&related costs
+hwf_project_85,Project Management,Events&conferences
+hwf_project_86,Project Management,Other

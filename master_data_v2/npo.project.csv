@@ -1,0 +1,67 @@
+id,project_categ_id,name
+hwf_project_1,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Special Area School - โรงเรียนพื้นที่พิเศษ] Special Area School - โรงเรียนพื้นที่พิเศษ
+hwf_project_2,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Special Area School - โรงเรียนพื้นที่พิเศษ] Burma School - โรงเรียนพม่า
+hwf_project_3,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant School - ศูนย์การเรียนเด็กข้ามชาติ] Rays of Hope School - ศูนย์การเรียน
+hwf_project_4,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant School - ศูนย์การเรียนเด็กข้ามชาติ] Stationery & Book - อุปกรณ์การเรียน หนังสือ
+hwf_project_5,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant School - ศูนย์การเรียนเด็กข้ามชาติ] Scholarship - ทุนการศึกษา
+hwf_project_6,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant School - ศูนย์การเรียนเด็กข้ามชาติ] Meetings - ประชุม
+hwf_project_7,"Schools , Training & Dormitory Project - โครงการการศึกษา","[Migrant School - ศูนย์การเรียนเด็กข้ามชาติ] Training,Workshop,Course - อบรม อบรมเชิงปฏิบัติการ"
+hwf_project_8,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant School - ศูนย์การเรียนเด็กข้ามชาติ] Vocational training - อบรมม อาชีพ
+hwf_project_9,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant School - ศูนย์การเรียนเด็กข้ามชาติ] Activity - กิจกรรม
+hwf_project_10,"Schools , Training & Dormitory Project - โครงการการศึกษา","[Contribution to other project, training - สมทบ โครงการ อบรม] Contribution to other project, training - สมทบ โครงการ อบรม"
+hwf_project_11,"Schools , Training & Dormitory Project - โครงการการศึกษา","[Contribution to other project, training - สมทบ โครงการ อบรม] Networking - เครือข่าย"
+hwf_project_12,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant Dormitories - หอพัก] Ray of Hope Dormitories - หอพัก
+hwf_project_13,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Migrant Dormitories - หอพัก] Migrant Dormitories - หอพัก
+hwf_project_14,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Education Project assistant (Salary) - ค่าตอบแทน] Education Project assistant (Salary) - ค่าตอบแทน
+hwf_project_15,"Schools , Training & Dormitory Project - โครงการการศึกษา",[Building / Construction - อาคาร ก่อสร้าง ซ่อมแซม] General School Renovation ซ่อมแซม ต่อเติม ศูนย์การเรียน
+hwf_project_16,"Schools , Training & Dormitory Project - โครงการการศึกษา",Appropriate Education Development - พัฒนาระบบการศึกษาที่เหมาะสม (กศน.)
+hwf_project_17,"Schools , Training & Dormitory Project - โครงการการศึกษา",[ACCESS - โครงการ Access] Salaries - ค่าตอบแทน
+hwf_project_18,"Schools , Training & Dormitory Project - โครงการการศึกษา",[ACCESS - โครงการ Access] Transportation - ค่าเดินทาง
+hwf_project_19,"Schools , Training & Dormitory Project - โครงการการศึกษา",[ACCESS - โครงการ Access] Office expenses
+hwf_project_20,"Schools , Training & Dormitory Project - โครงการการศึกษา",[ACCESS - โครงการ Access] Equipment - เครื่องมือ
+hwf_project_21,"Schools , Training & Dormitory Project - โครงการการศึกษา",[ACCESS - โครงการ Access] Direct Costs
+hwf_project_22,Rays of Youth - โครงการเยาวชน,ROY Community Awareness Training - อบรมสร้างความตระหนักรู้
+hwf_project_23,Rays of Youth - โครงการเยาวชน,ROY Leadership Training 2nd group - สร้างผู้นำรุ่น 2
+hwf_project_24,Rays of Youth - โครงการเยาวชน,ROY Leadership Training 1st group - สร้างผู้นำรุ่น 1
+hwf_project_25,Rays of Youth - โครงการเยาวชน,ROY Media Production - ผลิตสื่อ
+hwf_project_26,Rays of Youth - โครงการเยาวชน,ROY Environment - สิ่งแวดล้อม
+hwf_project_27,Rays of Youth - โครงการเยาวชน,ROY Campaign - รณรงค์
+hwf_project_28,Rays of Youth - โครงการเยาวชน,ROY Meeting - ประชุม
+hwf_project_29,Rays of Youth - โครงการเยาวชน,ROY Project Management - บริหารจัดการโครงการ
+hwf_project_30,Rays of Youth - โครงการเยาวชน,ROY Music Project - โครงการดนตรี
+hwf_project_31,Project Management - จัดการโครงการ,ROY Burma Project - โครงการพม่า
+hwf_project_32,Rays of Youth - โครงการเยาวชน,ROY Staff - เจ้าหน้าที่
+hwf_project_33,Health & Medical Project -โครงการสุขภาพ,Mae Tao Clinic - แม่ตาวคลินิค
+hwf_project_34,Health & Medical Project -โครงการสุขภาพ,Kathi Zeschg Clinic (PBLT)
+hwf_project_35,Health & Medical Project -โครงการสุขภาพ,ANCP - โครงการสุขภาพแม่และเด็ก
+hwf_project_36,Health & Medical Project -โครงการสุขภาพ,Eldery - โครงการผู้สูงอายุ
+hwf_project_37,Community & Income Generation Project - งานชุมชนและสร้างรายได้,Sewing workshop
+hwf_project_38,Community & Income Generation Project - งานชุมชนและสร้างรายได้,Sanitation assistant
+hwf_project_39,Community & Income Generation Project - งานชุมชนและสร้างรายได้,Emergency
+hwf_project_40,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Improvement and building Maintenance
+hwf_project_41,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Equipment kitchen
+hwf_project_42,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Furniture
+hwf_project_43,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Transportation
+hwf_project_44,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Rent and Utilities
+hwf_project_45,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Salaries
+hwf_project_46,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Staff Capacity building
+hwf_project_47,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Cooking Gas and Sanitation
+hwf_project_48,Food and Agriculture - อาหาร เกษตร,[Central Kitchen] Food supplies
+hwf_project_49,Food and Agriculture - อาหาร เกษตร,Nutrition
+hwf_project_50,Food and Agriculture - อาหาร เกษตร,Food supplies for school & Dormitory (not central kitchen)
+hwf_project_51,Food and Agriculture - อาหาร เกษตร,Agriculture - เกษตร
+hwf_project_52,Food and Agriculture - อาหาร เกษตร,Food-Emergency - อาหาร ฉุกเฉิน
+hwf_project_53,Child Protection - โครงการปกป้องคุ้มครองเด็ก,Partners Responsible on Child protection - พันธมิตรตอบรับระบบปกป้องคุ้มครองเด็ก
+hwf_project_54,Child Protection - โครงการปกป้องคุ้มครองเด็ก,"Partners Responsible identify, reach, and respond  - ค้นหาและตอบรับ"
+hwf_project_55,Child Protection - โครงการปกป้องคุ้มครองเด็ก,Consultation workshops  - ประชุม หารือ
+hwf_project_56,Child Protection - โครงการปกป้องคุ้มครองเด็ก,"Planning, evaluation, and partnerships - จัดการ"
+hwf_project_57,Project Management - จัดการโครงการ,Utilities&Facilities
+hwf_project_58,Project Management - จัดการโครงการ,Project assistant
+hwf_project_59,Project Management - จัดการโครงการ,"Travels,Car,Flights&Lodging"
+hwf_project_60,Project Management - จัดการโครงการ,Office supplies
+hwf_project_61,Project Management - จัดการโครงการ,Equipment furniture&machines (Office&House)
+hwf_project_62,Project Management - จัดการโครงการ,Communication&shipping
+hwf_project_63,Project Management - จัดการโครงการ,Public relations&information
+hwf_project_64,Project Management - จัดการโครงการ,Food&related costs
+hwf_project_65,Project Management - จัดการโครงการ,Events&conferences
+hwf_project_66,Project Management - จัดการโครงการ,Other

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<openerp>
+<data>
+    <report string="Cash Register Report"
+        model="account.bank.statement"
+        auto="True"
+        name="account.bank.statement.hwf"
+        rml="jrxml_reports/custom_reports/hwf_cash_register.jrxml"
+        id="account_bank_statement_hwf" 
+        menu="True"
+        header="False"
+        />
+    <report string="Petty Cash Voucher(s)"
+        model="account.bank.statement"
+        auto="True"
+        name="account.bank.statement.hwf.s"
+        rml="jrxml_reports/custom_reports/hwf_petty_cash.jrxml"
+        id="account_bank_statement_hwf_s" 
+        menu="True"
+        header="False"
+        /></data>
+</openerp>

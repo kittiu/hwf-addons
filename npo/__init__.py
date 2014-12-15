@@ -22,3 +22,4 @@
 import npo
 import account_bank_statement
 import report
+import account_move_line

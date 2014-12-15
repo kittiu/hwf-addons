@@ -13,7 +13,9 @@
                 <field name="statement_id"/>
                 <field name="name" string="Ref"/>
                 <field name="partner_id"/>
-				<field name="date"/>                
+				<field name="date"/>          
+				<field name="doc_number"/>    
+				<field name="description"/>      
                 <field name="debit"/>
                 <field name="debit_euro"/>
                 <field name="credit"/>

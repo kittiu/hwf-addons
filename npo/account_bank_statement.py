@@ -59,8 +59,17 @@ class account_bank_statement(osv.osv):
     _defaults = {
         #'conversion_rate': _get_current_conversion_rate,
     }
+
+    def _prepare_move_line_vals(self, cr, uid, st_line, move_id, debit, credit, currency_id = False,
+                amount_currency= False, account_id = False, analytic_id = False,
+                partner_id = False, context=None):
+        res = super(account_bank_statement, self)._prepare_move_line_vals(cr, uid, st_line, move_id, debit, credit, currency_id = currency_id,
+                amount_currency= amount_currency, account_id = account_id, analytic_id = analytic_id,
+                partner_id = partner_id, context=context)
+        res.update({'doc_number': st_line.doc_number,
+                    'description': st_line.description})
+        return res
     
-  
 account_bank_statement()
 
 class account_bank_statement_line(osv.osv):

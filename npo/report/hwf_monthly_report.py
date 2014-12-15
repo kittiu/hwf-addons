@@ -86,6 +86,8 @@ class hwf_monthly_report(osv.osv):
         'project_line_id': fields.many2one('npo.project.line', 'Project Line', readonly=True),
         'project_id': fields.many2one('npo.project', 'Project', readonly=True),
         'project_categ_id': fields.many2one('npo.project.categ', 'Project Category', readonly=True),
+        'doc_number': fields.char('Ref#', readonly=True),
+        'description': fields.char('Description', size=256, readonly=True),
     }
 
     _order = 'date desc'
@@ -169,7 +171,9 @@ class hwf_monthly_report(osv.osv):
                 cr.rate,
                 project_line_id,
                 project_id,
-                project_categ_id
+                project_categ_id,
+                l.doc_number,
+                l.description
             from
                 account_move_line l
                 left join account_account a on (l.account_id = a.id)

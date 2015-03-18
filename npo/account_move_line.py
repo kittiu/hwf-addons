@@ -19,7 +19,18 @@
 #
 ##############################################################################
 
-import npo
-import account_bank_statement
-import account_move_line
-import report
+from openerp.osv import fields, osv
+
+class account_move_ine(osv.osv):
+
+    _inherit = 'account.move.line'
+    _columns = {   
+        'doc_number': fields.char('Ref#', required=False),
+        'description': fields.char('Description', size=256, required=True),
+    }
+    
+account_move_ine()
+    
+
+
+# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
